@@ -108,20 +108,23 @@ def perform_inference(model, dataloader, checkpoint_path=None):
 
             # Generate predictions
             generated_ids = model.generate(input_ids=input_ids, attention_mask=attention_mask, max_length=max_seq_length)
-            predicted_output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
-            post_processed_outputs = [decode_anl(pred) for pred in predicted_output]
+            # predicted_output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+            # pred_relations = [decode_anl(pred) for pred in predicted_output]
 
-            pred_components = [result[0] for result in post_processed_outputs]
-            pred_relations = [result[1] for result in post_processed_outputs]
+            pred_relations = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+            # pred_components = [result[0] for result in post_processed_outputs]
+            # pred_relations = [result[1] for result in post_processed_outputs]
 
             # True Labels
-            decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
-            true_outputs = [decode_anl(label) for label in decoded_labels]
+            # decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+            # true_relations = [decode_anl(label) for label in decoded_labels]
 
-            true_components = [result[0] for result in true_outputs]
-            true_relations = [result[1] for result in true_outputs]
+            true_relations = tokenizer.batch_decode(labels, skip_special_tokens=True)
+            # true_components = [result[0] for result in true_outputs]
+            # true_relations = [result[1] for result in true_outputs]
 
-            evaluator.add_batch(true_components, true_relations, pred_components, pred_relations)
+            # evaluator.add_batch(true_components, true_relations, pred_components, pred_relations)
+            evaluator.add_batch(true_relations, pred_relations)
 
         results = evaluator.evaluate()
 

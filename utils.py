@@ -59,64 +59,64 @@ import re
 #     print ("\n")
 #     return target_output
 
-def generate_anl_end_to_end(text, components, relations, entities) -> str:
-    # Add IDs to components
-    index_counter = 0
-    for component in components:
-        component['id'] = index_counter
-        index_counter += 1
+# def generate_anl_end_to_end(text, components, relations, entities) -> str:
+#     # Add IDs to components
+#     index_counter = 0
+#     for component in components:
+#         component['id'] = index_counter
+#         index_counter += 1
 
-    # Sort components by their start index
-    sorted_components = sorted(components, key=lambda x: x['start'])
+#     # Sort components by their start index
+#     sorted_components = sorted(components, key=lambda x: x['start'])
 
-    # Create a dictionary to track which component has which relations
-    relation_dict = {}
-    for relation in relations:
-        relation_type = relation['type']
-        head = relation['head']
-        tail = relation['tail']
-        if head not in relation_dict:
-            relation_dict[head] = []
-        relation_dict[head].append((relation_type, tail))
+#     # Create a dictionary to track which component has which relations
+#     relation_dict = {}
+#     for relation in relations:
+#         relation_type = relation['type']
+#         head = relation['head']
+#         tail = relation['tail']
+#         if head not in relation_dict:
+#             relation_dict[head] = []
+#         relation_dict[head].append((relation_type, tail))
 
-    # Generate the formatted output
-    formatted_output = ""
-    prev_end = 0  # Track the end of the previous span
+#     # Generate the formatted output
+#     formatted_output = ""
+#     prev_end = 0  # Track the end of the previous span
 
-    for comp in sorted_components:
-        comp_index, comp_type, comp_start, comp_end = comp['id'], comp['type'], comp['start'], comp['end']
+#     for comp in sorted_components:
+#         comp_index, comp_type, comp_start, comp_end = comp['id'], comp['type'], comp['start'], comp['end']
 
-        # Add text before the component span
-        formatted_output += text[prev_end:comp_start]
+#         # Add text before the component span
+#         formatted_output += text[prev_end:comp_start]
 
-        component_text = text[comp_start:comp_end]
-        formatted_output += f"[ {component_text} | {comp_type} "
+#         component_text = text[comp_start:comp_end]
+#         formatted_output += f"[ {component_text} | {comp_type} "
 
-        # Add relations if any
-        if comp_index in relation_dict:
-            for relation_type, tail in relation_dict[comp_index]:
-                tail_component = next(filter(lambda x: x['id'] == tail, components))
-                tail_text = text[tail_component['start']:tail_component['end']]
-                formatted_output += f"{relation_type} | {tail_text} "
+#         # Add relations if any
+#         if comp_index in relation_dict:
+#             for relation_type, tail in relation_dict[comp_index]:
+#                 tail_component = next(filter(lambda x: x['id'] == tail, components))
+#                 tail_text = text[tail_component['start']:tail_component['end']]
+#                 formatted_output += f"{relation_type} | {tail_text} "
 
-        formatted_output += "]"
-        prev_end = comp_end
+#         formatted_output += "]"
+#         prev_end = comp_end
 
-    # Add any remaining text after the last component
-    formatted_output += text[prev_end:]
+#     # Add any remaining text after the last component
+#     formatted_output += text[prev_end:]
 
-    target_output = " ".join(formatted_output.split())  # Remove extra spaces
+#     target_output = " ".join(formatted_output.split())  # Remove extra spaces
 
-    # ADD OUTCOMES ENTITIES
-    outcome_entities = [entity for item in entities if item['type'] == 'outcome' for entity in item['entity']]
-    outcome_string = ', '.join(outcome_entities)
-    outcomes = f"Outcomes: (({outcome_string}))"
+#     # ADD OUTCOMES ENTITIES
+#     outcome_entities = [entity for item in entities if item['type'] == 'outcome' for entity in item['entity']]
+#     outcome_string = ', '.join(outcome_entities)
+#     outcomes = f"Outcomes: (({outcome_string}))"
 
-    target_output = f"{outcomes}\n{target_output}"
+#     target_output = f"{outcomes}\n{target_output}"
 
-    print(target_output)
-    print("\n")
-    return target_output
+#     print(target_output)
+#     print("\n")
+#     return target_output
 
 
 
