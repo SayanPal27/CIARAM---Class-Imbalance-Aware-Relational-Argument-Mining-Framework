@@ -1,0 +1,2900 @@
+{
+    "dataset": "presidential_final",
+    "results": [
+        {
+            "dataset": "presidential_final",
+            "id": 86160191,
+            "input_sentence": "[And I have every confidence that the same Americans that delivered that historic victory in 2016, they see this president’s record where we rebuild our military.][][ And we stood with the men and women of law enforcement every single day. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 84175693,
+            "input_sentence": "[You’re the one that takes all the money from Wall Street.][][ I haven’t- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 81272476,
+            "input_sentence": "[They built the cages.][][ What happened? ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33784022,
+            "input_sentence": "[I’m talking about the Biden plan [crosstalk 00:55:51]-][][ It’s the dumbest- ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 20953207,
+            "input_sentence": "[And there are over 70,000 new cases per day.][][ If we just wore these masks, the president’s own advisors have told him, we can save a 100,000 lives. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67757237,
+            "input_sentence": "[So, you’re not going to rule it in or rule it out?][][ You pick the best people you can and you hope that what they’re going to do is they’re going to enforce the law as they see it. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39354481,
+            "input_sentence": "[He’s just afraid of counting the votes-][][ You’re wrong [crosstalk 01:06:04]. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88953460,
+            "input_sentence": "[… got criminal justice reform done, and prison reform, and Opportunity Zones, I took care of Black colleges and universities, I don’t know what to say, they can say anything, I mean, they can say anything.][][ Started off his campaign coming down the escalator saying he’s getting rid of those Mexican rapists, he’s ban Muslims because they’re Muslims, he has moved around and made everything worse across the board. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67006612,
+            "input_sentence": "[Just you watch.][][ The public option is an option that says that if you in fact do not have the wherewithal, if you qualify for Medicaid and you do not have the wherewithal in your state to get Medicaid, you automatically are enrolled, providing competition for insurance companies. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70588810,
+            "input_sentence": "[And that’s what’s going to happen.][][ Take a look at Carolyn Maloney’s race- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 93043217,
+            "input_sentence": "[Antifa is bad.][][ Every body in your administration tells you the true, it’s a bad idea. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 43340341,
+            "input_sentence": "[[crosstalk 00:12:19].][][ Fewer jobs than when he became president. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62720058,
+            "input_sentence": "[The media.][][ By the World Bank- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 51378717,
+            "input_sentence": "[Thank you, Susan.][][ You’re concerned that he doesn’t condemn neo-Nazis. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 86386925,
+            "input_sentence": "[We would have lost far more people, far more people.][][ And by the way, in terms of the whole notion of a vaccine, we’re for a vaccine, but I don’t trust him at all. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67221005,
+            "input_sentence": "[In addition to that, what he did, he made sure that we had 44 people that were in there in China trying to get the Wuhan to determine what exactly the source was.][][ What did the president say in January? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42284747,
+            "input_sentence": "[We have the best lowest number in carbon emissions, which is a big standard that I noticed Obama goes with all the time, not Joe, I haven’t heard Joe use the term because I’m not sure he knows what it represents or means, but I have heard Obama use it.][][ Look at China, how filthy it is, look at Russia, look at India, it’s filthy, the air is filthy. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 80396437,
+            "input_sentence": "[Definitely would happen in reverse.][][ So we won the election and we have the right to do it, Chris. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 20939700,
+            "input_sentence": "[No, I don’t know where it came from, and you don’t know where it came from, and the doctors don’t know where it came from.][][ But as the President, I have to be out there. ]",
+            "expected_relation": "Support",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 10647585,
+            "input_sentence": "[Show us your tax returns.][][ Show us your tax returns. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 92576399,
+            "input_sentence": "[Let me finish.][][ You don’t know what’s on the ballot. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59265654,
+            "input_sentence": "[This is big stuff.][][ It is not. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75194604,
+            "input_sentence": "[My wife, Karen and I were there and honored to be there.][][ The difference here is President Trump and I trust the American people to make choices in the best interest of their health. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 76776389,
+            "input_sentence": "[The reason it’s shut down is because, look, you folks at home.][][ His own CDC Director says we could lose as many as another 200,000 people between now and the end of the year. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 71093444,
+            "input_sentence": "[We’ll fight for school choice for all of [crosstalk 00:36:46].][][ And the reality of this is that we are talking about an election in 27 days where last week the President of the United States took a debate stage in front of 70 million Americans and refused to condemn white supremacists. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59551020,
+            "input_sentence": "[There’s nothing happening there.][][ Donald would you just be quiet for a minute. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31375249,
+            "input_sentence": "[Because, every day, they’re talking about ballots that are corrupt, that are fraudulent.][][ Sure. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 98788031,
+            "input_sentence": "[And number two, it would create an additional $1 trillion in economic growth, because it would be about buying American.][][ And under my proposal, we’re going to make sure that every penny of that has to be made by a company- ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 85023513,
+            "input_sentence": "[So in fact, the DACA program has been curtailed by your administration.][][ But we want people to come into our country, but they have to come in through a merit system, and they have to come in legally. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94163030,
+            "input_sentence": "[When Joe Biden was vice president, they promised to do that and they never did.][][ We’ve strengthened our alliances across the Asia Pacific, and we’ve stood strong against those who would do us harm. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22547896,
+            "input_sentence": "[We have the military all set up.][][ We have our military that delivers soldiers and they can do 200,000 a day. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 91427936,
+            "input_sentence": "[I could raise so much more money.][][ As President, and as somebody that knows most of those people, I could call the heads of Wall Street, the heads of every company in America. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30760772,
+            "input_sentence": "[You shouldn’t be bringing up Wall Street, because you’re the one that takes the money from Wall Street, not me.][][ Don’t tell me about [crosstalk 00:29:17]. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27287549,
+            "input_sentence": "[They cheat.][][ Hey, they found ballots in a wastepaper basket three days ago, and they all had the name military ballots. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22555237,
+            "input_sentence": "[[crosstalk 00:20:25] They will leave and you will have a depression, the likes of which you’ve never seen.][][ Look- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88106744,
+            "input_sentence": "[We can do that and we can do that by investing money in doing it, but it’s a transition to that.][][ He said it. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94397002,
+            "input_sentence": "[Well, just take a look at what is the analysis done by Wall Street firms, points out that my economic plan would create 7 million more jobs than his in four years, number one.][][ I’m going to make the corporate tax 28%. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 93551714,
+            "input_sentence": "[Well, you’re certainly going to socialist.][][ Open discussion. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35798235,
+            "input_sentence": "[Look, what I support are the police having the opportunity to deal with the problems they face and I’m totally opposed to defunding the police offices.][][ As a matter of fact police, local police, the only one defunding in his budget calls for a $400 million cut in local law enforcement assistance. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 63328291,
+            "input_sentence": "[He hasn’t done a thing for anybody on healthcare.][][ When he says public option, he’s talking about socialized medicine and healthcare. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27196702,
+            "input_sentence": "[Yeah, you got it done-][][ Our economy boomed like it’s never boomed before. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96306444,
+            "input_sentence": "[In fact, we’re all Americans.][][ The only way we’re going to bring this country together is bring everybody together. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75687515,
+            "input_sentence": "[No.][][ He said, “The biggest problem we have is North Korea.” He indicated we will be in a war with North Korea. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47588399,
+            "input_sentence": "[I read that, but no, he didn’t.][][ But, I knew it was a big threat. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42973412,
+            "input_sentence": "[Yeah.][][ I’ve been taking them every day, the deep test, the ones that go in most. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 76179188,
+            "input_sentence": "[What do you want to call them?][][ But I’ll tell you what somebody’s got to do something about Antifa and the left because this is not a right wing problem this is a left wing. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 72135646,
+            "input_sentence": "[That is not my plan [crosstalk 00:58:10].][][ He said I said something about the military. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 13230083,
+            "input_sentence": "[This is going to be a fraud like you’ve never seen.][][ The other thing, it’s nice. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 13078801,
+            "input_sentence": "[Not a thing.][][ When he talks about a public option, he’s talking about destroying your Medicare, totally destroying- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 19742052,
+            "input_sentence": "[We have to provide health insurance for people at an affordable rate, and that’s what I do.][][ Excuse me. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 25184591,
+            "input_sentence": "[I do.][][ I do. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88944749,
+            "input_sentence": "[We don’t need somebody to come in and say, “Let’s shut it down.”][][ This guy paid a total of $750 in taxes. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 14705010,
+            "input_sentence": "[Not everyone buys your denial.][][ Okay? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 44628953,
+            "input_sentence": "[By the way, the fastest growing industry in America is the electric, excuse me, solar energy and wind.][][ We can grow and we can be cleaner if we go the route I’m proposing. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 13356625,
+            "input_sentence": "[But it’s the thing that’s motivated… My dad used to have an expression for real.][][ And so whether I’m a defeated candidate for president back teaching or I’m elected president, it is a major element of everything that I’m about, because it reflects who we are as a nation. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96213073,
+            "input_sentence": "[And we’ll do it for four more years.][][ Our agenda includes what this administration has failed to do. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96767241,
+            "input_sentence": "[Susan, please [crosstalk 00:30:54]][][ [crosstalk 00:31:03] ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67784230,
+            "input_sentence": "[Another 900,000 people have filed for unemployment.][][ Moody’s did analysis of my detailed analysis of my tax plan and my economic plan. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 52927870,
+            "input_sentence": "[One other thing, solar-][][ False. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 79121913,
+            "input_sentence": "[He’s made that very clear, made it clear again today that China and the world health organization did not play straight with the American people.][][ He said it was- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96044636,
+            "input_sentence": "[Because I’ve done a great job.][][ We’ve rebuilt our borders. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 15323590,
+            "input_sentence": "[And by the way, our military… They’ve been voting by ballots since the end of the Civil War, in effect.][][ It’s already been established. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 49876903,
+            "input_sentence": "[Not antidote, a useful tool.][][ And once we get it, if it’s safe, if it’s effective, will you mandate its use? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 95639039,
+            "input_sentence": "[And the American people, I believe with my heart, can be proud-][][ It’s saved countless American lives- ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70290629,
+            "input_sentence": "[Nobody’s done it.][][ So we’re cutting healthcare. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 40944396,
+            "input_sentence": "[One.][][ Zero. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 82080579,
+            "input_sentence": "[So don’t give me the stuff about how you’re this innocent baby.][][ Joe, that calling you a corrupt politician- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 87003958,
+            "input_sentence": "[We were just hitting 160 million jobs, companies are pouring into our nation because of the tax rate, and if Biden comes in and raises taxes on everybody, including middle income taxes, which he wants to do, you will blow this thing, and you’ll end up with a depression, the likes of which you’ve never had.][][ Our taxes, our corporate taxes were the highest in the world, and now they’re among the lower taxes. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 23790495,
+            "input_sentence": "[You look at Ferguson, you look at, or you go to very… Many places, look at Oakland.][][ Look what happened… Frankly, it was more violent than what I’m even seeing now. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 72209337,
+            "input_sentence": "[You’re passing new mandates, your Paris Climate Accord.][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 80303048,
+            "input_sentence": "[So, they’ve worked very hard and really very, very effectively.][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 54326300,
+            "input_sentence": "[I ran because of Barack Obama, because you did a poor job.][][ I would’ve never run. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 69052404,
+            "input_sentence": "[Look at China, how filthy it is, look at Russia, look at India, it’s filthy, the air is filthy.][][ When they put us in there, they did us a great disservice, they were going to take away our businesses. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 85030524,
+            "input_sentence": "[You know, you can’t.][][ But you can say, you can go to every governor and get them all in a room, all 50 of them as president and say, ” Ask people to wear the mask. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35182157,
+            "input_sentence": "[The problem you have is Nancy Pelosi.][][ She couldn’t care less about the worker. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 81162241,
+            "input_sentence": "[And then what happened was we started talking about using the Defense Act to make sure we go out and get whatever is needed out there to protect people.][][ And then he gets out of the hospital and he talks about, “Oh, don’t worry. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22344520,
+            "input_sentence": "[I respect your public service as well.][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 93236706,
+            "input_sentence": "[The election has already started.][][ We should wait and see what the outcome of this election is because that’s the only way the American people get to express their view is by who they elect as President and who they elect as Vice President. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 19128024,
+            "input_sentence": "[I’ve never said-][][ You call them super predators, and you’ve called them worse than that. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42008005,
+            "input_sentence": "[You have a story where they want, a story where they don’t want.][][ The University of Washington, which is, they have a model that your coronavirus task force relies on. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31273751,
+            "input_sentence": "[Well, let’s have this debate-][][ And by the way, now it’s being built again and it’s going up fast. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 82261015,
+            "input_sentence": "[I don’t know where you got that number.][][ Open discussion. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42459986,
+            "input_sentence": "[Excuse me, Chris, wait.][][ Chris. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94575066,
+            "input_sentence": "[I paid $38 million one year, I paid $27 million one year.][][ Show us your tax returns. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47308140,
+            "input_sentence": "[200,000 dead.][][ In addition to that, about between 750 and 1000 people a day are dying. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 34005414,
+            "input_sentence": "[We do not wipe any.][][ That’s not what you’ve said and it’s not what your party is saying. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 66370248,
+            "input_sentence": "[But Anthony said “Don’t wear masks,” now he wants to wear masks.][][ He happens to be a good person. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 92581691,
+            "input_sentence": "[Baghdadi had held her for 18 months, abused or mercilessly before they killed her, but when Joe Biden was Vice President they hesitated for a month, and when armed forces finally went in, it was clear she’d been moved two days earlier.][][ President Donald Trump got us out of the deal- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59463678,
+            "input_sentence": "[It doesn’t work.][][ Joe Biden, he’s running against. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94743096,
+            "input_sentence": "[Under this president, we become weaker, sicker, poor, more divided and more violent.][][ With regard to being weaker, the fact is that I’ve gone head to head with Putin and made it clear to him we’re not going to take any of his stuff. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27899736,
+            "input_sentence": "[His daughter and son-in-law are Jewish.][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 61139721,
+            "input_sentence": "[We have to make our country totally successful, as it was prior to the plague coming in from China.][][ They wanted to get together. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33259448,
+            "input_sentence": "[We saved 2 million people.][][ The 2 million figure is if you did absolutely nothing, it would be 2 million. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 26729524,
+            "input_sentence": "[Then he said, “But you know what Pennsylvania?” He’ll be against it very soon because his party is totally against it.][][ Fracking on federal land. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 11754367,
+            "input_sentence": "[Right now, I am the Democratic Party.][][ Not according to Harris. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 36063933,
+            "input_sentence": "[I couldn’t be more proud to serve as vice president to a president who stands without apology for the sanctity of human life.][][ For our part, I would never presume how Judge Amy Coney Barrett would rule on the Supreme Court of the United States, but we’ll continue to stand strong for the right to life. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 54952565,
+            "input_sentence": "[It’s sent to you.][][ If it doesn’t get in until the seventh, eighth, ninth, it still should be counted. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 64024318,
+            "input_sentence": "[When I was in charge of the recovery act with $800 billion, I was able to get $145 billion to local communities that have to balance their budgets and states that have to balance their budgets.][][ They have not done a thing for them. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 29139585,
+            "input_sentence": "[I never got any money from Russia.][][ They both want you to lose because there has been nobody tougher to Russia between the sanctions, nobody tougher than me on Russia, between the sanctions, between all of what I’ve done with NATO. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42347977,
+            "input_sentence": "[When you’re vice president, you got a lot done, but it can’t happen anymore.” It can.][][ You can question their judgment, but not their motive. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89636527,
+            "input_sentence": "[So we have to use our imaginations.][][ We’re not doing any of the research. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27416475,
+            "input_sentence": "[It’s China’s fault.][][ He said, “Don’t worry. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 69896381,
+            "input_sentence": "[And they never lived that down.][][ And if you look, with the exception of Abraham Lincoln, possible exception, but the exception of Abraham Lincoln, nobody has done what I’ve done. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 69766365,
+            "input_sentence": "[I’m not, I don’t want that to happen.][][ I want it to be clean. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 91710036,
+            "input_sentence": "[And then you say they come back.][][ Less than 1% of the people come back. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 90427323,
+            "input_sentence": "[You think she would rule for you?][][ I have no idea. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88536999,
+            "input_sentence": "[We’ve got it all on tape.][][ We’ve caught them all. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 17062596,
+            "input_sentence": "[No president should ever have to go through what I went through.][][ $48 million. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 26045364,
+            "input_sentence": "[They have said that this has all the … five former heads of the CIA, both parties, say what he’s saying is a bunch of garbage.][][ The laptop is Russia, Russia, Russia? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 78517916,
+            "input_sentence": "[I think they’re ready to see it happen.][][ You’ll hear me trying to unify, and bring people together. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 44542438,
+            "input_sentence": "[Thank you.][][ I mean, the reality is your record speaks for itself. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47439610,
+            "input_sentence": "[Because it’s a political thing.][][ I got to respond to that. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 46559735,
+            "input_sentence": "[So there’s a lot at stake.][][ I think the Constitution implies, there’s no provision in the Constitution, my problem is I made a mistake of teaching constitutional law for 21 years, and the separation of powers, the Constitution implies that their way the people have a right to determine who’s going to be on the court is how they vote for their Senators and their President. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30523703,
+            "input_sentence": "[I am under audit.][][ They treat me very, very badly. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 66058896,
+            "input_sentence": "[He went in and we were insisting that the people we had in the ground in China should be able to go to Wuhan and determine for themselves how dangerous this was.][][ Wrong. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 66734006,
+            "input_sentence": "[But it’s sort of ironic that you, and them, talk about the peaceful transfer when I spent three and a half years fighting off these maniacs.][][ And now, it turns out, everything’s there. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39488997,
+            "input_sentence": "[That’s not what it is about.][][ He’s talking about defunding the police. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 10899781,
+            "input_sentence": "[They’re being sent all over the place.][][ They sent two in a Democrat area. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 45802672,
+            "input_sentence": "[We’d better be able to do it again.][][ The way he does better if he splits us. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 16755239,
+            "input_sentence": "[Pew, a reputable research firm has done an analysis that shows that leaders of all of our formerly allied countries have now decided that they hold in greater esteem and respect Xi Jinping the head of the Chinese communist party than they do Donald Trump.][][ The President of the United States, the commander in chief of the United States. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 13921467,
+            "input_sentence": "[And you ought to be careful of them, they’ll over throw you.][][ And that’s despite the impeachment hoax and you so what happened today with Hillary Clinton, where it was a whole big con job. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 18710976,
+            "input_sentence": "[Look what happened in Baltimore.][][ Look what happened… Frankly, it was more violent than what I’m even seeing now. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 34119294,
+            "input_sentence": "[First of all, China is paying.][][ Taxpayer’s money. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 82166639,
+            "input_sentence": "[It’s coming back very fast.][][ And we went into the ventilator business, because this country was not equipped with ventilators. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 72010422,
+            "input_sentence": "[He was now there as vice president for eight years.][][ And it’s not that he wants it. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 50282402,
+            "input_sentence": "[There’s plenty of time.][][ To the voter’s point, I’ll just say that in 2016, you were on another show, actually another morning show, and you were asked whether President Obama should nominate a Supreme Court Justice Merrick Garland. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 60011852,
+            "input_sentence": "[They lost almost 40,000 people.][][ And Savannah, it’s very important. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 46605164,
+            "input_sentence": "[That went through the legislature.][][ But the promise was repeal and replace. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 24536723,
+            "input_sentence": "[… American jobs and American workers first.][][ That is a fact. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21400508,
+            "input_sentence": "[But let me just tell you.][][ They built cages. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 24733055,
+            "input_sentence": "[He’s trying to say it was six.][][ It’s a hundred trillion dollars. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 18295462,
+            "input_sentence": "[In fact, not saying I take no responsibility initially.][][ And there are over 70,000 new cases per day. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59437768,
+            "input_sentence": "[We’d better be able to do it again.][][ Mr. Vice President, if you lose, what will that say to you about where America is today? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30559100,
+            "input_sentence": "[[crosstalk 00:58:15]-][][ Okay. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62175586,
+            "input_sentence": "[Why aren’t you asking me about the radical left?][][ Why aren’t you asking Joe Biden questions about, why doesn’t he condemn Antifa? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 81699889,
+            "input_sentence": "[Any country that interferes with us will, in fact, pay a price, because they’re affecting our sovereignty.][][ Well, let me respond to the first part, as Joe answered. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 63812169,
+            "input_sentence": "[The deal is that it’s going to wipe out pre-existing conditions.][][ Well, there’s seven million people that contracted COVID. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 79725518,
+            "input_sentence": "[Well, I’m going to hire really first rate prosecutors and people who understand the law like Democrat and Republican administrations have had, and let them make the judgements, but turning this into a vehicle for your, as if it’s your own law firm, you don’t own that justice department.][][ But can you remember any Republican president going out there or former Democratic president go find that guy and prosecute him? ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62370830,
+            "input_sentence": "[This is ridiculous.][][ Absolutely ridiculous. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 17374270,
+            "input_sentence": "[We were in the Iran nuclear deal with friends, with allies around the country.][][ And because of Donald Trump’s unilateral approach to foreign policy, coupled with his isolationism, he pulled us out and has made America less safe. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 26908290,
+            "input_sentence": "[I really have to respond to that.][][ Well, I’ve got to have more then that. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 32546772,
+            "input_sentence": "[Look, the fact is that you have to look at what he talks about.][][ So- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 72464014,
+            "input_sentence": "[On the subject of taxes, as you know, the New York times has obtained, it says years of your tax returns among other things, it says that you have debts of approximately $421 million that you have personally guaranteed, and that will come due in the next four years.][][ What they did is illegal, number one. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 29737331,
+            "input_sentence": "[God.][][ They can go faster than that by a lot. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 65610956,
+            "input_sentence": "[Look, this was a thing that came into our country and it happened a hundred, more than a hundred years ago, and it happened now.][][ It came out, it just came out- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47828950,
+            "input_sentence": "[We’ve learned a lot.][][ Anthony also said, if you look back, exact words, here’s his exact words. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 65124666,
+            "input_sentence": "[Sure.][][ Moody’s did analysis of my detailed analysis of my tax plan and my economic plan. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59482079,
+            "input_sentence": "[He’s going to put America first.][][ The vice-president earlier referred to it as part of what he thinks is an accomplishment. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96777956,
+            "input_sentence": "[When you look at that, the amount of money, $400 million is a peanut.][][ Not a big deal. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 41171684,
+            "input_sentence": "[If you are under the age of 26 on your parents’ coverage, they’re coming for you.][][ Well. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 16649441,
+            "input_sentence": "[We don’t have all the ability to get it to the people who need it.][][ And once we get it, if it’s safe, if it’s effective, will you mandate its use? ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22606479,
+            "input_sentence": "[Because you’re all talk and no action.][][ We had a Republican Congress, that’s the answer. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96581505,
+            "input_sentence": "[But guess what, in the meantime, we find out in the New York Times the other day, that in fact his folks went to Wall Street and said, “This is a really dangerous thing.” And a memo out of that meeting — not from his administration, but from some of the brokers — said, “Sell short, because we’ve got to get moving.][][ Well, this is what I- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 77839950,
+            "input_sentence": "[And if we can do that, and we have a very good chance of doing it, but we’ve also brought down the price of Obamacare.][][ So important. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 36788501,
+            "input_sentence": "[… to deserve $183,000?][][ None of that is true. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 46499511,
+            "input_sentence": "[So…][][ Sure. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 29625531,
+            "input_sentence": "[He doesn’t hold a grudge.][][ You’re able to cross the aisle but the days are changed. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 80579786,
+            "input_sentence": "[You just admitted you’d shut it down.][][ We just went through it. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 64733574,
+            "input_sentence": "[None of that is true.][][ Once you became vice president he made a fortune in Ukraine, in China, in Moscow and various other places. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 45588306,
+            "input_sentence": "[Well, it’s hard to get any word in with this clown.][][ Hey, let me just tell you, Joe- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42399555,
+            "input_sentence": "[What’s the matter with these guys?][][ It was a way of getting a lot of money, billions and billions of dollars, to these guys. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 91861543,
+            "input_sentence": "[Chris, Chris.][][ … a miracle to bring back manufacturing. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 82000306,
+            "input_sentence": "[He was in booming.][][ It was the weakest recovery since 1929. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 53808512,
+            "input_sentence": "[We should be providing all the protective gear possible.][][ So, if we would have listened to you. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88129280,
+            "input_sentence": "[That’s what we’ve been trying to do, that’s what I’m going to get done because I think the American people have now seen that in fact it was a mistake to pass those laws relating to drugs, but they were not in the Crime Bill.][][ “That’s what I’m going to do when I become president.” You were vice president along with Obama as your president, your leader, for eight years, why didn’t you get it done? ]",
+            "expected_relation": "Attack",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39258527,
+            "input_sentence": "[Some.][][ 60,000 lives. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96755031,
+            "input_sentence": "[Then he changed his mind.][][ It was neutral on the question of masks. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 41387839,
+            "input_sentence": "[The issue is the American people should speak.][][ Vote now. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39939915,
+            "input_sentence": "[I’m talking about my son, Beau Biden, you’re talking about Hunter?][][ For cocaine use. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33617727,
+            "input_sentence": "[No.][][ So when I met with Barack Obama, we sat in the White House, right at the beginning, had a great conversation. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42602947,
+            "input_sentence": "[She’s registered as a Republican.][][ Good evening, Mr. President. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 65617333,
+            "input_sentence": "[They’re in facilities that were so clean.][][ They have gotten such good… But just ask one question. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 37680233,
+            "input_sentence": "[Number one, there are well over 100,000 wells that are left uncapped in the region.][][ Number two, we should be moving toward finding the new technologies that are going to be able to deal with carbon capture. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39749371,
+            "input_sentence": "[I mean, we’re going to find out, but GDP is going through the roof.][][ I heard, 20%. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 95628124,
+            "input_sentence": "[Everybody knows-][][ Well, that’s what he’s going to try to do, but there’s thousands of scientists out there, like here at this great hospital that don’t work for him. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 73980330,
+            "input_sentence": "[It’s very, very straight, but it’s a tiny percentage of the worth.][][ Did you ever hear the expression underlevered? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33986221,
+            "input_sentence": "[We don’t have time to do anything.][][ There aren’t any. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 23626305,
+            "input_sentence": "[Your first positive test was Thursday, October 1st, okay?][][ Well, I test quite a bit, and I can tell you that before the debate, which I thought it was a very good debate, and I felt fantastically, I had no problems before. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27615439,
+            "input_sentence": "[It matters.][][ And they’ve also said the opposite. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 84509130,
+            "input_sentence": "[Thank you very much.][][ And in fact, the DACA recipients now have to renew every year as opposed to every two years. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70735687,
+            "input_sentence": "[And so we have to be…][][ That’s not what it is about. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 40660860,
+            "input_sentence": "[He doesn’t want to talk about the substantive issues.][][ You’re sitting at the kitchen table this morning deciding, “Well, we can’t get new tires. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 90092841,
+            "input_sentence": "[They say the stock market will boom if I’m elected.][][ If he’s elected, the stock market will crash. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 38427377,
+            "input_sentence": "[And then of course, now I serve in the United States Senate as only the second black woman ever elected to the United States Senate.][][ I serve on the Senate Intelligence Committee where I’ve been in regular receipt of classified information about threats to our nation in hotspots around the world. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21180563,
+            "input_sentence": "[He’ll close down the country if one person in our massive bureaucracy says we should close it down.][][ We ought to be able to safely open, but they need resources to open? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27519799,
+            "input_sentence": "[We just flew B-52, B-1 bombers through it.][][ We need to be having the rest of our friends with us saying to China, “These are the rules. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31239304,
+            "input_sentence": "[Why aren’t you asking me about the radical left?][][ Antifa, no, excuse me. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75760129,
+            "input_sentence": "[Joe, it doesn’t.][][ I talked about his xenophobia in a different context. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 74731265,
+            "input_sentence": "[I say, wear the mask.][][ I’m fine with it. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47816967,
+            "input_sentence": "[It’s a record.][][ Under this president, we become weaker, sicker, poor, more divided and more violent. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21679026,
+            "input_sentence": "[But the reality… If I may finish, Senator.][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67504947,
+            "input_sentence": "[When he talks about a public option, he’s talking about destroying your Medicare, totally destroying-][][ Wrong. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 52858310,
+            "input_sentence": "[You say you’re not for it, but in your website, it says you call it a crucial framework, the green deal.][][ You can’t get there. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 58965119,
+            "input_sentence": "[I’m referring to the president-][][ Now President Trump, I will tell you, has boundless confidence in the American people, and he always spoke with confidence that we’d get through this together. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 95527548,
+            "input_sentence": "[He said, “The biggest problem we have is North Korea.” He indicated we will be in a war with North Korea.][][ And he does have plenty of nuclear capability. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 26795018,
+            "input_sentence": "[He’s own FBI Director said unlike white supremacist, Antifa is an idea not an organization-][][ Oh you got to be kidding me. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 95433500,
+            "input_sentence": "[You start off with something else.][][ I mean, I do agree with that- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22992332,
+            "input_sentence": "[It’s the same thing with socialized medicine.][][ And they’re going to have lower premiums. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 92837775,
+            "input_sentence": "[It’s a very… Makes me sad, because I am the least racist person, I can’t even see the audience because it’s so dark, but I don’t care who’s in the audience, I’m the least racist person in this room.][][ Started off his campaign coming down the escalator saying he’s getting rid of those Mexican rapists, he’s ban Muslims because they’re Muslims, he has moved around and made everything worse across the board. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 58002650,
+            "input_sentence": "[You’ve done this to me, and everybody-][][ I watched him on the same basic show with Lester Holt, and he was asking questions like Biden was a child. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59880662,
+            "input_sentence": "[I know but when somebody gets three and a half million dollars from the Mayor of Moscow.][][ That is not true. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 83389592,
+            "input_sentence": "[He stood up-][][ So here’s the deal. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 93789718,
+            "input_sentence": "[This was a way of taking care of them.][][ What I see is American United States. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88970807,
+            "input_sentence": "[I don’t think it’s appropriate.][][ He is. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75674876,
+            "input_sentence": "[I really felt good.][][ I didn’t have much of a problem with the lungs. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 41400706,
+            "input_sentence": "[I mean, his family, we could talk about all night.][][ My family- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 97929162,
+            "input_sentence": "[This is the same man.][][ This man is talking about a vaccine. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 81223133,
+            "input_sentence": "[It’s not giving them any of the money.][][ Alabama is different than New York. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70000300,
+            "input_sentence": "[We have done an incredible job at healthcare, and we’re going to do even better.][][ Just you watch. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 40139456,
+            "input_sentence": "[Under this president, we become weaker, sicker, poor, more divided and more violent.][][ When I was vice president, we inherited a recession. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 83006173,
+            "input_sentence": "[We don’t like them.][][ They throw them out- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 77056146,
+            "input_sentence": "[I also wrote into that bill a thing called drug courts.][][ I don’t believe anybody should be going to jail for drug use. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35083106,
+            "input_sentence": "[He spent a year there.][][ He got the Brown Star. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 20970302,
+            "input_sentence": "[Of course she’ll rule one way or the other, but-][][ I didn’t talk about any of the obvious things that you could talk about. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89990010,
+            "input_sentence": "[It was impossible to work.][][ Joe Biden, he’s running against. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 29650935,
+            "input_sentence": "[Savannah.][][ But it’s sort of ironic that you, and them, talk about the peaceful transfer when I spent three and a half years fighting off these maniacs. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 56554098,
+            "input_sentence": "[And this whole country will come down.][][ Bernie. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 25049517,
+            "input_sentence": "[When the plague came in, we closed it down, which was very hard psychologically to do.][][ He didn’t think we should close it down and he was wrong. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89462988,
+            "input_sentence": "[And you’ll get to see it.][][ Chris, let me just say something, that it was the tax laws. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30697480,
+            "input_sentence": "[We don’t need money.][][ Don’t tell me about [crosstalk 00:29:17]. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 52335430,
+            "input_sentence": "[But what’s happening now under his trade policy, a lot of this is going overseas.][][ You get a benefit from going overseas, if you have much of it being made overseas. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 76999201,
+            "input_sentence": "[They’d like to know if you and Joe Biden are going to pack the Supreme Court if you don’t get your way in this nomination.][][ You, once again, gave a non-answer. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 14343648,
+            "input_sentence": "[Yep.][][ We find ourselves in a position where we’re more isolated in the world than we’ve ever been. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70468357,
+            "input_sentence": "[A far less lethal disease, by the way.][][ This is his economy he shut down. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89093157,
+            "input_sentence": "[You need to be able to, for example, if you’re going to open a business, have social distancing within the business.][][ You need to be in a position where you can take testing rapidly and know whether the person is in fact infected. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 90787549,
+            "input_sentence": "[That’s what I was talking about.][][ I want it to be bold. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 18007633,
+            "input_sentence": "[In order to replace it with a much better healthcare at a much lower price.][][ You repealed, but you haven’t replaced. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 55639060,
+            "input_sentence": "[That’s a big statement.][][ Well if you let me finish the statement, because it has to be replaced by renewable energy over time, over time, and I’d stopped giving to the oil industry, I’d stop giving them federal subsidies. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 54879372,
+            "input_sentence": "[This administration saw 500,000 manufacturing-][][ Listen- ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 18638525,
+            "input_sentence": "[When he says public option, he’s talking about socialized medicine and healthcare.][][ Wrong. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 53510455,
+            "input_sentence": "[We’re talking about two million people.][][ And so the election is all- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 16996970,
+            "input_sentence": "[And the first thing I will do, I will rejoin the Paris Accord.][][ More carbon is absorbed in that rainforest than every bit of carbon that’s emitted in the United States. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30794897,
+            "input_sentence": "[Americans don’t panic, he panicked.][][ And so, the point was he missed enormous opportunities and kept saying things that weren’t true. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35846660,
+            "input_sentence": "[American people deserve to know Senator Kamala Harris was one of only 10 members of the Senate to vote against the USMCA.][][ But Senator you said it didn’t go far enough on climate change, you put your radical environmental agenda ahead of American auto workers and a head of American jobs. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 23652887,
+            "input_sentence": "[He came out tonight and said, “I was wrong not to wear a mask.”][][ I think it’s great, he’s a friend of mine. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 81400209,
+            "input_sentence": "[An election could be won or lost with that.][][ And can you imagine where they say, “You have to have your ballot in by November 10th.” November 10th. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 51717975,
+            "input_sentence": "[I’m getting out to get an application to be a lifeguard in the African-American community, because there was a big swimming pool complex.][][ I’m getting out of the car at the light, and I turned to my dad. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 97659237,
+            "input_sentence": "[So Susan it’s about relationships.][][ Well, President Trump kept his word when we moved the American embassy to Jerusalem, the capital of the state of Israel. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 37622670,
+            "input_sentence": "[You know why, Joe?][][ We had a Republican Congress, that’s the answer. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 23373242,
+            "input_sentence": "[That’s what got me involved in politics in the first place, a thing called red lining.][][ We can change so much that we can do so much to change the circumstances to give people a real opportunity. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 37257577,
+            "input_sentence": "[His vice president, she is more liberal than Bernie Sanders and wants it even more.][][ The Democrats want it. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 58988046,
+            "input_sentence": "[And there’s no prospect that there’s going to be a vaccine available for the majority of the American people before the middle of next year.][][ I don’t think we’re going to have a dark winter at all. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35654627,
+            "input_sentence": "[You got to be kidding me-][][ That’s exactly what was told. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39960356,
+            "input_sentence": "[It’s called prepaying your taxes.][][ What they do know is you’re not paying your taxes, or you’re paying taxes that are so low, when last time he said, what he paid, he said, I only pay that little because I’m smart. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 37357450,
+            "input_sentence": "[All 29 times a president has done exactly what I’ve done.][][ To the voter’s point, I’ll just say that in 2016, you were on another show, actually another morning show, and you were asked whether President Obama should nominate a Supreme Court Justice Merrick Garland. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 20184539,
+            "input_sentence": "[One.][][ None. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 92995496,
+            "input_sentence": "[It had three strikes and you’re out, which I voted against, in the Crime Bill, but it had a lot of other things in it that turned out to be both bad and good.][][ That was part of the assault weapons ban and other things that were good. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 76556495,
+            "input_sentence": "[And I also want to congratulate you, as I did on that phone call, on the historic nature of your nomination.][][ Thank you. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 57193438,
+            "input_sentence": "[Over 20,000 of them are first responders out there taking care of people during this crisis.][][ Kristen, he had eight years to do what he said he was going to do. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 87435989,
+            "input_sentence": "[How calm were you-][][ … when your children- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 38583260,
+            "input_sentence": "[Community policing doesn’t mean more people coming in, in armored Humvees and swarming.][][ How do you get the kind of policing, prevent the kind of policing [crosstalk 00:35:55]. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30532009,
+            "input_sentence": "[Presidents have nominated in all 29 cases, but your party is actually openly advocating, adding seats to the Supreme court, which has had nine seats for 150 years if you don’t get your way.][][ Now you’ve refused to answer the question. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 50347743,
+            "input_sentence": "[That is not my plan [crosstalk 00:58:10].][][ [crosstalk 00:58:15]- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42014509,
+            "input_sentence": "[You’ve done this to me, and everybody-][][ Okay? ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 45810388,
+            "input_sentence": "[Mr. Vice-][][ He got three and a half million- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22074837,
+            "input_sentence": "[We have the old slugs out there that are 10, 12 years old.][][ Now, by the way, we’re going to see how that turns out. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 57948562,
+            "input_sentence": "[But look, Senator Harris, you’re entitled to your own opinion, but you’re not entitled to your own facts.][][ Joe Biden looked at a supporter in the eye and pointed and said, “I guarantee, I guarantee that we will abolish fossil fuels.” ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 49098631,
+            "input_sentence": "[They should be going to rehabilitation, not to jail.][][ You keep talking about all these things you’re going to do, and you’re going to do this, but you were there just a short time ago and you guys did nothing. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 52737207,
+            "input_sentence": "[Not true.][][ That’s more money than our country could make in 100 years [crosstalk 00:02:10]- ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 54367179,
+            "input_sentence": "[You’re welcome.][][ President Trump cut taxes across the board. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 85418031,
+            "input_sentence": "[No, no think right now.][][ There aren’t any. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 64302501,
+            "input_sentence": "[They treat me very, very badly.][][ They like to change the game, change the rules, do everything. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 20476778,
+            "input_sentence": "[Some people don’t do a good job.][][ Go ahead. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94968705,
+            "input_sentence": "[North Korea, we’re not in a war.][][ We had a good relationship with Hitler before he, in fact, invaded Europe, the rest of Europe. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 86243795,
+            "input_sentence": "[And one of the reasons why I ended up working on the East Side of Wilmington, Delaware, which is 90% African-American, was to learn more about what was going on.][][ Making sure that you, in fact, if you get pulled over just, yes, sir, no, sir. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33160613,
+            "input_sentence": "[I love solar, but solar doesn’t quite have it yet.][][ It’s not powerful yet to really run our big, beautiful factories that we need to compete with the world. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 30250353,
+            "input_sentence": "[Why have you relaxed fuel economy standards that are going to create more pollution from cars and trucks?][][ It would be much cheaper by $3,500. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 56579070,
+            "input_sentence": "[And we’ve especially learned that through the difficulties of this year.][][ It so troubled him and upset him like it did all of us, that there was that kind of hate and division. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 64850488,
+            "input_sentence": "[And what happens?][][ We’ve got to change that. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 85299571,
+            "input_sentence": "[And Joe’s plan is about saying we’re going to deal with it, but we’re also going to create jobs.][][ We will achieve net zero emissions by 2050, carbon neutral by 2035. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 91187544,
+            "input_sentence": "[Well, our heart breaks for the loss of any innocent American life and the family of Breonna Taylor has our sympathies.][][ Justice will be served, but there’s also no excuse for the rioting and looting that followed. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 46554097,
+            "input_sentence": "[He said we owe him debt of gratitude for being so transparent with us.][][ He waited and waited and waited. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 19218770,
+            "input_sentence": "[And I’d love to do that.][][ We can’t do it. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47289837,
+            "input_sentence": "[And you’ll see that soon because we’re doing things.][][ We’ve given, I think it’s 108 or 112 pages of financial detail to elections, and we have to file as the president, as any politician, you have to file. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62491891,
+            "input_sentence": "[They’re understand.][][ Good luck. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21945038,
+            "input_sentence": "[By the way, the whole idea of what this is all going to do, it’s going to create millions of jobs and it’s going to clean the environment.][][ They came out and said very strongly $6,500 will be taken away from families under his plan, that his plan is an economic disaster. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 91555528,
+            "input_sentence": "[When I see thousands of ballots dumped in a garbage can, and they happen to have my name on it?][][ And you are sowing doubt about our democracy. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 10669727,
+            "input_sentence": "[Until he got the nomination, he went to Pennsylvania.][][ Fracking on federal land. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 69435083,
+            "input_sentence": "[Number two, they cheat.][][ Hey, they found ballots in a wastepaper basket three days ago, and they all had the name military ballots. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 14213472,
+            "input_sentence": "[We have to move in the direction as well providing for electric vehicles.][][ We’ll be right back. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31467600,
+            "input_sentence": "[A lot of people died and a lot more are going to die unless he gets a lot smarter, a lot quicker-][][ You didn’t go to Delaware State. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62403479,
+            "input_sentence": "[We had 10.4 million people in a four month period that we’ve put back into the workforce.][][ He will destroy this country. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 87960913,
+            "input_sentence": "[Warm weather.][][ Look, perhaps just to finish this, I was kidding on that, but just to finish this, when I closed he said I shouldn’t have closed. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 82832003,
+            "input_sentence": "[Because she thinks it helps her politically.][][ He does not have Republican votes. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39411517,
+            "input_sentence": "[I have to see people.][][ I can’t be in a basement. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 53967236,
+            "input_sentence": "[Bernie.][][ They wanted to make it work. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 17478885,
+            "input_sentence": "[Come on.][][ Including fixing the broken military that you gave me, including taking care of your debts. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75068676,
+            "input_sentence": "[That was really a productive segment, wasn’t it?][][ They sure do. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 68626102,
+            "input_sentence": "[The difference here is President Trump and I trust the American people to make choices in the best interest of their health.][][ Let’s talk about respecting the American people. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 83263553,
+            "input_sentence": "[So I love talking with Joe about a lot of these issues and Joe, I think he said it quite well.][][ You got to know who your adversaries are and keep them in check. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62479693,
+            "input_sentence": "[Yes.][][ They separated them at the border to make it a disincentive to come to begin with. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35123756,
+            "input_sentence": "[Let me shut you down for a second, Joe, just for one second.][][ We just went through it. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 90669366,
+            "input_sentence": "[And President Trump and I are going to always put-][][ … American jobs and American workers first. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 38931770,
+            "input_sentence": "[I have Ohio.][][ I have every… Excuse me, Portland, the sheriff just came out today and he said, “I support President Trump.” ]",
+            "expected_relation": "Support",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 64551067,
+            "input_sentence": "[That’s a great question.][][ They said, I will, in four years, Moody’s Wall Street, said I will create 18.6 million new jobs, good paying jobs, number one. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 55681667,
+            "input_sentence": "[I think a lot of things do, but I think to an extent, yes.][][ I think to an extent, yes, but I also think we have to do better management of our forest. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 84251424,
+            "input_sentence": "[So, ultimately, it’s a transition we moved from, to a net zero emission of carbon that we’re still going to be able to use if we find the right technology, some gases, some gas to be able to, if we can carbon capture.][][ And I think we’re going to be able to move in a direction where by the year 2035, we’ll be able to have net zero emissions of carbon from the creation of energy, energy creation so we can move it by dealing with those. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 77341254,
+            "input_sentence": "[We’ve learned and studied and understand the disease, which we didn’t at the beginning.][][ Months later, he was saying I was xenophobic. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 93993038,
+            "input_sentence": "[Of course she’ll rule one way or the other, but-][][ Because believe it or not, I never asked her about it. ]",
+            "expected_relation": "Support",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 37710962,
+            "input_sentence": "[He’s obviously made a lot of money someplace, but he has this thing about living in a basement.][][ People can’t do that. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 77473466,
+            "input_sentence": "[It’s terrible.][][ I have to respond to that. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 56206451,
+            "input_sentence": "[You make up a lot-][][ … we’re going to be in a position where we can create hard, hard, good jobs by making sure the environment is clean, and we all are in better shape. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 79702371,
+            "input_sentence": "[But it was really a big bailout for badly run Democrat cities and states.][][ By the way, if I get elected, I’m not going to… I’m running as a proud Democrat, but I’m going to be an American president. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 72336643,
+            "input_sentence": "[They believe that it is a Satanic cult run by the deep state.][][ I’ll tell you what I do know about. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 86482568,
+            "input_sentence": "[He’s been totally irresponsible the way in which he has handled the social distancing and people wearing masks, basically encouraged them not to.][][ If you could get the crowds, you would have done the same thing. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 35211465,
+            "input_sentence": "[Every single one of them lost a fortune-][][ [crosstalk 00:24:32] That’s not true. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21717249,
+            "input_sentence": "[He says to… About the Proud Boys, last time we were on stage here he said, “I tell them to stand down and stand ready.” Come on, this guy has a dog whistle about as big as a foghorn.][][ No, he made a reference to Abraham Lincoln, where did that come in? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 98409312,
+            "input_sentence": "[You make up a lot-][][ We’re in real trouble. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 17330681,
+            "input_sentence": "[They have said that this has all the … five former heads of the CIA, both parties, say what he’s saying is a bunch of garbage.][][ You got to be kidding me- ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 51606672,
+            "input_sentence": "[I had no problem.][][ And they- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21619060,
+            "input_sentence": "[So I think there’s great reason to be concerned for the LGBT community, something I fought very hard for, for a long time to make sure there’s equality across the board.][][ Number two, I think that also healthcare overall is very much in jeopardy as a consequence of the President’s going to go directly after this election directly to the Supreme Court within a month to try to get Obamacare wiped out after 10 million people have already lost her insurance from their employer and wants to take 20 million people out of the system as well, plus 100 million people with pre-existing conditions. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 85928227,
+            "input_sentence": "[Mexico is heavily infected, as you know.][][ But we want people to come into our country, but they have to come in through a merit system, and they have to come in legally. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 42535693,
+            "input_sentence": "[And I don’t look at this in terms of the way he does, blue states and red states.][][ They’re all the United States. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 17212337,
+            "input_sentence": "[This is the same fellow who told you that, “Don’t worry, we’re going to end this by the summer.” We’re about to go into a dark winter, a dark winter and he has no clear plan.][][ Now he’s saying, “Oh, I should have moved quicker,” but he didn’t move quicker. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27590574,
+            "input_sentence": "[When I closed and banned China from coming in heavily infected and then ultimately Europe, but China was in January.][][ He was months behind me, many months behind me. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 58456512,
+            "input_sentence": "[Because the oil industry pollutes, significantly.][][ Here’s the deal- ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33619942,
+            "input_sentence": "[Mr. Vice President, I’m speaking.][][ Joe Biden has said it twice in the debate last week that he’s going to repeal the Trump tax cuts. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 10012890,
+            "input_sentence": "[Well, Susan, first and foremost, I think we’re going to win this election.][][ Because while Joe Biden and Kamala Harris rattle off a long litany of the establishment in Washington, DC and establishment that Joe Biden’s been a part of for 47 years, president Donald Trump has as launched a movement of everyday Americans from every walk of life. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 73049776,
+            "input_sentence": "[Premiums are too high, that it doesn’t work.][][ Chris, we want to get rid of that and give something that’s cheaper and better. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 81311147,
+            "input_sentence": "[What it’s going to do, it’s going to create thousands and millions of jobs.][][ He doesn’t know how to do that- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89077784,
+            "input_sentence": "[If the President wins this election, he should be able to go for it.][][ I would not pack the court.” That’s not what you’re saying now. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 88369871,
+            "input_sentence": "[And so by creating the kind of American innovation, we’re actually steering toward a stronger and better environment.][][ And even Governor Gavin Newsom from your state has agreed, we’ve got to work on forest management. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 19143844,
+            "input_sentence": "[Do not open bars and do not open gymnasiums.][][ For example, schools. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 76336928,
+            "input_sentence": "[They’re going to demand that it’s safe.][][ But you expect to be there? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 69765987,
+            "input_sentence": "[And recognizes the beauty in our diversity and the fact that we all have so much more in common than what separates us.][][ You’re concerned that he doesn’t condemn neo-Nazis. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 21752978,
+            "input_sentence": "[He keeps talking about it.][][ Kristen, when he says- ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 36227068,
+            "input_sentence": "[But you talk about having personally prosecuted.][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 59025485,
+            "input_sentence": "[All 29 times a president has done exactly what I’ve done.][][ This is three weeks before the election. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 43955953,
+            "input_sentence": "[Because you look back at your testimony over the years, you’ve called them a lot worse than that.][][ I have Texas. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67441531,
+            "input_sentence": "[You can make a difference.” If young Black women and men vote, you can determine the outcome of this election.][][ Then the next question is, am I worthy of your vote? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 53797905,
+            "input_sentence": "[They made it up.][][ We spend billions of dollars now, billions of dollars, on floods, hurricanes, rising seas. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31579446,
+            "input_sentence": "[If I run it badly, they’ll probably blame him, but they’ll blame me.][][ They said the problem is, no matter how well you run Obamacare, it’s a disaster. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31594044,
+            "input_sentence": "[We will achieve net zero emissions by 2050, carbon neutral by 2035.][][ But once again, Senator Harris is denying the fact that they’re going to raise taxes on every American. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 19803936,
+            "input_sentence": "[And so did other people at NBC.][][ So that one’s solved. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 46894529,
+            "input_sentence": "[And I am under audit.][][ And I’ll go a step further. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 10347583,
+            "input_sentence": "[A murderer would come in.][][ And then you say they come back. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 51691643,
+            "input_sentence": "[Joe Biden never fought it.][][ Joe Biden has been a cheerleader for communist China over the last several decades. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 49886401,
+            "input_sentence": "[We’ve had no negative effect.][][ No negative effect. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 48903151,
+            "input_sentence": "[It’s really remarkable to think-][][ That’s not what I said. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94944749,
+            "input_sentence": "[Let them go bankrupt.” Come on.][][ It was a way of getting a lot of money, billions and billions of dollars, to these guys. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 63638824,
+            "input_sentence": "[As far as a say is concerned, the people already had their say.][][ He’s elected to the next election. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 78053950,
+            "input_sentence": "[Play it.][][ Play it- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 85769071,
+            "input_sentence": "[He’s going to put America first.][][ Well, on the issue of jobs. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 96464480,
+            "input_sentence": "[When the summer comes, it’s all going to go away like a miracle.][][ Before you go to the future, can I follow up on the, “I’m looking backwards.” just a little bit? ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 54162062,
+            "input_sentence": "[Wrong.][][ Bernie Sanders tried it in his state. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 12980577,
+            "input_sentence": "[No, I have to respond to that.][][ Number one. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 18906188,
+            "input_sentence": "[How would you enforce that?][][ Just like you can’t enforce measles, you can’t come to school unless you have a measles shot. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 34494160,
+            "input_sentence": "[You have both houses of Congress, Senate and House, in Republican hands, and there is not a replacement yet.][][ Look, look. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 51410959,
+            "input_sentence": "[The difference here is President Trump and I trust the American people to make choices in the best interest of their health.][][ You respect the American people when you have the courage to be a leader. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 62325162,
+            "input_sentence": "[… testified under oath in his administration said I did my job and I did it very well.][][ I’d like to know who they are. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 73973144,
+            "input_sentence": "[Is he the only going to repeal part of the Trump tax cuts?][][ If you don’t mind letting me finish, we can then have a conversation, okay? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 29746311,
+            "input_sentence": "[In Europe, they live they’re forest cities.][][ They manage their forest. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 76660889,
+            "input_sentence": "[How are you helping your small businesses when you’re forcing wages?][][ Say it. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 78968253,
+            "input_sentence": "[I do not propose banning fracking.][][ I think you have to make sure that fracking is in fact not emitting methane or polluting the well or dealing with what can be small earthquakes in how they’re drilling. ]",
+            "expected_relation": "Support",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 58141881,
+            "input_sentence": "[I’m ready to sign a big, beautiful stimulus.][][ I want the money to go to directly to the people. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 17303917,
+            "input_sentence": "[You know, if you wanted to, go to the Board of Elections.][][ There’s 118 page or so report that says everything I have, every bank I have, I’m totally under leveraged because the assets are extremely good, and I built a great company. ]",
+            "expected_relation": "Support",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70859887,
+            "input_sentence": "[Let’s have that discussion.][][ I just want the record to reflect she never answered the question. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 11704183,
+            "input_sentence": "[And by the way, so far, I respect very much the way you’re handling this, I have to say.][][ By the way- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 31550260,
+            "input_sentence": "[These guys will not help them.][][ I think it should be a state option. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 94241210,
+            "input_sentence": "[The biggest analysts are saying that.][][ Look, the idea that the stock market is booming is his only measure of what’s happening. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 69785243,
+            "input_sentence": "[Just because the Knights of Columbus holds pro-life views-][][ Thank you. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 41616588,
+            "input_sentence": "[Joe Biden has refused to answer the question-][][ So I think the American people would really like to know if Judge Amy Coney Barrett is confirmed at the Supreme Court of the United States. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 64203805,
+            "input_sentence": "[That’s not what your party says, by the way.][][ It’s only for those people who are so poor they qualify for Medicaid they can get that free in most States, except Governors who want to deny people who are poor Medicaid. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 72345376,
+            "input_sentence": "[Everybody knows that NAFTA costs literally thousands of American factories to close.][][ In the United States, Mexico and Canada the agreement is now the law of the land. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47609192,
+            "input_sentence": "[That’s a big difference according to the experts.][][ We do them outside, we have tremendous crowds, as you see, and literally on 24 hours notice. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 63491230,
+            "input_sentence": "[When?][][ Chris, let me just say something, that it was the tax laws. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 40081296,
+            "input_sentence": "[And, by the way, the 200,000 people that have died on his watch, how many of those have survived?][][ So don’t tell me about this. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 70676203,
+            "input_sentence": "[You just admitted you’d shut it down.][][ Wait a minute, Joe. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 78450651,
+            "input_sentence": "[He was, I believe at that event.][][ Well, I mean, he has to say that. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 23892568,
+            "input_sentence": "[He talks about a V-shape recovery.][][ And if you’re in the bottom, or you’re in the middle or the bottom, your income is coming down. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 57783728,
+            "input_sentence": "[That is the worst part of Obamacare, as we call it.][][ Now, it’s in court, because Obamacare is no good. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 92535575,
+            "input_sentence": "[They say the stock market will boom if I’m elected.][][ May I respond? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 44824258,
+            "input_sentence": "[The Green New Deal [crosstalk 00:58:14] is not my plan.][][ He made a statement about the military. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 66093754,
+            "input_sentence": "[They’re not my personal lawyer.][][ So, you’re not going to rule it in or rule it out? ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 20834187,
+            "input_sentence": "[And that’s just this year.][][ Your daughter, that your other daughter has a right to be and do. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 58228080,
+            "input_sentence": "[He’s being used as a Russian pawn.][][ And then you find out that everything that’s going on here, about Russia is wanting to make sure that I do not get elected the next President of the United States, because they know I know them, and they know me. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 37357575,
+            "input_sentence": "[All those 44 people came home, never got replaced.][][ He said it wasn’t.” ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 63838318,
+            "input_sentence": "[In [crosstalk 00:16:04]?][][ We build the building and we get tax credits, like the hotel on Pennsylvania Avenue. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 86431851,
+            "input_sentence": "[We took away the individual mandate.][][ And that destroyed … They shouldn’t even call it Obamacare, then I had a choice to make, do I let my people run it really well or badly? ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89900152,
+            "input_sentence": "[We have now the lowest carbon… If you look at our numbers right now, we are doing phenomenally.][][ But I haven’t destroyed our businesses. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75399443,
+            "input_sentence": "[He’s just afraid of counting the votes-][][ Chris, he’s so wrong when he makes a statement like that- ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 89882196,
+            "input_sentence": "[We have the highest trade deficit-][][ And no wonder your son goes in and he takes out billions of dollars. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 27733187,
+            "input_sentence": "[That’s true leadership.][][ Well, thank you, Susan, but let me just say, addressing your very first question. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 99146869,
+            "input_sentence": "[Do I get my time back?][][ Secondly, the people who have lost their jobs are those people who have been on the front lines. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 63093463,
+            "input_sentence": "[You understand that, and you understand it better than anybody, probably, in this room.][][ My grandparents were from Russia and Poland. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 39337621,
+            "input_sentence": "[Most pro-life Republicans would like to see Roe v. Wade overturned and abortion banned.][][ Many of them would. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 43774766,
+            "input_sentence": "[I love solar, but solar doesn’t quite have it yet.][][ It’s not powerful yet to really run our big, beautiful factories that we need to compete with the world. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 92606666,
+            "input_sentence": "[He said it was xenophobic and hysterical.][][ But I can tell you having led the white house coronavirus task force that that decision alone by President Trump bought us invaluable time to stand up the greatest national mobilization since World War Two. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 73062056,
+            "input_sentence": "[We learned that this president paid 50 times the tax in China as a secret bank account with China, does business in China, and in fact, is talking about me taking money?][][ What are you hiding? ]",
+            "expected_relation": "Support",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47712343,
+            "input_sentence": "[We got rid of a lot of horrible things that they put in and that they lived with.][][ If in fact you had a family came across and they were arrested, they in fact were given a date to show up for their hearing. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 45246471,
+            "input_sentence": "[Before there were more than five cases in the United States, all people who had returned from China, President Donald Trump did what no other American president had ever done.][][ And that was, he suspended all travel from China, the second largest economy in the world. ]",
+            "expected_relation": "Support",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 78506840,
+            "input_sentence": "[And what we have to do is say, wear these masks, number one.][][ Kristen, New York has lost more than 40,000 people, 11,000 people in nursing homes. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 67729931,
+            "input_sentence": "[I became very friendly with a lot of the heads.][][ They never even tried. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 44428887,
+            "input_sentence": "[They’d like to know if you and Joe Biden are going to pack the Supreme Court if you don’t get your way in this nomination.][][ Joe Biden gave a non-answer. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 15102069,
+            "input_sentence": "[You just lost the radical left.][][ I support [crosstalk 00:59:17] the Biden plan that I put forward. ]",
+            "expected_relation": "Attack",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 11329127,
+            "input_sentence": "[You should get out of your bunker and get out of the sand trap in your golf course and go in the Oval Office and bring together the Democrats and Republicans and fund what needs to be done now to save lives.][][ So, if we would have listened to you. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 47942511,
+            "input_sentence": "[… Let’s lower Medicare eligibility to 60.][][ I don’t apologize for it, and this is another one of those cases where there’s such a dramatic contrast. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 46879784,
+            "input_sentence": "[Have the scientists of the world see it, know it, look at it, go through all the processes.][][ And there’s no prospect that there’s going to be a vaccine available for the majority of the American people before the middle of next year. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 77329023,
+            "input_sentence": "[… and I agree with it very strongly.][][ Okay. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 24866442,
+            "input_sentence": "[Right.][][ Right. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 33470911,
+            "input_sentence": "[We learned a lot.][][ We’ve learned a lot, but he wants to shut it down. ]",
+            "expected_relation": "Support",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 22813759,
+            "input_sentence": "[Look he’s the deal.][][ I got very lucky. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 44478961,
+            "input_sentence": "[Now, here’s the deal.][][ What does it mean for them going forward if you strike down the Affordable Care Act? ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 56822311,
+            "input_sentence": "[And he didn’t have a job until you became vice president.][][ My son like a lot of people at home had a drug problem. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 51135865,
+            "input_sentence": "[And Mitch McConnell said, “Let them go bankrupt.][][ The bill that was passed in the House was a bailout of badly run, high crime, Democrat, all run by Democrat cities and states. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 44880439,
+            "input_sentence": "[I’m been going around the country, Florida, anyway, but my reading online what the judge said was she didn’t answer very many questions at all.][][ And I don’t even think she is laid out much of a judicial philosophy in terms of the basis upon which she thinks are there unenumerated rights in the Constitution, nonetheless. ]",
+            "expected_relation": "None",
+            "generated_relation": "Attack"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 75660775,
+            "input_sentence": "[… he is going to destroy the oil industry.][][ Ohio. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 50354413,
+            "input_sentence": "[I get along very well with Anthony.][][ We are not going to have a problem at all.” When Joe says that I said, Anthony Fauci said, and others, and many others. ]",
+            "expected_relation": "Support",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 28178284,
+            "input_sentence": "[But let me tell you-][][ Release your tax return. ]",
+            "expected_relation": "None",
+            "generated_relation": "Support"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 84615922,
+            "input_sentence": "[And what do you say to LGBTQ Americans and others who are very worried right now about erosions of their rights and our democracy as a whole?][][ I was on the road most of the time during these hearings so I didn’t hear many of them. ]",
+            "expected_relation": "None",
+            "generated_relation": "None"
+        },
+        {
+            "dataset": "presidential_final",
+            "id": 15389831,
+            "input_sentence": "[And it is remarkable that when Senator Tim Scott tried to pass a police reform bill, brought together a group of Republicans and Democrats, Senator Harris, you got up and walked out of the room and then you filibustered Senator Tim Scott’s bill on the Senate floor that would have provided new accountability, new repeat resources.][][ From day one, it is improve the lives of African-Americans, record unemployment, record investments in education. ]",
+            "expected_relation": "None",
+            "generated_relation": "ERROR: Relation not found"
+        }
+    ],
+    "f1_scores": {
+        "Support": {
+            "precision": 0.14035087719298245,
+            "recall": 0.38095238095238093,
+            "f1": 0.20512820512820512
+        },
+        "Attack": {
+            "precision": 0.07575757575757576,
+            "recall": 0.6666666666666666,
+            "f1": 0.13605442176870747
+        },
+        "None": {
+            "precision": 0.93,
+            "recall": 0.2627118644067797,
+            "f1": 0.40969162995594716
+        }
+    },
+    "macro_f1": 0.25029141895095325
+}
