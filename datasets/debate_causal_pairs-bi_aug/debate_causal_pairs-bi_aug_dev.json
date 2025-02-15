@@ -1,0 +1,4779 @@
+[
+    {
+        "id": 15011019,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israeli assault on Hamas upholds liberty globally",
+        "rel": "Support"
+    },
+    {
+        "id": 74778667,
+        "Arg1": "It is justified to ban extremist political parties.",
+        "Arg2": "\"Harm\" to society is an overly subjective criteria for the banning of extremist groups from politics.",
+        "rel": "Attack"
+    },
+    {
+        "id": 46484789,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "Emissions standards are more stable than the carbon markets:",
+        "rel": "Attack"
+    },
+    {
+        "id": 45797418,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "If DREAM Act about Americanized kids, why allow 16 year-olds?",
+        "rel": "Attack"
+    },
+    {
+        "id": 86287796,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Efficiency standards a good alternative to more oil drilling",
+        "rel": "Support"
+    },
+    {
+        "id": 22319776,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "(<- counter) Opinion that there are never \"extraordinary\" circumstances that justify setting aside certain ordinary legal procedures: On Ex Parte Milligan",
+        "rel": "Attack"
+    },
+    {
+        "id": 26775001,
+        "Arg1": "Settlements are justified. Expansion is defensible.",
+        "Arg2": "Settlements undercut Palestinian rights to land",
+        "rel": "Attack"
+    },
+    {
+        "id": 91566963,
+        "Arg1": "Home plate collisions in baseball are worth preserving.",
+        "Arg2": "Injuries are part of game, don\"t justify rule changes.",
+        "rel": "Support"
+    },
+    {
+        "id": 29764312,
+        "Arg1": "Proposals to improve Debatepedia.org are good.",
+        "Arg2": "These votes can never be 100% reliable and accurate.",
+        "rel": "Attack"
+    },
+    {
+        "id": 46208138,
+        "Arg1": "The bombing of Hiroshima and Nagasaki was justified.",
+        "Arg2": "Conventional bombs would not kill so many people.",
+        "rel": "Attack"
+    },
+    {
+        "id": 78319941,
+        "Arg1": "\"Graduated response\" policies for unlawful P2P file sharing are justified.",
+        "Arg2": "Enforcing copyright law online is simply infeasible.",
+        "rel": "Attack"
+    },
+    {
+        "id": 97326648,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Gaza blockade causes economic and humanitarian suffering",
+        "rel": "Attack"
+    },
+    {
+        "id": 62720396,
+        "Arg1": "Corporal punishment of children is acceptable.",
+        "Arg2": "Corporal punishment often escalates to child abuse",
+        "rel": "Attack"
+    },
+    {
+        "id": 81282118,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Industrial algae biofuel requires too many nutrients",
+        "rel": "Attack"
+    },
+    {
+        "id": 32212612,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM foods reduce the damage caused by pesticides to wildlife.",
+        "rel": "Support"
+    },
+    {
+        "id": 41530359,
+        "Arg1": "The \"enhanced interrogation techniques\" of the Bush administration were justified.",
+        "Arg2": "\"Enhanced interrogations are similar to Nazi methods",
+        "rel": "Attack"
+    },
+    {
+        "id": 87160593,
+        "Arg1": "The farming and consumption of veal is acceptable.",
+        "Arg2": "If humane practices are not being followed, than regulations can be improved.",
+        "rel": "Support"
+    },
+    {
+        "id": 80627847,
+        "Arg1": "Civil unions are the superior alternative to gay marriage.",
+        "Arg2": "Civil unions avoid drawn out culture war on gay marriage",
+        "rel": "Support"
+    },
+    {
+        "id": 32207281,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Health insurance co-ops are a ploy to defeat public insurance",
+        "rel": "Attack"
+    },
+    {
+        "id": 24836036,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "\"One child\" causes abortion of daughters, demographic shift",
+        "rel": "Attack"
+    },
+    {
+        "id": 48331330,
+        "Arg1": "The Arizona illegal immigration law is good.",
+        "Arg2": "\"Reasonable suspicion\" in Arizona will lead to racial profiling",
+        "rel": "Attack"
+    },
+    {
+        "id": 48125113,
+        "Arg1": "High speed rail development is generally good policy.",
+        "Arg2": "High-speed rail saves lives from car accidents.",
+        "rel": "Support"
+    },
+    {
+        "id": 43029613,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "DREAM Act is \"earned citizenship\", not amnesty.",
+        "rel": "Support"
+    },
+    {
+        "id": 79778801,
+        "Arg1": "Artificial life is good.",
+        "Arg2": "Synthetic life needs regulation, but should be allowed",
+        "rel": "Support"
+    },
+    {
+        "id": 27389043,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Abstinence-only rightly teaches saving sex for marriage",
+        "rel": "Support"
+    },
+    {
+        "id": 84598961,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "A comprehensive US energy plan must include offshore drilling",
+        "rel": "Support"
+    },
+    {
+        "id": 22642754,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama advocates balance of spending cuts and tax increases.",
+        "rel": "Support"
+    },
+    {
+        "id": 31812295,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "Lisbons new powers for parliaments are mere oversight powers",
+        "rel": "Attack"
+    },
+    {
+        "id": 69847393,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Fuel economy standards reduce emissions, improve air quality.",
+        "rel": "Support"
+    },
+    {
+        "id": 88950055,
+        "Arg1": "The idea of missile defenses in the Czech Republic and Poland is justified.",
+        "Arg2": "European missile defense is bitterly dividing EU",
+        "rel": "Attack"
+    },
+    {
+        "id": 95194171,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Affordable Care Act based off of Romneys plan in MA.",
+        "rel": "Support"
+    },
+    {
+        "id": 29519435,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Directional drilling allows a single well to tap massive reservoirs",
+        "rel": "Support"
+    },
+    {
+        "id": 96063234,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "The proximity of the Moon to Earth makes it ideal to colonize",
+        "rel": "Support"
+    },
+    {
+        "id": 46863170,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel was never committed to ceasefire, consistently violating it",
+        "rel": "Attack"
+    },
+    {
+        "id": 91500905,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Public opinion is not necessarily right",
+        "rel": "Attack"
+    },
+    {
+        "id": 61163055,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Protectionism is discriminatory",
+        "rel": "Support"
+    },
+    {
+        "id": 58105696,
+        "Arg1": "The Seattle deep-bore tunnel is a good idea.",
+        "Arg2": "Deep-bore tunnel construction involves many risks.",
+        "rel": "Attack"
+    },
+    {
+        "id": 48428170,
+        "Arg1": "Developed countries do owe a debt to developing world over climate change.",
+        "Arg2": "The adaption debt.",
+        "rel": "Support"
+    },
+    {
+        "id": 97726607,
+        "Arg1": "Direct democracy is good.",
+        "Arg2": "Direct democracy creates risk of corrupt recall efforts.",
+        "rel": "Attack"
+    },
+    {
+        "id": 36202368,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Marijuana impairs brain functions",
+        "rel": "Attack"
+    },
+    {
+        "id": 18568358,
+        "Arg1": "Video games are good for children, adults, and the public.",
+        "Arg2": "Video games keep people sitting in front of the TV and inactive.",
+        "rel": "Attack"
+    },
+    {
+        "id": 34271404,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "War in Libya is a war of aggression.",
+        "rel": "Attack"
+    },
+    {
+        "id": 13573528,
+        "Arg1": "Drinking coffee is good.",
+        "Arg2": "Caffeine helps to stay alert.",
+        "rel": "Support"
+    },
+    {
+        "id": 35297826,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Took major steps toward universal and stronger healthcare.",
+        "rel": "Support"
+    },
+    {
+        "id": 87759161,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Japan/Europe show high fuel economy standards achievable",
+        "rel": "Support"
+    },
+    {
+        "id": 29861505,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "Lisbon strengthens EU diplomatic representation on the global stage",
+        "rel": "Support"
+    },
+    {
+        "id": 50111266,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "School vouchers mostly benefit the affluent",
+        "rel": "Attack"
+    },
+    {
+        "id": 26243134,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Under $1b in spending can hardly be called a \"war.\"",
+        "rel": "Support"
+    },
+    {
+        "id": 99579877,
+        "Arg1": "The bombing of Hiroshima and Nagasaki was justified.",
+        "Arg2": "Bombing Japan was barbaric and immoral",
+        "rel": "Attack"
+    },
+    {
+        "id": 80554975,
+        "Arg1": "A manned mission to Mars is a good idea. Continued robotic mission is not best.",
+        "Arg2": "Manned mission to Mars will stimulate the engineering industry",
+        "rel": "Support"
+    },
+    {
+        "id": 54491119,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "McCain tax policies are better than Obamas",
+        "rel": "Support"
+    },
+    {
+        "id": 30359923,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "Divided government offers better opportunities for dissent",
+        "rel": "Support"
+    },
+    {
+        "id": 39128932,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "The individual right to arms is a lasting symbol of individual freedom",
+        "rel": "Support"
+    },
+    {
+        "id": 64074041,
+        "Arg1": "Mercenaries and private military contractors are a good idea.",
+        "Arg2": "Mercenaries are more likely to act lawlessly and without accountability:",
+        "rel": "Attack"
+    },
+    {
+        "id": 12224981,
+        "Arg1": "This House believes that debaters make better spouses.",
+        "Arg2": "Debaters are used to dealing with problems, resolving them and shaking hands after each and every discussion.",
+        "rel": "Support"
+    },
+    {
+        "id": 52568225,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "Voters preferred on-party rule in 2008 US elections",
+        "rel": "Attack"
+    },
+    {
+        "id": 81444091,
+        "Arg1": "14th amendment executive order to raise the debt ceiling is good.",
+        "Arg2": "Normal balance of powers can be shirked during crisis.",
+        "rel": "Support"
+    },
+    {
+        "id": 44205697,
+        "Arg1": "Wave power is good.",
+        "Arg2": "Wave power proposals will run up against permit regulations.",
+        "rel": "Attack"
+    },
+    {
+        "id": 15584506,
+        "Arg1": "Network neutrality legislation is a good idea.",
+        "Arg2": "ISPs have a right to recover costs from heavy bandwidth users",
+        "rel": "Attack"
+    },
+    {
+        "id": 62027209,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Obama implies drone warfare OK without Congr approval.",
+        "rel": "Attack"
+    },
+    {
+        "id": 45316689,
+        "Arg1": "The \"enhanced interrogation techniques\" of the Bush administration were justified.",
+        "Arg2": "Bush wrongly created own definition of torture",
+        "rel": "Attack"
+    },
+    {
+        "id": 22024240,
+        "Arg1": "The Roman Catholic Churchs contraception policy is justifiable.",
+        "Arg2": "Condom-use is a responsible act of sexual maturity and prevention",
+        "rel": "Attack"
+    },
+    {
+        "id": 78103489,
+        "Arg1": "Googles decision to stop censoring results in China was justified.",
+        "Arg2": "Googles departure from China sends message for free speech",
+        "rel": "Support"
+    },
+    {
+        "id": 81217103,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "There are more efficient ways how to harness solar energy than Biofuels.",
+        "rel": "Attack"
+    },
+    {
+        "id": 81545003,
+        "Arg1": "This House believes that debaters make better spouses.",
+        "Arg2": "Debaters are able to see both sides of a coin.",
+        "rel": "Support"
+    },
+    {
+        "id": 81928574,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "\"Keep\" in the 2nd amendment refers to an individual right to bear arms",
+        "rel": "Support"
+    },
+    {
+        "id": 53977489,
+        "Arg1": "Gene patents, particularly related to food and agricultural products, are a good idea.",
+        "Arg2": "Gene Patents lead to Human Beings becoming merely properties.",
+        "rel": "Attack"
+    },
+    {
+        "id": 22367296,
+        "Arg1": "The US is justified in unilaterally striking targets in Pakistan.",
+        "Arg2": "The Pakistani public would view a US unilateral strike as an invasion",
+        "rel": "Attack"
+    },
+    {
+        "id": 55020860,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "\"One child\" causes abortion of daughters, demographic shift",
+        "rel": "Attack"
+    },
+    {
+        "id": 31126144,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "A carbon tax is more likely to result in the costs being passed on to consumers.",
+        "rel": "Support"
+    },
+    {
+        "id": 51450023,
+        "Arg1": "Covenant marriages are a good idea.",
+        "Arg2": "If partners enter a covenant marriage, they would not be able to divorce until they are separated for at least two years.",
+        "rel": "Attack"
+    },
+    {
+        "id": 48220786,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Long-distance friendships.",
+        "rel": "Attack"
+    },
+    {
+        "id": 21591013,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Intent of Gaza flotilla was not humanitarian, but provoking Israel",
+        "rel": "Support"
+    },
+    {
+        "id": 16776079,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Hunting is definitely fair, because, all animals have their strengths.",
+        "rel": "Support"
+    },
+    {
+        "id": 72550236,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "The Lisbon Treaty affirms the individual rights of EU citizens",
+        "rel": "Support"
+    },
+    {
+        "id": 71908701,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "Limited Access to Proceedings:",
+        "rel": "Attack"
+    },
+    {
+        "id": 28586654,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Precision Israel attacks were never possible in crowded Gaza",
+        "rel": "Attack"
+    },
+    {
+        "id": 91483145,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "The Chinese government will not compromise and offer Tibet independence",
+        "rel": "Attack"
+    },
+    {
+        "id": 52075549,
+        "Arg1": "Background and context.",
+        "Arg2": "RE: There are other spiritual powers out there other than God.",
+        "rel": "Attack"
+    },
+    {
+        "id": 61933015,
+        "Arg1": "Cultural globalization is a force for good.",
+        "Arg2": "\"Globalization helps break the regressive taboos",
+        "rel": "Support"
+    },
+    {
+        "id": 44566420,
+        "Arg1": "Affirmative action is good public policy.",
+        "Arg2": "Greater ethnic representation at all social levels is beneficial.",
+        "rel": "Support"
+    },
+    {
+        "id": 18067893,
+        "Arg1": "George W. Bushs economic stimulus plan is justified and beneficial for the U.S economy.",
+        "Arg2": "A tax rebate is not a sustained, long-term stimulus",
+        "rel": "Attack"
+    },
+    {
+        "id": 70898288,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "Philip Martin of UC Davis and Michael Teitelbaum, The Mirage of Mexican Guest Workers, Nov/Dec 2001 Foreign Affairs.",
+        "rel": "Attack"
+    },
+    {
+        "id": 25139632,
+        "Arg1": "Natural gas is a good energy source for the 21st century.",
+        "Arg2": "Natural gas leaks are a fire and explosion risk",
+        "rel": "Attack"
+    },
+    {
+        "id": 59740090,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Inaction in Libya would have weakened Arab spring",
+        "rel": "Support"
+    },
+    {
+        "id": 52740141,
+        "Arg1": "The $700 billion bailout plan for the 2008 US financial crisis is a good idea.",
+        "Arg2": "$700 billion bailout plan is too little too late",
+        "rel": "Attack"
+    },
+    {
+        "id": 35277761,
+        "Arg1": "It is justifiable for protesters and activists to break the law for the sake of their cause.",
+        "Arg2": "Violence can be a means to bringing attention to a cause.",
+        "rel": "Support"
+    },
+    {
+        "id": 37328920,
+        "Arg1": "Communism is a sound political philosophy.",
+        "Arg2": "Society must collectively own many form of property through government",
+        "rel": "Support"
+    },
+    {
+        "id": 15711418,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Pickens Plan wind turbines will produce significant energy",
+        "rel": "Support"
+    },
+    {
+        "id": 15128491,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Hamas was democratically elected; Israel must make peace with them",
+        "rel": "Attack"
+    },
+    {
+        "id": 76387857,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Cameras speed up responses to crime and injuries.",
+        "rel": "Support"
+    },
+    {
+        "id": 62402120,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "The NSA programs abuses of civil liberties extend well beyond the \"special needs\" category of the law:",
+        "rel": "Attack"
+    },
+    {
+        "id": 96868789,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "Biofuel crops do not harm food production and can actually help",
+        "rel": "Support"
+    },
+    {
+        "id": 14922199,
+        "Arg1": "A two-party system is preferable to a multi-party system.",
+        "Arg2": "Threat of losing office in multi-party system encourages compromise.",
+        "rel": "Attack"
+    },
+    {
+        "id": 52490010,
+        "Arg1": "Wave power is good.",
+        "Arg2": "Wave power generators will not be placed in sensitive areas.",
+        "rel": "Support"
+    },
+    {
+        "id": 50082252,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "Biofuel stumbling blocks will be overcome with time",
+        "rel": "Support"
+    },
+    {
+        "id": 66159908,
+        "Arg1": "Natural gas is a good energy source for the 21st century.",
+        "Arg2": "Emissions from natural gas can be filtered out",
+        "rel": "Support"
+    },
+    {
+        "id": 40763242,
+        "Arg1": "The superdelegate system in the United States is sound.",
+        "Arg2": "Voters should be fully empowered to choose primary nominee.",
+        "rel": "Attack"
+    },
+    {
+        "id": 65205195,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Facebook fosters hate speech.",
+        "rel": "Support"
+    },
+    {
+        "id": 83825560,
+        "Arg1": "US President Obamas 2009 troop \"surge\" in Afghanistan is a good idea.",
+        "Arg2": "Many Afghan citizens and leaders oppose troop surge",
+        "rel": "Attack"
+    },
+    {
+        "id": 45720296,
+        "Arg1": "The 2009 US economic stimulus package is a good plan to combat recession.",
+        "Arg2": "American public is ambivalent about 2009 US stimulus plan",
+        "rel": "Attack"
+    },
+    {
+        "id": 40288559,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Widespread co-op model can succeed in health insurance",
+        "rel": "Support"
+    },
+    {
+        "id": 93502246,
+        "Arg1": "Hillary Clinton is the better candidate than Barack Obama.",
+        "Arg2": "Clintons health care plan is truly universal.",
+        "rel": "Support"
+    },
+    {
+        "id": 49462369,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel need not work with the illegitimate Hamas regime",
+        "rel": "Support"
+    },
+    {
+        "id": 74437036,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "Harold Hongju Koh, a Yale law professor",
+        "rel": "Attack"
+    },
+    {
+        "id": 84843214,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Socialism has shown itself to be very efficient.",
+        "rel": "Attack"
+    },
+    {
+        "id": 47730769,
+        "Arg1": "Gene patents, particularly related to food and agricultural products, are a good idea.",
+        "Arg2": "No certainty that a patented gene sequence is unique to a species",
+        "rel": "Attack"
+    },
+    {
+        "id": 76401646,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Hunting makes animals fearful of humans; breaches trust",
+        "rel": "Attack"
+    },
+    {
+        "id": 28623205,
+        "Arg1": "Cultural globalization is a force for good.",
+        "Arg2": "Globalization has made it more difficult to ensure safety and stability.",
+        "rel": "Attack"
+    },
+    {
+        "id": 32541817,
+        "Arg1": "The US is justified in unilaterally striking targets in Pakistan.",
+        "Arg2": "The Pakistani government should tolerate a unilateral US capture of Bin Laden, if the intelligence is fleeting.",
+        "rel": "Support"
+    },
+    {
+        "id": 90041128,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "\"Such a program would lower the inflow of illegal immigrants by expanding the channel for legal entry.\" -Cato Institute 10/30/06",
+        "rel": "Support"
+    },
+    {
+        "id": 99352267,
+        "Arg1": "Each candidate is good.",
+        "Arg2": "Jay emphasizes improving quality of life for Washingtonians.",
+        "rel": "Support"
+    },
+    {
+        "id": 55851847,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Co-ops are a successful model for health insurance",
+        "rel": "Support"
+    },
+    {
+        "id": 30583478,
+        "Arg1": "The French ban on Muslim veils in public buildings is justified.",
+        "Arg2": "Islam is not a race.",
+        "rel": "Support"
+    },
+    {
+        "id": 40338299,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel caused conflict by terrorizing Gaza with blockade",
+        "rel": "Attack"
+    },
+    {
+        "id": 60451153,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Romans 4:9-12 supports the practice of circumcision.",
+        "rel": "Support"
+    },
+    {
+        "id": 19712758,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Inaction in Libya would have weakened Arab spring",
+        "rel": "Support"
+    },
+    {
+        "id": 44992594,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "No Child Left Behind helps draw, keep, and motivate good teachers.",
+        "rel": "Support"
+    },
+    {
+        "id": 27737494,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "No Child Left Behind offers valuable measure of student progress",
+        "rel": "Support"
+    },
+    {
+        "id": 50405682,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "Web 2.0s democratizing and decentralizing effect causes a loss of focused, common culture, which could formally be set by an elite group:",
+        "rel": "Support"
+    },
+    {
+        "id": 78804301,
+        "Arg1": "Physical force is a justifiable method of punishing criminals.",
+        "Arg2": "There are always alternative punishments that can be used in prison.",
+        "rel": "Attack"
+    },
+    {
+        "id": 30511352,
+        "Arg1": "A nuclear Iran is intolerable, justifying military action to prevent.",
+        "Arg2": "Israel can fully deter and defend against Iran",
+        "rel": "Attack"
+    },
+    {
+        "id": 49455714,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Deepsea oil rigs are out of the view of coastal populations.",
+        "rel": "Support"
+    },
+    {
+        "id": 90864052,
+        "Arg1": "A no fly zone over Libya is a good idea.",
+        "Arg2": "Libyans cannot oust Gaddafi on their own",
+        "rel": "Support"
+    },
+    {
+        "id": 32558957,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "NCLB helps narrow the achievement gap for minorities.",
+        "rel": "Support"
+    },
+    {
+        "id": 77358950,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Private health care has become increasingly unaffordable for individuals",
+        "rel": "Support"
+    },
+    {
+        "id": 12513439,
+        "Arg1": "The 2010 US health care reform legislation is a good idea.",
+        "Arg2": "US health care law makes care more affordable",
+        "rel": "Support"
+    },
+    {
+        "id": 10691052,
+        "Arg1": "It was an acceptable deal.",
+        "Arg2": "US debt deal reaffirms core social institutions.",
+        "rel": "Support"
+    },
+    {
+        "id": 49591441,
+        "Arg1": "Video surveillance in public places is justifiable.",
+        "Arg2": "Surveillance cameras are not closely monitored and are only usually viewed if a crime has taken place.",
+        "rel": "Support"
+    },
+    {
+        "id": 69319519,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "The breadth of the NSA program was too wide, extending beyond the boundaries of \"just cause\":",
+        "rel": "Attack"
+    },
+    {
+        "id": 47134157,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Not all information is disclosed voluntarily.",
+        "rel": "Support"
+    },
+    {
+        "id": 47810469,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Pornography does not make watchers more aggressive.",
+        "rel": "Support"
+    },
+    {
+        "id": 26165025,
+        "Arg1": "A European Monetary Fund is a good idea.",
+        "Arg2": "The EMF could enhance transparency of public finances",
+        "rel": "Support"
+    },
+    {
+        "id": 35502867,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "The European Parliament passed a motion endorsing the \"Middle Way\"",
+        "rel": "Support"
+    },
+    {
+        "id": 71586223,
+        "Arg1": "A nuclear Iran is intolerable, justifying military action to prevent.",
+        "Arg2": "Air strikes can destroy Irans nuclear program",
+        "rel": "Support"
+    },
+    {
+        "id": 83845664,
+        "Arg1": "The North American Free Trade Agreement (NAFTA) has been beneficial. It is a model.",
+        "Arg2": "NAFTA and other FTAs make multilateral free trade agreements more difficult to construct",
+        "rel": "Attack"
+    },
+    {
+        "id": 71293501,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Capitalism impairs the right to food/life.",
+        "rel": "Attack"
+    },
+    {
+        "id": 56436653,
+        "Arg1": "Each candidate is good.",
+        "Arg2": "McKenna had an international upbringing.",
+        "rel": "Attack"
+    },
+    {
+        "id": 40376772,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Cease-fire invalidates blockade-justification of \"war\" w/ Hamas",
+        "rel": "Attack"
+    },
+    {
+        "id": 99183031,
+        "Arg1": "This House believes that debaters make better spouses.",
+        "Arg2": "Self-confidence and ambitiousness is the way to go.",
+        "rel": "Support"
+    },
+    {
+        "id": 56238417,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "The Chinese government will not compromise and offer Tibet independence",
+        "rel": "Attack"
+    },
+    {
+        "id": 69256007,
+        "Arg1": "Obama executive order to raise the debt ceiling is good.",
+        "Arg2": "Better for Obama to raise ceiling than keep compromising.",
+        "rel": "Support"
+    },
+    {
+        "id": 35969011,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Removing missile shields from Poland, Czech Republic.",
+        "rel": "Attack"
+    },
+    {
+        "id": 43836030,
+        "Arg1": "UN Convention on the Rights of Migrant Workers and their Families is good.",
+        "Arg2": "Migrant Workers Convention is the best way to protect migrants",
+        "rel": "Support"
+    },
+    {
+        "id": 72482133,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Marijuana helps the terminally ill cope with their ebbing life.",
+        "rel": "Support"
+    },
+    {
+        "id": 19040514,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "The Scottish Parliament passed a motion endorsing the \"Middle Way\"",
+        "rel": "Support"
+    },
+    {
+        "id": 26198824,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "McCain was dropping bombs in the unjust Vietnam war",
+        "rel": "Attack"
+    },
+    {
+        "id": 76156905,
+        "Arg1": "Beauty contests are harmful.",
+        "Arg2": "Banning beauty contests eliminates the joy to participants, audience.",
+        "rel": "Support"
+    },
+    {
+        "id": 35688698,
+        "Arg1": "A military draft generally is a good thing to have in place at all times.",
+        "Arg2": "Possible better economic impact during wars.",
+        "rel": "Support"
+    },
+    {
+        "id": 59989789,
+        "Arg1": "Wikipedia is a reliable and socially beneficial resource.",
+        "Arg2": "Vandalisms aimed at \"demonstrating\" Wikipedias unreliability are invalid.",
+        "rel": "Support"
+    },
+    {
+        "id": 16022477,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "The US supports Dalai Lama and his cause",
+        "rel": "Support"
+    },
+    {
+        "id": 63527419,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "Temperature extremes make colonizing the Moon very challenging.",
+        "rel": "Attack"
+    },
+    {
+        "id": 29353477,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM animals can be made sterile.",
+        "rel": "Support"
+    },
+    {
+        "id": 95363157,
+        "Arg1": "Each candidate is good.",
+        "Arg2": "McKenna will achieve more with fewer state employees.",
+        "rel": "Attack"
+    },
+    {
+        "id": 21006076,
+        "Arg1": "Methanol fuel is good.",
+        "Arg2": "Methanol can be used directly as a fuel in fuel cells.",
+        "rel": "Support"
+    },
+    {
+        "id": 82511661,
+        "Arg1": "Wikipedia is a reliable and socially beneficial resource.",
+        "Arg2": "Changing Wikipedias open model would undermine the factors that have enabled its success.",
+        "rel": "Support"
+    },
+    {
+        "id": 28155111,
+        "Arg1": "Nations are justified in nationalizing failing banks in the 2009/2009 economic crisis.",
+        "Arg2": "Nationalization of banks allows replacement of bad management.",
+        "rel": "Support"
+    },
+    {
+        "id": 62893670,
+        "Arg1": "Open primaries are a good idea.",
+        "Arg2": "Costs less important than appealing to all voters in open primaries",
+        "rel": "Support"
+    },
+    {
+        "id": 19646770,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "The atmosphere has responded as expected to human-induced global warming",
+        "rel": "Support"
+    },
+    {
+        "id": 64630404,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools do not achieve economies of scale",
+        "rel": "Attack"
+    },
+    {
+        "id": 75750250,
+        "Arg1": "A 700 mile fence on the US-Mexico border is justified.",
+        "Arg2": "\"Virtual fences\" have had poor historical results",
+        "rel": "Attack"
+    },
+    {
+        "id": 11750803,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "Water vapors do not have a \"forcing\" effect on climate change like human greenhouse gases:",
+        "rel": "Support"
+    },
+    {
+        "id": 16355769,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Social networking sites give too great of access and control to governments.",
+        "rel": "Support"
+    },
+    {
+        "id": 80829767,
+        "Arg1": "Wikipedia is a reliable and socially beneficial resource.",
+        "Arg2": "Wikipedia is constantly updated; traditional encyclopedias are not.",
+        "rel": "Support"
+    },
+    {
+        "id": 32542778,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "\"The people\" should not be conflated to include only a collective right",
+        "rel": "Support"
+    },
+    {
+        "id": 19280351,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "The idea that assassinations can prevent evils is questionable.",
+        "rel": "Attack"
+    },
+    {
+        "id": 47072674,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Algae biofuel is commercially viable on an industrial scale",
+        "rel": "Support"
+    },
+    {
+        "id": 92462916,
+        "Arg1": "Wave power is good.",
+        "Arg2": "Wave energy will become viable with greater economies of scales.",
+        "rel": "Support"
+    },
+    {
+        "id": 29857459,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "2nd Amendment only protects right to arms in context of militia",
+        "rel": "Attack"
+    },
+    {
+        "id": 33998008,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Blockade is not causing a humanitarian crisis in Gaza",
+        "rel": "Support"
+    },
+    {
+        "id": 81325097,
+        "Arg1": "Affirmative action is good public policy.",
+        "Arg2": "Affirm action mismatches bad students with difficult classes.",
+        "rel": "Attack"
+    },
+    {
+        "id": 25262591,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM crop production is more efficient, saves energy, cuts emissions.",
+        "rel": "Support"
+    },
+    {
+        "id": 57356890,
+        "Arg1": "Mercenaries and private military contractors are a good idea.",
+        "Arg2": "Mercenaries are a flexible, efficient tool in war.",
+        "rel": "Support"
+    },
+    {
+        "id": 63020410,
+        "Arg1": "Random breath tests for drivers are a good idea.",
+        "Arg2": "Little evidence random alcohol tests deter drunk driving.",
+        "rel": "Attack"
+    },
+    {
+        "id": 42959448,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israels strikes have severely damaged Hamas, secured Israel",
+        "rel": "Support"
+    },
+    {
+        "id": 59595922,
+        "Arg1": "Settlements are justified. Expansion is defensible.",
+        "Arg2": "Israeli settlements violate international law",
+        "rel": "Attack"
+    },
+    {
+        "id": 56105455,
+        "Arg1": "Home plate collisions in baseball are worth preserving.",
+        "Arg2": "Home base collisions are essential characteristic of \"hardball.\"",
+        "rel": "Support"
+    },
+    {
+        "id": 40177548,
+        "Arg1": "The Bible is a completely accurate source and the inspired word of God.",
+        "Arg2": "The fulfillment of numerous Biblical prophecies proves that the Bible is inspired by God.",
+        "rel": "Support"
+    },
+    {
+        "id": 26372667,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Socialism is more efficient than capitalism",
+        "rel": "Attack"
+    },
+    {
+        "id": 31129348,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Public schools can offer everything charter schools claim",
+        "rel": "Attack"
+    },
+    {
+        "id": 62786621,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "Life imprisonment better punishes a terrorist than assassination (martyrdom)",
+        "rel": "Attack"
+    },
+    {
+        "id": 42085083,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "Chinas one child policy is arbitrarily enforced.",
+        "rel": "Attack"
+    },
+    {
+        "id": 37250589,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "Obama has articulated a better vision for America",
+        "rel": "Attack"
+    },
+    {
+        "id": 86300534,
+        "Arg1": "Libertarianism is a sound political philosophy.",
+        "Arg2": "People can not always be trusted to make the right choices",
+        "rel": "Attack"
+    },
+    {
+        "id": 83516797,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "US action in Libya lives-up to memory of Rwanda.",
+        "rel": "Support"
+    },
+    {
+        "id": 90035454,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Vouchers improve choice/access despite private school right to deny",
+        "rel": "Support"
+    },
+    {
+        "id": 11838680,
+        "Arg1": "Civil unions are the superior alternative to gay marriage.",
+        "Arg2": "Civil partners must pay federal taxes on death benefits.",
+        "rel": "Attack"
+    },
+    {
+        "id": 28390590,
+        "Arg1": "Covenant marriages are a good idea.",
+        "Arg2": "Some feminists feel initiatives for covenant marriage simply conceal the hidden agenda of the antifeminist Moral Majority.",
+        "rel": "Attack"
+    },
+    {
+        "id": 29856092,
+        "Arg1": "US health insurance mandates are constitutional.",
+        "Arg2": "Driving is not a choice for many; buying insurance is mandatory.",
+        "rel": "Support"
+    },
+    {
+        "id": 69712743,
+        "Arg1": "A manned mission to Mars is a good idea. Continued robotic mission is not best.",
+        "Arg2": "Rescue mission to Mars is not possible",
+        "rel": "Attack"
+    },
+    {
+        "id": 60842623,
+        "Arg1": "The CTBT, or any other nuclear test ban treaty, is a good idea.",
+        "Arg2": "Test ban halts R&D and development of nuclear weapons",
+        "rel": "Support"
+    },
+    {
+        "id": 21753165,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Crime cameras often have no one watching due to limited resources.",
+        "rel": "Attack"
+    },
+    {
+        "id": 78322514,
+        "Arg1": "A military draft generally is a good thing to have in place at all times.",
+        "Arg2": "The state does not own the lives its citizens.",
+        "rel": "Attack"
+    },
+    {
+        "id": 71749832,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive tax policies erroneously \"compassionate\"",
+        "rel": "Attack"
+    },
+    {
+        "id": 15477410,
+        "Arg1": "Social networking sites are generally beneficial to our world.",
+        "Arg2": "More targeted advertising is of greater value to the consumer.",
+        "rel": "Support"
+    },
+    {
+        "id": 48954919,
+        "Arg1": "Carbon capture is good technology and investment.",
+        "Arg2": "CCS is less cost-effective than renewable energy",
+        "rel": "Attack"
+    },
+    {
+        "id": 99028417,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "The Israeli public is widely supportive of targeted assassinations",
+        "rel": "Support"
+    },
+    {
+        "id": 44693425,
+        "Arg1": "Keystone XL US-Canada oil pipeline is good.",
+        "Arg2": "Keystone XL will significantly increase greenhouse gas emissions",
+        "rel": "Attack"
+    },
+    {
+        "id": 49558674,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Fuel economy standards unfairly punish car manufacturers",
+        "rel": "Attack"
+    },
+    {
+        "id": 74057780,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Libyan intervention critical to US interests",
+        "rel": "Support"
+    },
+    {
+        "id": 17811650,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Executions have a brutalizing social effect that can increase crime",
+        "rel": "Attack"
+    },
+    {
+        "id": 75539775,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "The benefits of marijuana for the terminally ill outweigh risks",
+        "rel": "Support"
+    },
+    {
+        "id": 57202885,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Non-profit co-ops are great, but no substitute for public insurance",
+        "rel": "Attack"
+    },
+    {
+        "id": 28741597,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "Previous Supreme Court decisions ruled that the Second Amendment does not apply to personal guns",
+        "rel": "Attack"
+    },
+    {
+        "id": 53329662,
+        "Arg1": "A 700 mile fence on the US-Mexico border is justified.",
+        "Arg2": "Israeli border fence demonstrates efficacy of a wall",
+        "rel": "Support"
+    },
+    {
+        "id": 10972332,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "\"Not enough votes\" does not justify voting no.",
+        "rel": "Attack"
+    },
+    {
+        "id": 88774712,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Universal health care would lower rewards so reduce quality of physicians",
+        "rel": "Attack"
+    },
+    {
+        "id": 87420107,
+        "Arg1": "Random breath tests for drivers are a good idea.",
+        "Arg2": "Random breath tests create slippery slope to expanding police powers",
+        "rel": "Attack"
+    },
+    {
+        "id": 80132683,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Israel has right to blockade Gaza during conflict",
+        "rel": "Support"
+    },
+    {
+        "id": 49242624,
+        "Arg1": "A two-state solution is justified compared to a one-state solution.",
+        "Arg2": "Two-state solution would alienate Palestinians in Israel.",
+        "rel": "Attack"
+    },
+    {
+        "id": 91958355,
+        "Arg1": "Israeli blockade of Gaza is good.",
+        "Arg2": "Israeli blockade of Gaza is legal during conflict with Hamas",
+        "rel": "Support"
+    },
+    {
+        "id": 55858565,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Vouchers drain talent from public schools, undermining competitiveness.",
+        "rel": "Attack"
+    },
+    {
+        "id": 88443523,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "US has interest in enforcing UN resolution 1974",
+        "rel": "Support"
+    },
+    {
+        "id": 37558346,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Individuals should ostracize hunters they know",
+        "rel": "Attack"
+    },
+    {
+        "id": 75796397,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israels assault in Gaza was an act of last resort",
+        "rel": "Support"
+    },
+    {
+        "id": 24068784,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "The Lisbon Treaty is too confusing and unclear",
+        "rel": "Attack"
+    },
+    {
+        "id": 48245057,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Government has a cost incentive to invest in preventive care",
+        "rel": "Support"
+    },
+    {
+        "id": 61827023,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools perform no better than public schools",
+        "rel": "Attack"
+    },
+    {
+        "id": 90821968,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Filling out college basketball bracket during ME unrest.",
+        "rel": "Attack"
+    },
+    {
+        "id": 66192276,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Porn only serves to fill a void in peoples hearts.",
+        "rel": "Attack"
+    },
+    {
+        "id": 30897079,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "The NSA programs failure to procure judicial orders violated the fourth (right to privacy) and first amendments (freedom of speech):",
+        "rel": "Attack"
+    },
+    {
+        "id": 61991613,
+        "Arg1": "Israeli blockade of Gaza is good.",
+        "Arg2": "Hamas is cause of strife in Gaza, not Israel",
+        "rel": "Support"
+    },
+    {
+        "id": 75072477,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israeli precision strikes sought to minimize civilian deaths",
+        "rel": "Support"
+    },
+    {
+        "id": 56599072,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Legalizing medical marijuana normalizes drug, increases use",
+        "rel": "Attack"
+    },
+    {
+        "id": 66844518,
+        "Arg1": "Teacher-student friendships on Facebook are good.",
+        "Arg2": "Risks of sexual abuse exist everywhere; FB law overreacts.",
+        "rel": "Support"
+    },
+    {
+        "id": 74583862,
+        "Arg1": "Googles decision to stop censoring results in China was justified.",
+        "Arg2": "China has a right to censor in its national interests",
+        "rel": "Attack"
+    },
+    {
+        "id": 21607050,
+        "Arg1": "Multiculturalism is a better social model than assimilation.",
+        "Arg2": "It is impossible to pick a single moral-cultural standard in the assimilation model.",
+        "rel": "Support"
+    },
+    {
+        "id": 45060597,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israels attack of Gaza was not an act of last resort",
+        "rel": "Attack"
+    },
+    {
+        "id": 72009155,
+        "Arg1": "The Kyoto Protocol is a good treaty to combat global warming. It is a model for future treaties.",
+        "Arg2": "Kyoto doesn\"t avert \"crisis\"; global warming has many positives",
+        "rel": "Attack"
+    },
+    {
+        "id": 50885208,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Algae requires less fresh water than other biofuel crops",
+        "rel": "Support"
+    },
+    {
+        "id": 91735244,
+        "Arg1": "Keystone US-Canada oil pipeline is good.",
+        "Arg2": "Keystone XL would be one of the safest pipelines ever.",
+        "rel": "Support"
+    },
+    {
+        "id": 54114002,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "If Chavez should be assassinated, what about President Bush (an international threat)",
+        "rel": "Attack"
+    },
+    {
+        "id": 78907024,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Socialism over-trusts government bureaucrats",
+        "rel": "Support"
+    },
+    {
+        "id": 18283379,
+        "Arg1": "Hillary Clinton is the better candidate than Barack Obama.",
+        "Arg2": "Democrats shouldn\"t compromise on universal health care.",
+        "rel": "Support"
+    },
+    {
+        "id": 21330464,
+        "Arg1": "The $700 billion bailout plan for the 2008 US financial crisis is a good idea.",
+        "Arg2": "$700b bailout helps avoid widespread bankruptcies/layoffs",
+        "rel": "Support"
+    },
+    {
+        "id": 66995667,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Free trade does not sufficiently protect worker rights",
+        "rel": "Attack"
+    },
+    {
+        "id": 22640748,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "It is the nature of mankind to hunt",
+        "rel": "Support"
+    },
+    {
+        "id": 31574657,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Porn degrades human romance to mere sex.",
+        "rel": "Attack"
+    },
+    {
+        "id": 52528865,
+        "Arg1": "Artificial life is good.",
+        "Arg2": "Artificial life hold major benefits for humanity",
+        "rel": "Support"
+    },
+    {
+        "id": 38696532,
+        "Arg1": "Debate is a better form of discourse than dialogue.",
+        "Arg2": "Citizens should be passionate about issues and take a stand:",
+        "rel": "Support"
+    },
+    {
+        "id": 92331343,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "DREAM Act shows compassion, hope, opportunity to young aliens.",
+        "rel": "Support"
+    },
+    {
+        "id": 98237093,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM crops can be mismatched with ecosystems, as can conventional crops.",
+        "rel": "Support"
+    },
+    {
+        "id": 37767693,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "Moon colony could be safeguard against asteroids",
+        "rel": "Support"
+    },
+    {
+        "id": 62972969,
+        "Arg1": "It was an acceptable deal.",
+        "Arg2": "Liberals lost in deal w/ no tax increases, sharp cuts.",
+        "rel": "Attack"
+    },
+    {
+        "id": 23469036,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "The main proponents of biofuel are farmers and their lobbies.",
+        "rel": "Attack"
+    },
+    {
+        "id": 81432636,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "Obamas move to center for general elections lacks integrity",
+        "rel": "Support"
+    },
+    {
+        "id": 28686294,
+        "Arg1": "Geoengineering is a good idea.",
+        "Arg2": "Injecting sulfur into the atmosphere means more acid rain",
+        "rel": "Attack"
+    },
+    {
+        "id": 11094588,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Crime cameras may help prosecutions, but don\"t reduce crime.",
+        "rel": "Attack"
+    },
+    {
+        "id": 77677771,
+        "Arg1": "Teacher-student friendships on Facebook are good.",
+        "Arg2": "FB law places reasonable limits on free speech/assoc.",
+        "rel": "Attack"
+    },
+    {
+        "id": 96410029,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "\"One child\" changed tradition that more children is better",
+        "rel": "Support"
+    },
+    {
+        "id": 61634967,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Circumcision helps avoid having to retract foreskin to urinate.",
+        "rel": "Support"
+    },
+    {
+        "id": 35811277,
+        "Arg1": "The Seattle deep-bore tunnel is a good idea.",
+        "Arg2": "Tunnel unnecessary to increase economic growth.",
+        "rel": "Attack"
+    },
+    {
+        "id": 86276374,
+        "Arg1": "The CTBT, or any other nuclear test ban treaty, is a good idea.",
+        "Arg2": "Test ban helps re-enforce right to nuclear energy.",
+        "rel": "Support"
+    },
+    {
+        "id": 98109822,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "The death penalty violates the inalienable right to life.",
+        "rel": "Attack"
+    },
+    {
+        "id": 76719893,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "Circumcision does not interfere with sexual performance",
+        "rel": "Support"
+    },
+    {
+        "id": 70855691,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Katrina allowed New Orleans to restart with charter schools",
+        "rel": "Support"
+    },
+    {
+        "id": 30522746,
+        "Arg1": "The \"occupy\" protest movement is justified.",
+        "Arg2": "Occupy protests ineffective; Wall Street bankers don\"t care.",
+        "rel": "Attack"
+    },
+    {
+        "id": 26857076,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Capitalism exists under constraints of democratic govt.",
+        "rel": "Support"
+    },
+    {
+        "id": 29608311,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools are exploited most by affable students",
+        "rel": "Attack"
+    },
+    {
+        "id": 92081073,
+        "Arg1": "The idea of missile defenses in the Czech Republic and Poland is justified.",
+        "Arg2": "Missile defense would increase arms spending and harm the poor.",
+        "rel": "Attack"
+    },
+    {
+        "id": 91146881,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools are unaccountable and dictatorial",
+        "rel": "Attack"
+    },
+    {
+        "id": 17839944,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Algae biofuel is a renewable resource.",
+        "rel": "Support"
+    },
+    {
+        "id": 40945995,
+        "Arg1": "The idea of missile defenses in the Czech Republic and Poland is justified.",
+        "Arg2": "Iran can be deterred; attacking others would result in its annihilation",
+        "rel": "Attack"
+    },
+    {
+        "id": 74225188,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Tibetan cultural identity can survive only outside of Chinas modernization agenda",
+        "rel": "Attack"
+    },
+    {
+        "id": 89889764,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Offshore drilling is consistent with international norms",
+        "rel": "Support"
+    },
+    {
+        "id": 95004490,
+        "Arg1": "The 2009 US economic stimulus package is a good plan to combat recession.",
+        "Arg2": "Majority of economists believe government can stimulate economy",
+        "rel": "Support"
+    },
+    {
+        "id": 44076225,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Military strikes in Gaza re-establish Israeli deterrence",
+        "rel": "Support"
+    },
+    {
+        "id": 55196240,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "A cap-and-trade system better encourages companies to cut their carbon emissions:",
+        "rel": "Support"
+    },
+    {
+        "id": 66836918,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "Biofuel production requires too much land.",
+        "rel": "Attack"
+    },
+    {
+        "id": 61430449,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "Americas modern military makes the militia unnecessary for national security.",
+        "rel": "Attack"
+    },
+    {
+        "id": 38247018,
+        "Arg1": "Carbon capture is good technology and investment.",
+        "Arg2": "Carbon capture and storage is smoke-and-mirrors tactic for big coal",
+        "rel": "Attack"
+    },
+    {
+        "id": 38377384,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Porn can serve as a (partial) substitute for sex life.",
+        "rel": "Support"
+    },
+    {
+        "id": 91786915,
+        "Arg1": "Atheism is a sound (un)religious philosophy in the modern world.",
+        "Arg2": "Religion has helped people better themselves and world.",
+        "rel": "Attack"
+    },
+    {
+        "id": 44597160,
+        "Arg1": "Communism is a sound political philosophy.",
+        "Arg2": "By sharing wealth, the wealthier will be more satisfied",
+        "rel": "Support"
+    },
+    {
+        "id": 53082489,
+        "Arg1": "Seeking an MBA is good.",
+        "Arg2": "An MBA is a great investment",
+        "rel": "Support"
+    },
+    {
+        "id": 71105475,
+        "Arg1": "Affirmative action is good public policy.",
+        "Arg2": "No group should benefit or be punished for ancestral wrongs.",
+        "rel": "Attack"
+    },
+    {
+        "id": 46418084,
+        "Arg1": "The Arizona illegal immigration law is good.",
+        "Arg2": "Aliens going out without documents has been a crime for decades",
+        "rel": "Support"
+    },
+    {
+        "id": 39504522,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "Education standards between states are inconsistent under NCLB",
+        "rel": "Attack"
+    },
+    {
+        "id": 99630537,
+        "Arg1": "Atheism is a sound (un)religious philosophy in the modern world.",
+        "Arg2": "Religion has helped people better themselves and world.",
+        "rel": "Attack"
+    },
+    {
+        "id": 38502459,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "NCLB ridgedly punishes schools that are progressing, albeit slowly",
+        "rel": "Attack"
+    },
+    {
+        "id": 81545224,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "Revealing sources and methods:",
+        "rel": "Support"
+    },
+    {
+        "id": 19966248,
+        "Arg1": "Nations are justified in nationalizing failing banks in the 2009/2009 economic crisis.",
+        "Arg2": "Current managers are best in crisis; nationalization won\"t help",
+        "rel": "Attack"
+    },
+    {
+        "id": 58857589,
+        "Arg1": "EU expansion and EU membership itself are good.",
+        "Arg2": "Expansion strains EU institution and hampers decision-making, action.",
+        "rel": "Attack"
+    },
+    {
+        "id": 42199302,
+        "Arg1": "A 700 mile fence on the US-Mexico border is justified.",
+        "Arg2": "Coupling a physical fence with new \"virtual fence\" technology will be effective:",
+        "rel": "Support"
+    },
+    {
+        "id": 82146049,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "The Scottish Parliament passed a motion endorsing the \"Middle Way\"",
+        "rel": "Support"
+    },
+    {
+        "id": 66206967,
+        "Arg1": "Random breath tests for drivers are a good idea.",
+        "Arg2": "Police are already performing random alcohol stops.",
+        "rel": "Support"
+    },
+    {
+        "id": 60291031,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Oil companies should tap existing reserves before going offshore",
+        "rel": "Attack"
+    },
+    {
+        "id": 47088914,
+        "Arg1": "Libertarianism is a sound political philosophy.",
+        "Arg2": "Libertarianism was the philosophy of many US Founding Fathers (e.g. Jefferson).",
+        "rel": "Support"
+    },
+    {
+        "id": 92954020,
+        "Arg1": "Mission to the Moon is preferred to Mars.",
+        "Arg2": "A longer-stay and a Moonbase would be inspiring.",
+        "rel": "Support"
+    },
+    {
+        "id": 25249368,
+        "Arg1": "WikiLeaks release of US diplomatic cables is good.",
+        "Arg2": "WikiLeaks release will shift specialized diplomats.",
+        "rel": "Attack"
+    },
+    {
+        "id": 45366900,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israels severe response damages nations moral stature.",
+        "rel": "Attack"
+    },
+    {
+        "id": 72744335,
+        "Arg1": "The US policy of No Growth Budgets in the United Nations is justified.",
+        "Arg2": "A no-growth budget for the UN lacks flexibility:",
+        "rel": "Support"
+    },
+    {
+        "id": 93600865,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive taxation makes all citizens sacrifice equally",
+        "rel": "Support"
+    },
+    {
+        "id": 48829722,
+        "Arg1": "Vigilantism can be justified.",
+        "Arg2": "Vigilanteism merely instigates chaos.",
+        "rel": "Attack"
+    },
+    {
+        "id": 70239034,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Capitalism allows for greater personal fulfillment.",
+        "rel": "Support"
+    },
+    {
+        "id": 24074108,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obamas leadership on debt was sabotaged by Congressional GOP",
+        "rel": "Support"
+    },
+    {
+        "id": 32368802,
+        "Arg1": "The Kyoto Protocol is a good treaty to combat global warming. It is a model for future treaties.",
+        "Arg2": "The US is (wrongly) the only industrial economy to oppose Kyoto",
+        "rel": "Support"
+    },
+    {
+        "id": 24090158,
+        "Arg1": "Big, liberal government is better than small, conservative government.",
+        "Arg2": "Government avoids pitfalls of focus on profits",
+        "rel": "Support"
+    },
+    {
+        "id": 80163470,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama doesn\"t have a foreign policy doctrine.",
+        "rel": "Attack"
+    },
+    {
+        "id": 91548612,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Tibetans in exile enjoy greater freedom currently than autonomy could offer",
+        "rel": "Attack"
+    },
+    {
+        "id": 86258100,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "Colonizing the Moon is critical for human survival",
+        "rel": "Support"
+    },
+    {
+        "id": 61541118,
+        "Arg1": "Needle exchanges are a good idea. They do improve public health/safety.",
+        "Arg2": "HIV transmission has increased despite needle exchanges",
+        "rel": "Attack"
+    },
+    {
+        "id": 22374453,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Porn helps men sublimate impulses toward rape",
+        "rel": "Support"
+    },
+    {
+        "id": 80628190,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama wrongly called a Boston cop stupid",
+        "rel": "Attack"
+    },
+    {
+        "id": 89188705,
+        "Arg1": "Hillary Clinton is the better candidate than Barack Obama.",
+        "Arg2": "It is more important to elect the first black candidate than the first female candidate.",
+        "rel": "Attack"
+    },
+    {
+        "id": 66920922,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "Ads are increasingly being wound into or next to content as the primary means of revenue generation, and that the presence of such ads undermines the value of content:",
+        "rel": "Support"
+    },
+    {
+        "id": 53088647,
+        "Arg1": "Extracting oil from \"oil sands\" is good.",
+        "Arg2": "Significant gas is used/burnt to extract oil from sands",
+        "rel": "Attack"
+    },
+    {
+        "id": 91245157,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Co-ops are a great alternative to the public option",
+        "rel": "Support"
+    },
+    {
+        "id": 80697506,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "Web 2.0s democratizing and decentralizing effect causes a loss of focused, common culture, which could formally be set by an elite group:",
+        "rel": "Support"
+    },
+    {
+        "id": 33404139,
+        "Arg1": "The Kyoto Protocol is a good treaty to combat global warming. It is a model for future treaties.",
+        "Arg2": "Industrial countries caused global warming so should carry burden",
+        "rel": "Support"
+    },
+    {
+        "id": 99990932,
+        "Arg1": "Geoengineering is a good idea.",
+        "Arg2": "Geoengineering can be gradually tested and implemented.",
+        "rel": "Support"
+    },
+    {
+        "id": 37143923,
+        "Arg1": "A 700 mile fence on the US-Mexico border is justified.",
+        "Arg2": "Illegal immigration is unfair to legal immigrants.",
+        "rel": "Support"
+    },
+    {
+        "id": 67298664,
+        "Arg1": "Googles decision to stop censoring results in China was justified.",
+        "Arg2": "Google ceasing censorship in China was a win for human rights",
+        "rel": "Support"
+    },
+    {
+        "id": 23681150,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM food meets threat of growing demand on less land",
+        "rel": "Support"
+    },
+    {
+        "id": 46392251,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Abstinence-only discourages youth sex and risk-taking",
+        "rel": "Support"
+    },
+    {
+        "id": 48652090,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Crime cameras help reduce frequency of community patrols.",
+        "rel": "Support"
+    },
+    {
+        "id": 97335894,
+        "Arg1": "Gene patents, particularly related to food and agricultural products, are a good idea.",
+        "Arg2": "Gene patents do not incentivize innovation",
+        "rel": "Attack"
+    },
+    {
+        "id": 98818366,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Pickens Plan requires infeasible electric grid upgrades",
+        "rel": "Attack"
+    },
+    {
+        "id": 16363783,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "\"Despite ample investment, production costs remain high",
+        "rel": "Attack"
+    },
+    {
+        "id": 80701080,
+        "Arg1": "Nations are justified in nationalizing failing banks in the 2009/2009 economic crisis.",
+        "Arg2": "If nationalization of banks works, it should be pursued.",
+        "rel": "Support"
+    },
+    {
+        "id": 31867871,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Deterrence is not a necessary pillar of the case for the death penalty",
+        "rel": "Support"
+    },
+    {
+        "id": 76856289,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "Global warming has become an industry in itself.",
+        "rel": "Attack"
+    },
+    {
+        "id": 32171104,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "Obamas charisma and persuasiveness help rally people around actions.",
+        "rel": "Attack"
+    },
+    {
+        "id": 60465874,
+        "Arg1": "A US National Renewable Energy Standard is a good idea.",
+        "Arg2": "Reduced emissions from RES may have no impact on climate change",
+        "rel": "Attack"
+    },
+    {
+        "id": 58407627,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "National security intelligence collection generally reveals very few leads for the amount of information process:",
+        "rel": "Support"
+    },
+    {
+        "id": 59930097,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Animals are independent creatures that don\"t exist to serve humans",
+        "rel": "Attack"
+    },
+    {
+        "id": 63310187,
+        "Arg1": "The 2009 US economic stimulus package is a good plan to combat recession.",
+        "Arg2": "Stimulus is better than consequences of no stimulus",
+        "rel": "Support"
+    },
+    {
+        "id": 15811146,
+        "Arg1": "High speed rail development is generally good policy.",
+        "Arg2": "High speed rail creates green jobs",
+        "rel": "Support"
+    },
+    {
+        "id": 54768336,
+        "Arg1": "Teacher-student friendships on Facebook are good.",
+        "Arg2": "Laws against sexual abuse apply; no need to ban \"friendships.\"",
+        "rel": "Support"
+    },
+    {
+        "id": 74328285,
+        "Arg1": "This House believes that modern TV reality entertainment programme does more harm than good.",
+        "Arg2": "Deterrence.",
+        "rel": "Support"
+    },
+    {
+        "id": 70733092,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama has cut wasteful/excessive military spending.",
+        "rel": "Support"
+    },
+    {
+        "id": 92077980,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools don\"t add efficiency, but more administrative costs",
+        "rel": "Attack"
+    },
+    {
+        "id": 88182582,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "The only genuinely democratic societies have been socialist.",
+        "rel": "Attack"
+    },
+    {
+        "id": 85494794,
+        "Arg1": "Civil unions are the superior alternative to gay marriage.",
+        "Arg2": "Civil unions would give gays all the benefits of marriage",
+        "rel": "Support"
+    },
+    {
+        "id": 82993901,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "The three Ds: oil rigs drill, drain and devastate.",
+        "rel": "Attack"
+    },
+    {
+        "id": 65971520,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Socialism poorly adapts to change.",
+        "rel": "Support"
+    },
+    {
+        "id": 28492863,
+        "Arg1": "Each candidate is good.",
+        "Arg2": "McKenna against SEIU I-1163 for long-term care worker training.",
+        "rel": "Attack"
+    },
+    {
+        "id": 42019498,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Millions don\"t have health insurance in US; universal health care would address this",
+        "rel": "Support"
+    },
+    {
+        "id": 75945045,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Executions take vengeance out of hands of loved ones",
+        "rel": "Support"
+    },
+    {
+        "id": 53215194,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Free trade unequally benefits the wealthy",
+        "rel": "Attack"
+    },
+    {
+        "id": 60905554,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "NCLB state testing is done more widely with greater effect.",
+        "rel": "Support"
+    },
+    {
+        "id": 43129869,
+        "Arg1": "Keystone XL US-Canada oil pipeline is good.",
+        "Arg2": "Keystone XL would be one of the safest pipelines ever.",
+        "rel": "Support"
+    },
+    {
+        "id": 47554145,
+        "Arg1": "The New Start nuclear arms reduction treaty is a good idea.",
+        "Arg2": "Signing New START saves US-Russia relations for Iranian problem.",
+        "rel": "Support"
+    },
+    {
+        "id": 84283253,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "If the militia clause is antiquated, than an individual right to arms is all that is left.",
+        "rel": "Support"
+    },
+    {
+        "id": 62964409,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive taxation is not necessarily good for employment",
+        "rel": "Attack"
+    },
+    {
+        "id": 26847528,
+        "Arg1": "Russia or Georgias actions in the 2008 South Ossetia war were legitimate.",
+        "Arg2": "Russia sent troops to Georgia to defend its peacekeepers",
+        "rel": "Support"
+    },
+    {
+        "id": 55811476,
+        "Arg1": "Year-round schools are a good idea.",
+        "Arg2": "The studies on year-round schooling are inconclusive.",
+        "rel": "Attack"
+    },
+    {
+        "id": 75830434,
+        "Arg1": "Carbon capture is good technology and investment.",
+        "Arg2": "CCS delays inevitable transition to clean energy",
+        "rel": "Attack"
+    },
+    {
+        "id": 60325839,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "Chinas forced sterilization is cruel, violates rights",
+        "rel": "Attack"
+    },
+    {
+        "id": 17549666,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "\"Government takeover of the student loan program.\"",
+        "rel": "Attack"
+    },
+    {
+        "id": 36145885,
+        "Arg1": "Nato is a relic.",
+        "Arg2": "NATO has changed and advanced greatly in post-Cold War era",
+        "rel": "Support"
+    },
+    {
+        "id": 29210069,
+        "Arg1": "The Roman Catholic Churchs contraception policy is justifiable.",
+        "Arg2": "The fathers of the Catholic Church condemned contraception.",
+        "rel": "Support"
+    },
+    {
+        "id": 66816879,
+        "Arg1": "Homosexuality is right.",
+        "Arg2": "Studies citing a homosexual \"gene\" have been biased and flawed.",
+        "rel": "Attack"
+    },
+    {
+        "id": 94062468,
+        "Arg1": "This House believes that debaters make better spouses.",
+        "Arg2": "Solving crises has nothing to do with debating.",
+        "rel": "Attack"
+    },
+    {
+        "id": 94347292,
+        "Arg1": "Libertarianism is a sound political philosophy.",
+        "Arg2": "Libertarianism offers voters an important political alternative.",
+        "rel": "Support"
+    },
+    {
+        "id": 15132805,
+        "Arg1": "The North American Free Trade Agreement (NAFTA) has been beneficial. It is a model.",
+        "Arg2": "Increased supply has reduced the price that the farmers recieve and thus threatened livlihoods:",
+        "rel": "Attack"
+    },
+    {
+        "id": 88595855,
+        "Arg1": "The Arizona illegal immigration law is good.",
+        "Arg2": "The new immigration law will decrease crime rates in Arizona.",
+        "rel": "Support"
+    },
+    {
+        "id": 53953718,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Little evidence that vouchers improve academic achievement.",
+        "rel": "Attack"
+    },
+    {
+        "id": 85593064,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "Colonizing Moon will foster space commercialization",
+        "rel": "Support"
+    },
+    {
+        "id": 86622561,
+        "Arg1": "The Seattle deep-bore tunnel is a good idea.",
+        "Arg2": "Construction costs are good now for building tunnel.",
+        "rel": "Support"
+    },
+    {
+        "id": 66191756,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "Court rulings that the Second Amendment retains only a collective right to arms",
+        "rel": "Attack"
+    },
+    {
+        "id": 48016422,
+        "Arg1": "A two-party system is preferable to a multi-party system.",
+        "Arg2": "\"Left\"/\"right\" ideologies of two-party systems are no longer clear cut.",
+        "rel": "Attack"
+    },
+    {
+        "id": 26797042,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "\"A well-regulated militia\" can apply to a state-run as well as an independent militia.",
+        "rel": "Support"
+    },
+    {
+        "id": 78703502,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel caused civilian suffering to create opposition to Hamas",
+        "rel": "Attack"
+    },
+    {
+        "id": 52019650,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "It is easier for an energy supplier to understand a carbon tax than a cap-and-trade system",
+        "rel": "Attack"
+    },
+    {
+        "id": 70881357,
+        "Arg1": "US health insurance mandates are constitutional.",
+        "Arg2": "Unconstitutional to require individuals to buy private insurance",
+        "rel": "Attack"
+    },
+    {
+        "id": 10705479,
+        "Arg1": "A European Monetary Fund is a good idea.",
+        "Arg2": "The IMF was not designed for developed Euro countries",
+        "rel": "Support"
+    },
+    {
+        "id": 23759049,
+        "Arg1": "This House believes that advances in science present a threat.",
+        "Arg2": "Science is the ultimate watch-dog.",
+        "rel": "Attack"
+    },
+    {
+        "id": 53052328,
+        "Arg1": "Cultural globalization is a force for good.",
+        "Arg2": "Globalization allows for specialization.",
+        "rel": "Support"
+    },
+    {
+        "id": 89201243,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive taxes are not socialism or \"spreading the wealth\"",
+        "rel": "Support"
+    },
+    {
+        "id": 97204520,
+        "Arg1": "The $700 billion bailout plan for the 2008 US financial crisis is a good idea.",
+        "Arg2": "$700b plan may result in few losses or actually profit taxpayers",
+        "rel": "Support"
+    },
+    {
+        "id": 35271504,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Offshore drilling discourages investments in ending oil dependence.",
+        "rel": "Attack"
+    },
+    {
+        "id": 50598462,
+        "Arg1": "An international ban on cluster bombs is justified. The US was not wrong to reject it.",
+        "Arg2": "International will for ban demonstrates success is possible",
+        "rel": "Support"
+    },
+    {
+        "id": 93662448,
+        "Arg1": "WikiLeaks release of US diplomatic cables is good.",
+        "Arg2": "Transparency is important, but not in case of diplomacy.",
+        "rel": "Attack"
+    },
+    {
+        "id": 31209319,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Loved ones should not have to support a killer in prison",
+        "rel": "Support"
+    },
+    {
+        "id": 62739052,
+        "Arg1": "Cultural globalization is a force for good.",
+        "Arg2": "Globalizations allows for foreign direct investment.",
+        "rel": "Support"
+    },
+    {
+        "id": 35771907,
+        "Arg1": "The democratic peace theory is correct.",
+        "Arg2": "Democracies often support violent, repressive dictatorships",
+        "rel": "Attack"
+    },
+    {
+        "id": 24796635,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Whether universal health care is a social good is inconsequential.",
+        "rel": "Attack"
+    },
+    {
+        "id": 33437758,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "The biofuel industry will create domestic jobs.",
+        "rel": "Support"
+    },
+    {
+        "id": 17507127,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "It is fair to punish all carbon emissions with a carbon tax:",
+        "rel": "Support"
+    },
+    {
+        "id": 35781110,
+        "Arg1": "This House believes that modern TV reality entertainment programme does more harm than good.",
+        "Arg2": "Reality shows generate revenues.",
+        "rel": "Support"
+    },
+    {
+        "id": 87412701,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama focuses on a path to citizenship, not mass deportations.",
+        "rel": "Support"
+    },
+    {
+        "id": 14659882,
+        "Arg1": "The Kyoto Protocol is a good treaty to combat global warming. It is a model for future treaties.",
+        "Arg2": "Kyoto Protocol violates national sovereignty and controls.",
+        "rel": "Attack"
+    },
+    {
+        "id": 24164021,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "Wiretapping doesn\"t qualify as a \"use of force\" authorized by the AUMF:",
+        "rel": "Attack"
+    },
+    {
+        "id": 93847866,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel caused conflict by terrorizing Gaza with blockade",
+        "rel": "Attack"
+    },
+    {
+        "id": 24614929,
+        "Arg1": "The 2010 US health care reform legislation is a good idea.",
+        "Arg2": "Gains of insuring 30m uninsured must be qualified",
+        "rel": "Attack"
+    },
+    {
+        "id": 11664300,
+        "Arg1": "A US National Renewable Energy Standard is a good idea.",
+        "Arg2": "Renewable Electricity Standard is more consistent than tax credits",
+        "rel": "Support"
+    },
+    {
+        "id": 77983693,
+        "Arg1": "Waterboarding is a justified interrogation technique.",
+        "Arg2": "US prosecuted foreign governments for waterboarding",
+        "rel": "Attack"
+    },
+    {
+        "id": 24181821,
+        "Arg1": "Geoengineering is a good idea.",
+        "Arg2": "Geoengineering gives time and optimism to climate fight",
+        "rel": "Support"
+    },
+    {
+        "id": 15413963,
+        "Arg1": "A nuclear Iran is intolerable, justifying military action to prevent.",
+        "Arg2": "Nuclear weapons in radical Iran are an intolerable risk",
+        "rel": "Support"
+    },
+    {
+        "id": 55922175,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "People generally prefer capitalism to socialism.",
+        "rel": "Support"
+    },
+    {
+        "id": 92743246,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "US involvement critical to protecting Libyan civilians.",
+        "rel": "Support"
+    },
+    {
+        "id": 74503532,
+        "Arg1": "Home plate collisions in baseball are worth preserving.",
+        "Arg2": "People shouldn\"t enjoy watching violent hits at home plate.",
+        "rel": "Attack"
+    },
+    {
+        "id": 41376691,
+        "Arg1": "UN Convention on the Rights of Migrant Workers and their Families is good.",
+        "Arg2": "Increasing migrant rights can cause international tensions",
+        "rel": "Attack"
+    },
+    {
+        "id": 75282288,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Hamas invited invasion by refusing to extend the ceasefire",
+        "rel": "Support"
+    },
+    {
+        "id": 97411404,
+        "Arg1": "Torture is justified.",
+        "Arg2": "Leaders must be afforded the flexibility to judge that torture is the most probable way to save hundreds of thousands of lives",
+        "rel": "Support"
+    },
+    {
+        "id": 45888249,
+        "Arg1": "The Three Gorges Dam is a good idea.",
+        "Arg2": "The TGD taps Chinas underexploited hydroelectric potential",
+        "rel": "Support"
+    },
+    {
+        "id": 36341102,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "DREAM Act is very expensive.",
+        "rel": "Attack"
+    },
+    {
+        "id": 58153753,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "A carbon tax is more economical than regulations:",
+        "rel": "Support"
+    },
+    {
+        "id": 14530401,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools actively resist teacher unionization",
+        "rel": "Attack"
+    },
+    {
+        "id": 57161379,
+        "Arg1": "Fuel cell vehicles are good.",
+        "Arg2": "Hydrogen infrastructure does not yet exist.",
+        "rel": "Attack"
+    },
+    {
+        "id": 22702911,
+        "Arg1": "Background and context.",
+        "Arg2": "There must have been a first cause.",
+        "rel": "Support"
+    },
+    {
+        "id": 88840710,
+        "Arg1": "Atheism is a sound (un)religious philosophy in the modern world.",
+        "Arg2": "Atheists criticise religious people for evangelising and \"attempting to convert people\", however, they do the same.",
+        "rel": "Attack"
+    },
+    {
+        "id": 90468179,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Co-ops would compete with and improve health insurance",
+        "rel": "Support"
+    },
+    {
+        "id": 12615874,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Hamas will easily rebuild from damage inflicted by Israel",
+        "rel": "Attack"
+    },
+    {
+        "id": 10310531,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Outlawing pornography infringes on minorities\" free speech.",
+        "rel": "Support"
+    },
+    {
+        "id": 22556871,
+        "Arg1": "The US is justified in unilaterally striking targets in Pakistan.",
+        "Arg2": "Pakistans government will never fall into the hands of extremists.",
+        "rel": "Attack"
+    },
+    {
+        "id": 30957446,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Circumcision does not interfere with sexual performance",
+        "rel": "Support"
+    },
+    {
+        "id": 39618388,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "This point is argued in the book Military Tribunals and Presidential Power by Louis Fisher",
+        "rel": "Attack"
+    },
+    {
+        "id": 16245174,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "Judge Taylor misused the precedent of the \"Youngstown Sheet and Tube Case\" (seizure of U.S. steel mills in the face of a union strike) and overlooked many of its and subsequent rulings",
+        "rel": "Support"
+    },
+    {
+        "id": 16532270,
+        "Arg1": "The Obama administrations 2010 bank tax is justified.",
+        "Arg2": "Bank tax recoups taxpayer bailout of banks",
+        "rel": "Support"
+    },
+    {
+        "id": 35148118,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Unfettered Free Trade  allows for toxic products to be commercialized",
+        "rel": "Attack"
+    },
+    {
+        "id": 86767873,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "Voters preferred on-party rule in 2008 US elections",
+        "rel": "Attack"
+    },
+    {
+        "id": 60229733,
+        "Arg1": "The democratic peace theory is correct.",
+        "Arg2": "Democracies do not externalize their conflict resolution processes",
+        "rel": "Attack"
+    },
+    {
+        "id": 67426348,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Doctors should be trusted to check abuse of medical marijuana",
+        "rel": "Support"
+    },
+    {
+        "id": 29419477,
+        "Arg1": "Mass migration, especially from developing to developed countries, is a good force.",
+        "Arg2": "The success of immigrants in boosting the American economy was only possible thanks to a huge internal free, liberal market there at the time, and the plentiful availability of cheap land.",
+        "rel": "Attack"
+    },
+    {
+        "id": 70737111,
+        "Arg1": "The 2009 US economic stimulus package is a good plan to combat recession.",
+        "Arg2": "Stimulus may not work; unacceptable gamble with $1 trillion",
+        "rel": "Attack"
+    },
+    {
+        "id": 22391617,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Pornography does not denigrate/harm women.",
+        "rel": "Support"
+    },
+    {
+        "id": 43836477,
+        "Arg1": "Obama executive order to raise the debt ceiling is good.",
+        "Arg2": "Congress wouldn\"t act jointly to oppose Obama raising debt ceiling.",
+        "rel": "Support"
+    },
+    {
+        "id": 24863928,
+        "Arg1": "Big, liberal government is better than small, conservative government.",
+        "Arg2": "Big government helps stimulate economic growth",
+        "rel": "Support"
+    },
+    {
+        "id": 62256993,
+        "Arg1": "The Kyoto Protocol is a good treaty to combat global warming. It is a model for future treaties.",
+        "Arg2": "US cities are adopting Kyoto, the federal government should too",
+        "rel": "Support"
+    },
+    {
+        "id": 11402150,
+        "Arg1": "The Seattle deep-bore tunnel is a good idea.",
+        "Arg2": "Environmental groups prefer surface route over tunnel.",
+        "rel": "Attack"
+    },
+    {
+        "id": 60624101,
+        "Arg1": "Danish newspaper Jyllands-Posten was right to publish cartons of Muhammad in 2005.",
+        "Arg2": "Argument: Religious people must be tolerant of criticism in a modern democracy.",
+        "rel": "Support"
+    },
+    {
+        "id": 83909987,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "Under the terms of the Geneva Convention, al Qaeda and its members are not covered.",
+        "rel": "Support"
+    },
+    {
+        "id": 31039957,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "Assassination can counter-productively rally citizens around a regime.",
+        "rel": "Attack"
+    },
+    {
+        "id": 22976173,
+        "Arg1": "The American Jobs Act is good.",
+        "Arg2": "Jobs Act ends egregious tax cuts, loop holes for wealthiest.",
+        "rel": "Support"
+    },
+    {
+        "id": 40322294,
+        "Arg1": "The democratic peace theory is correct.",
+        "Arg2": "Democracies are quick to mobilize forces",
+        "rel": "Attack"
+    },
+    {
+        "id": 85429677,
+        "Arg1": "It is justified to ban extremist political parties.",
+        "Arg2": "The very strength and weakness of a democracy is in allowing anyone to challenge it and mold it.",
+        "rel": "Attack"
+    },
+    {
+        "id": 55097862,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Comprehensive sex ed fosters an irresponsible sexual culture",
+        "rel": "Support"
+    },
+    {
+        "id": 97576931,
+        "Arg1": "Russia or Georgias actions in the 2008 South Ossetia war were legitimate.",
+        "Arg2": "Shellings by South Ossetian separatists provoked Georgias attack.",
+        "rel": "Attack"
+    },
+    {
+        "id": 53213454,
+        "Arg1": "Evolution is fact rather than fiction.",
+        "Arg2": "The theory of evolution is based around the idea that creatures genetically mutate to survive better, but mutations (which are often caused by concentration of the gene pool due to competitors with less helpful-to-survival genes having died off) have actually only served to distort a species when they occur.",
+        "rel": "Attack"
+    },
+    {
+        "id": 44556503,
+        "Arg1": "The democratic peace theory is correct.",
+        "Arg2": "Power kills; absolute power kills absolutely",
+        "rel": "Support"
+    },
+    {
+        "id": 40250993,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Natural gas is about half as expensive as gasoline.",
+        "rel": "Support"
+    },
+    {
+        "id": 25878467,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "That poll shows that capitalism is not popular.",
+        "rel": "Attack"
+    },
+    {
+        "id": 17551206,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "China claims Tibet is autonomous; independendce is only other option",
+        "rel": "Attack"
+    },
+    {
+        "id": 49685078,
+        "Arg1": "Russia or Georgias actions in the 2008 South Ossetia war were legitimate.",
+        "Arg2": "The US is culpable in causing the present crisis in Georgia.",
+        "rel": "Support"
+    },
+    {
+        "id": 66035220,
+        "Arg1": "Multiculturalism is a better social model than assimilation.",
+        "Arg2": "Multiculturalism highlights differences and can increase hate crimes.",
+        "rel": "Attack"
+    },
+    {
+        "id": 24644297,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "Barack Obama is an uplifting and inspirational figure",
+        "rel": "Attack"
+    },
+    {
+        "id": 97061967,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Attacking Gaza distracts Israel from Iranian threat",
+        "rel": "Attack"
+    },
+    {
+        "id": 96131363,
+        "Arg1": "An international ban on cluster bombs is justified. The US was not wrong to reject it.",
+        "Arg2": "Cluster bombs\" bright colors attractive to children",
+        "rel": "Support"
+    },
+    {
+        "id": 91232201,
+        "Arg1": "Pluto is a Planet. It was not properly classified as a dwarf-planet in 2006.",
+        "Arg2": "Objects within other astronomical categories often diverge substantially.",
+        "rel": "Support"
+    },
+    {
+        "id": 62437454,
+        "Arg1": "Wave power is good.",
+        "Arg2": "Marine life can avoid wave power systems/harm",
+        "rel": "Support"
+    },
+    {
+        "id": 73056201,
+        "Arg1": "Social networking sites are generally beneficial to our world.",
+        "Arg2": "More targeted advertising is of greater value to the consumer.",
+        "rel": "Support"
+    },
+    {
+        "id": 46305201,
+        "Arg1": "Libertarianism is a sound political philosophy.",
+        "Arg2": "Free market economics fosters capitalist authoritarianism; undermines rights",
+        "rel": "Attack"
+    },
+    {
+        "id": 86713985,
+        "Arg1": "Danish newspaper Jyllands-Posten was right to publish cartons of Muhammad in 2005.",
+        "Arg2": "Hateful and harmful representations of Muhammad are illegal and should be censored.",
+        "rel": "Attack"
+    },
+    {
+        "id": 94410282,
+        "Arg1": "Israeli blockade of Gaza is good.",
+        "Arg2": "Israeli blockade is supported by Egyptian blockade of Gaza",
+        "rel": "Support"
+    },
+    {
+        "id": 23861363,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "Colonizing the Moon would test new technologies along with testing space colonization.",
+        "rel": "Support"
+    },
+    {
+        "id": 49504843,
+        "Arg1": "A European Monetary Fund is a good idea.",
+        "Arg2": "The EMF could be financed effectively",
+        "rel": "Support"
+    },
+    {
+        "id": 70794026,
+        "Arg1": "Israeli blockade of Gaza is good.",
+        "Arg2": "Israelis suffer from double standard on Gaza blockade.",
+        "rel": "Attack"
+    },
+    {
+        "id": 91027668,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "Circumcision shortens the penis slightly",
+        "rel": "Attack"
+    },
+    {
+        "id": 59846587,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "There is little evidence that Marijuana is a gateway drug",
+        "rel": "Support"
+    },
+    {
+        "id": 90848312,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "DREAM doesn\"t apply to future illegals; doesn\"t incentivize immigration.",
+        "rel": "Support"
+    },
+    {
+        "id": 98771221,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel failed its responsibilities as an occupier of Gaza",
+        "rel": "Attack"
+    },
+    {
+        "id": 32300383,
+        "Arg1": "The Roman Catholic Churchs contraception policy is justifiable.",
+        "Arg2": "By encouraging sexual immorality, condoms increase risks of HIV/AIDS",
+        "rel": "Support"
+    },
+    {
+        "id": 98304897,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Tibetans want independence, not the \"middle way\"",
+        "rel": "Attack"
+    },
+    {
+        "id": 53854757,
+        "Arg1": "Intelligent Design is a legitimate scientific theory.",
+        "Arg2": "Intelligent design offers no scientific, predictive value",
+        "rel": "Attack"
+    },
+    {
+        "id": 79271494,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "A cap-and-trade system demands the creation of a large and highly complicated administrative bureaucracy.",
+        "rel": "Attack"
+    },
+    {
+        "id": 20479428,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "The death penalty denies the opportunity to study murderers to prevent future ones.",
+        "rel": "Attack"
+    },
+    {
+        "id": 78369928,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Even with vouchers, private schools can still exclude certain groups.",
+        "rel": "Attack"
+    },
+    {
+        "id": 92246079,
+        "Arg1": "A US National Renewable Energy Standard is a good idea.",
+        "Arg2": "US Renewable Electricity Standard is popular",
+        "rel": "Support"
+    },
+    {
+        "id": 57315315,
+        "Arg1": "Torture is justified.",
+        "Arg2": "Brutal killing is considered ethical in certain situations when at war.",
+        "rel": "Support"
+    },
+    {
+        "id": 45698032,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "Readers are more concerned with their own critique and determination of quality than they are about whether content is free:",
+        "rel": "Attack"
+    },
+    {
+        "id": 44468877,
+        "Arg1": "The War in Iraq was worth fighting.",
+        "Arg2": "War in Iraq resulted in too many dead or wounded soldiers.",
+        "rel": "Attack"
+    },
+    {
+        "id": 48251716,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Medical marijuana should not be allowed just to grow state revenue",
+        "rel": "Attack"
+    },
+    {
+        "id": 38683323,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "Circumcision can cause male impotency",
+        "rel": "Attack"
+    },
+    {
+        "id": 80902277,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Dalai Lama is the only solution for Tibet",
+        "rel": "Support"
+    },
+    {
+        "id": 99187352,
+        "Arg1": "Geoengineering is a good idea.",
+        "Arg2": "Geoengineering will reduce incentive to cut emissions",
+        "rel": "Attack"
+    },
+    {
+        "id": 84785084,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Pickens Plan for natural gas vehicles will increase gas prices",
+        "rel": "Attack"
+    },
+    {
+        "id": 53717941,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Sex-ed empowers informed decisions about risks of sex",
+        "rel": "Attack"
+    },
+    {
+        "id": 92060272,
+        "Arg1": "Googles decision to stop censoring results in China was justified.",
+        "Arg2": "Googles decision in China was mostly ethics, not business",
+        "rel": "Support"
+    },
+    {
+        "id": 64626118,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "A cultural preference for a circumcised penis is valid.",
+        "rel": "Support"
+    },
+    {
+        "id": 61906752,
+        "Arg1": "The Nobel Peace Prize is in the right hands of Barack Obama.",
+        "Arg2": "Peace Prize wrongly given to Obama to influence war policy.",
+        "rel": "Attack"
+    },
+    {
+        "id": 39587977,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama is smarter and more capable than the other candidates.",
+        "rel": "Support"
+    },
+    {
+        "id": 18006108,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "A White House principle behind a guest worker program -The White House 1/7/04- \"Promoting Compassion:",
+        "rel": "Support"
+    },
+    {
+        "id": 34921551,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "Republicans and Conservatives more commonly oppose a guest worker program.",
+        "rel": "Attack"
+    },
+    {
+        "id": 29163848,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "The Palestinian Authority is not a state with protections from assassinations.",
+        "rel": "Support"
+    },
+    {
+        "id": 57460332,
+        "Arg1": "Security regulations for flying are too strict.",
+        "Arg2": "Terrorism is a major problem and must not happen.",
+        "rel": "Attack"
+    },
+    {
+        "id": 62042329,
+        "Arg1": "Concealed carry is preferred to open carry gun laws.",
+        "Arg2": "Open carry deters; most criminals are rational.",
+        "rel": "Attack"
+    },
+    {
+        "id": 74544305,
+        "Arg1": "US health insurance mandates are constitutional.",
+        "Arg2": "Commerce clause does not authorize health insurance mandates",
+        "rel": "Attack"
+    },
+    {
+        "id": 95643563,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "If the concern was to have a militia for national security or to combat tyranny, the collective meaning of \"keep\" would make sense.",
+        "rel": "Attack"
+    },
+    {
+        "id": 24083832,
+        "Arg1": "A manned mission to Mars is a good idea. Continued robotic mission is not best.",
+        "Arg2": "Weight of supplies for long Mars trip is impractical.",
+        "rel": "Attack"
+    },
+    {
+        "id": 46629545,
+        "Arg1": "US health insurance mandates are constitutional.",
+        "Arg2": "Car insurance is mandatory; why not health insurance too.",
+        "rel": "Support"
+    },
+    {
+        "id": 51830038,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "Carbon taxes would not cost consumers any more than a cap-and-trade system.",
+        "rel": "Attack"
+    },
+    {
+        "id": 53168585,
+        "Arg1": "A manned mission to Mars is a good idea. Continued robotic mission is not best.",
+        "Arg2": "Public opinion favors a manned mission to Mars",
+        "rel": "Support"
+    },
+    {
+        "id": 60983456,
+        "Arg1": "Extracting oil from \"oil sands\" is good.",
+        "Arg2": "Oil sands can\"t compete w/ cleaner, abundant, cheaper natural gas",
+        "rel": "Attack"
+    },
+    {
+        "id": 41350700,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Fuel economy standards are a solution in search of a problem",
+        "rel": "Attack"
+    },
+    {
+        "id": 51965921,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "US is committing acts of war in Libya; War Powers apply.",
+        "rel": "Attack"
+    },
+    {
+        "id": 61132424,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "Biofuels have not been the cause of higher food prices and shortages",
+        "rel": "Support"
+    },
+    {
+        "id": 91898822,
+        "Arg1": "The US is justified in unilaterally striking targets in Pakistan.",
+        "Arg2": "The US must unilaterally intervene since Pakistan is not doing enough to find Bin Laden",
+        "rel": "Support"
+    },
+    {
+        "id": 17640539,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Only love can conquer hatred and murderous acts",
+        "rel": "Attack"
+    },
+    {
+        "id": 69034328,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Circumcised men engage in more varied sexual activity.",
+        "rel": "Support"
+    },
+    {
+        "id": 54279999,
+        "Arg1": "A US National Renewable Energy Standard is a good idea.",
+        "Arg2": "Renewable Energy Standard increases energy prices, kills jobs",
+        "rel": "Attack"
+    },
+    {
+        "id": 11416130,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Hunters help advance the interests of land preservation",
+        "rel": "Support"
+    },
+    {
+        "id": 76384332,
+        "Arg1": "The Kyoto Protocol is a good treaty to combat global warming. It is a model for future treaties.",
+        "Arg2": "Costs of Kyoto are less than environmental-economic costs of inaction",
+        "rel": "Support"
+    },
+    {
+        "id": 45932166,
+        "Arg1": "Pluto is a Planet. It was not properly classified as a dwarf-planet in 2006.",
+        "Arg2": "Plutos planetary characteristics diverge in just the same way as other planets.",
+        "rel": "Support"
+    },
+    {
+        "id": 10677372,
+        "Arg1": "Teacher-student friendships on Facebook are good.",
+        "Arg2": "Damaging to force teachers to \"unfriend\" students.",
+        "rel": "Support"
+    },
+    {
+        "id": 58640039,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "Standards require old generating plants to update equipment:",
+        "rel": "Attack"
+    },
+    {
+        "id": 51167929,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "\"Proof\" of anthropogenic global warming is an impossible standard in theory-based science.",
+        "rel": "Support"
+    },
+    {
+        "id": 31268697,
+        "Arg1": "Direct democracy is good.",
+        "Arg2": "Direct democracy checks the tendency toward package deals.",
+        "rel": "Support"
+    },
+    {
+        "id": 32326311,
+        "Arg1": "Storing nuclear waste at Yucca Mountain is a good idea.",
+        "Arg2": "Corrosion would not be a threat a Yucca for thousands of years.",
+        "rel": "Support"
+    },
+    {
+        "id": 59065122,
+        "Arg1": "EU arms sales to China are justifiable.",
+        "Arg2": "The current arms ban is purely symbolic, as China is already able to buy a range of military items from Europe.",
+        "rel": "Support"
+    },
+    {
+        "id": 90433948,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Porn makes women seem less attractive to men",
+        "rel": "Attack"
+    },
+    {
+        "id": 46704598,
+        "Arg1": "Civil unions are the superior alternative to gay marriage.",
+        "Arg2": "Civil unions will make people comfortable with idea of gay marriage",
+        "rel": "Support"
+    },
+    {
+        "id": 51889045,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "Standards require old generating plants to update equipment:",
+        "rel": "Attack"
+    },
+    {
+        "id": 93222135,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Marijuana is natural; dispensaries should be allowed",
+        "rel": "Support"
+    },
+    {
+        "id": 26249386,
+        "Arg1": "The 2010 US health care reform legislation is a good idea.",
+        "Arg2": "2009 health care reform bill would lower premiums",
+        "rel": "Support"
+    },
+    {
+        "id": 23568287,
+        "Arg1": "Seeking an MBA is good.",
+        "Arg2": "CEOs should have an MBA",
+        "rel": "Support"
+    },
+    {
+        "id": 97848590,
+        "Arg1": "A European Monetary Fund is a good idea.",
+        "Arg2": "The EMF could work like the IMF.",
+        "rel": "Support"
+    },
+    {
+        "id": 18439657,
+        "Arg1": "Russia or Georgias actions in the 2008 South Ossetia war were legitimate.",
+        "Arg2": "Russia wrongly attempted to depose democratic Georgian govt",
+        "rel": "Attack"
+    },
+    {
+        "id": 86268114,
+        "Arg1": "Evolution is fact rather than fiction.",
+        "Arg2": "The Duck- billed platypus is an excellent example of a living creature which completely undermines Darwinism.",
+        "rel": "Attack"
+    },
+    {
+        "id": 80922926,
+        "Arg1": "The 2009 US economic stimulus package is a good plan to combat recession.",
+        "Arg2": "Longer-term spending is not \"waste\"; helps sustain stimulus",
+        "rel": "Support"
+    },
+    {
+        "id": 56934198,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Socialism removes the incentive to excel.",
+        "rel": "Support"
+    },
+    {
+        "id": 83793587,
+        "Arg1": "Storing nuclear waste at Yucca Mountain is a good idea.",
+        "Arg2": "The transportation of nuclear waste to Yucca Mountain entails risks.",
+        "rel": "Attack"
+    },
+    {
+        "id": 63370935,
+        "Arg1": "The idea of missile defenses in the Czech Republic and Poland is justified.",
+        "Arg2": "European missile defense is a necessary part of a \"layered defense\"",
+        "rel": "Support"
+    },
+    {
+        "id": 62014694,
+        "Arg1": "Settlements are justified. Expansion is defensible.",
+        "Arg2": "Israeli settlements may be unfortunate, but are not illegal.",
+        "rel": "Support"
+    },
+    {
+        "id": 38641900,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Capital punishment wastes time and energy and burdens courts",
+        "rel": "Attack"
+    },
+    {
+        "id": 56967469,
+        "Arg1": "Extracting oil from \"oil sands\" is good.",
+        "Arg2": "Tar sands cannot compete with low-prices of OPEC",
+        "rel": "Attack"
+    },
+    {
+        "id": 93593422,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Circumcision helps protect against chlamydia.",
+        "rel": "Support"
+    },
+    {
+        "id": 29846221,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "Marinol is a good substitute for marijuana treatment",
+        "rel": "Attack"
+    },
+    {
+        "id": 29057059,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Too few crime cameras are working to fight/deter crime",
+        "rel": "Attack"
+    },
+    {
+        "id": 17261645,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "The AUMF gave the President the authority to bi-pass certain FISA restrictions:",
+        "rel": "Support"
+    },
+    {
+        "id": 77725707,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Free trade promotes democracy",
+        "rel": "Support"
+    },
+    {
+        "id": 26302543,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Pickens energy plan is very expensive",
+        "rel": "Attack"
+    },
+    {
+        "id": 90924313,
+        "Arg1": "The Nobel Peace Prize is in the right hands of Barack Obama.",
+        "Arg2": "Obama may escalate war in Afghanistan, doesn\"t deserve Peace Prize.",
+        "rel": "Attack"
+    },
+    {
+        "id": 14325839,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel took action to minimize humanitarian crisis in Gaza",
+        "rel": "Support"
+    },
+    {
+        "id": 39910123,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Wind energy production is inconsistent relative to demand",
+        "rel": "Attack"
+    },
+    {
+        "id": 48188307,
+        "Arg1": "The \"occupy\" protest movement is justified.",
+        "Arg2": "Occupy protests are healthy exercise in collective action",
+        "rel": "Support"
+    },
+    {
+        "id": 44459487,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "Cooling between 1940 and 1975 can be attributed to sulphate aerosols",
+        "rel": "Support"
+    },
+    {
+        "id": 71064786,
+        "Arg1": "Merit-based pay for teachers is a good idea.",
+        "Arg2": "Better teachers should be paid more",
+        "rel": "Support"
+    },
+    {
+        "id": 57825075,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Troops needn\"t be on ground to call Libya engagement war.",
+        "rel": "Attack"
+    },
+    {
+        "id": 67374858,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "The White House 1/7/04made \"A more secure homeland\" a reason for implementing a guest worker program:",
+        "rel": "Support"
+    },
+    {
+        "id": 42276154,
+        "Arg1": "Mission to the Moon is preferred to Mars.",
+        "Arg2": "Entry into the Martian atmosphere is hazardous",
+        "rel": "Support"
+    },
+    {
+        "id": 32984970,
+        "Arg1": "Proposals to improve Debatepedia.org are good.",
+        "Arg2": "Creating rating system would require major software developments.",
+        "rel": "Attack"
+    },
+    {
+        "id": 64662232,
+        "Arg1": "Concealed carry is preferred to open carry gun laws.",
+        "Arg2": "Open carry is vulnerable to attacker trying to take weapon",
+        "rel": "Support"
+    },
+    {
+        "id": 47414175,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Vouchers for religious schools increase competition across system.",
+        "rel": "Support"
+    },
+    {
+        "id": 65189696,
+        "Arg1": "Open primaries are a good idea.",
+        "Arg2": "Open primaries end \"us vs them\" partisanship voting",
+        "rel": "Support"
+    },
+    {
+        "id": 38437695,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Algae biofuel can become price competitive with oil",
+        "rel": "Support"
+    },
+    {
+        "id": 68233339,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "Divided government helps produce more lasting reforms",
+        "rel": "Support"
+    },
+    {
+        "id": 89833832,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Israeli commandos acted in self-defense once on Gaza flotilla",
+        "rel": "Support"
+    },
+    {
+        "id": 28423203,
+        "Arg1": "Year-round schools are a good idea.",
+        "Arg2": "Summer is the peak time for the tourism industry.",
+        "rel": "Support"
+    },
+    {
+        "id": 77844923,
+        "Arg1": "A \"space elevator\" is a good idea.",
+        "Arg2": "The tether of a space elevator is very vulnerable.",
+        "rel": "Attack"
+    },
+    {
+        "id": 70174619,
+        "Arg1": "Nations are justified in nationalizing failing banks in the 2009/2009 economic crisis.",
+        "Arg2": "Government can sell bad assets without nationalizing banks",
+        "rel": "Attack"
+    },
+    {
+        "id": 65772040,
+        "Arg1": "Security regulations for flying are too strict.",
+        "Arg2": "Terrorists usually get caught before boarding their plane anyway.",
+        "rel": "Support"
+    },
+    {
+        "id": 46826681,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "NCLB tests what is testable; art and music is not testable.",
+        "rel": "Support"
+    },
+    {
+        "id": 61267547,
+        "Arg1": "UN Convention on the Rights of Migrant Workers and their Families is good.",
+        "Arg2": "Migrant remittances are growing and need greater protections",
+        "rel": "Support"
+    },
+    {
+        "id": 19350026,
+        "Arg1": "Corporal punishment of children is acceptable.",
+        "Arg2": "There is a difference between corporal punishment and child abuse.",
+        "rel": "Support"
+    },
+    {
+        "id": 23265533,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Comprehensive sex-ed often actually encourages sex",
+        "rel": "Support"
+    },
+    {
+        "id": 23392680,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Quality of health care is much worse under universal health care.",
+        "rel": "Attack"
+    },
+    {
+        "id": 13867946,
+        "Arg1": "WikiLeaks release of US diplomatic cables is good.",
+        "Arg2": "WikiLeaks not about transparency, but damaging US",
+        "rel": "Attack"
+    },
+    {
+        "id": 81437342,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "2nd Amendment applies only to the collective right of the militia to bear arms",
+        "rel": "Attack"
+    },
+    {
+        "id": 32565613,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Dalai Lama believes independence is not the solution for Tibet",
+        "rel": "Support"
+    },
+    {
+        "id": 45083288,
+        "Arg1": "The 1969 moon landing was faked.",
+        "Arg2": "Newtons laws apply here.",
+        "rel": "Attack"
+    },
+    {
+        "id": 43543102,
+        "Arg1": "Big, liberal government is better than small, conservative government.",
+        "Arg2": "It is a myth that government impedes growth",
+        "rel": "Support"
+    },
+    {
+        "id": 58422132,
+        "Arg1": "Seeking an MBA is good.",
+        "Arg2": "MBA can be very interesting",
+        "rel": "Support"
+    },
+    {
+        "id": 73556305,
+        "Arg1": "The $700 billion bailout plan for the 2008 US financial crisis is a good idea.",
+        "Arg2": "Deregulation and free-market ideologies caused US economic crisis",
+        "rel": "Support"
+    },
+    {
+        "id": 90953460,
+        "Arg1": "A \"space elevator\" is a good idea.",
+        "Arg2": "Space elevator is slower way of getting to space than a classical rocket.",
+        "rel": "Attack"
+    },
+    {
+        "id": 62555593,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive taxation wrongly aims for equality of outcome",
+        "rel": "Attack"
+    },
+    {
+        "id": 98437280,
+        "Arg1": "The \"occupy\" protest movement is justified.",
+        "Arg2": "Occupiers wrongly seek to redistribute by dragging rich down.",
+        "rel": "Attack"
+    },
+    {
+        "id": 67593565,
+        "Arg1": "Video surveillance in public places is justifiable.",
+        "Arg2": "Crime cameras help catch criminals and get them off the street",
+        "rel": "Support"
+    },
+    {
+        "id": 94963039,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Competition via vouchers makes schools more efficient/effective",
+        "rel": "Support"
+    },
+    {
+        "id": 44459475,
+        "Arg1": "EU arms sales to China are justifiable.",
+        "Arg2": "The current arms ban is purely symbolic, as China is already able to buy a range of military items from Europe.",
+        "rel": "Support"
+    },
+    {
+        "id": 81160483,
+        "Arg1": "Seeking an MBA is good.",
+        "Arg2": "Some of the best businessmen don\"t have MBAs",
+        "rel": "Attack"
+    },
+    {
+        "id": 53700666,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Facebook undermines the value of interpersonal relationships.",
+        "rel": "Support"
+    },
+    {
+        "id": 70146402,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "Prolonging Iraq War will permanently damage US military",
+        "rel": "Attack"
+    },
+    {
+        "id": 10232178,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools spend more on administration",
+        "rel": "Attack"
+    },
+    {
+        "id": 51263992,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Flotilla raid continues overly-violent Israeli mind-set",
+        "rel": "Attack"
+    },
+    {
+        "id": 14020686,
+        "Arg1": "The Three Gorges Dam is a good idea.",
+        "Arg2": "TGD will substantially benefit Chinas economic development",
+        "rel": "Support"
+    },
+    {
+        "id": 80565750,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "\"Immigration makes security stronger, not weaker: \"immigrants provide a bridge to world understanding, helping to counter anti-American sentiment.\"\" -",
+        "rel": "Support"
+    },
+    {
+        "id": 94222320,
+        "Arg1": "The French ban on Muslim veils in public buildings is justified.",
+        "Arg2": "If Muslims don\"t like French policy on the veil, they can move elsewhere.",
+        "rel": "Support"
+    },
+    {
+        "id": 81717325,
+        "Arg1": "Mercenaries and private military contractors are a good idea.",
+        "Arg2": "Governments rely on mercenaries at a expense of developing armies.",
+        "rel": "Attack"
+    },
+    {
+        "id": 72714750,
+        "Arg1": "US President Obamas 2009 troop \"surge\" in Afghanistan is a good idea.",
+        "Arg2": "Surge in Afghanistan is a necessary piece of larger puzzle",
+        "rel": "Support"
+    },
+    {
+        "id": 44916016,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama imposed sanctions on Syria for repression.",
+        "rel": "Support"
+    },
+    {
+        "id": 38377462,
+        "Arg1": "EU expansion and EU membership itself are good.",
+        "Arg2": "European Union should include all of Europe; its in their name.",
+        "rel": "Support"
+    },
+    {
+        "id": 84535216,
+        "Arg1": "Settlements are justified. Expansion is defensible.",
+        "Arg2": "Israeli settlements are a form of annexation",
+        "rel": "Attack"
+    },
+    {
+        "id": 46867091,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "Circumcised men engage in more varied sexual activity.",
+        "rel": "Support"
+    },
+    {
+        "id": 85465476,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "The foreskin is a brilliant product of human evolution",
+        "rel": "Attack"
+    },
+    {
+        "id": 44837058,
+        "Arg1": "US President Obamas 2009 troop \"surge\" in Afghanistan is a good idea.",
+        "Arg2": "Foreign governments will not contribute to troop surge.",
+        "rel": "Attack"
+    },
+    {
+        "id": 75718426,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "Lisbon Treaty prevents states from attracting companies with low taxes.",
+        "rel": "Attack"
+    },
+    {
+        "id": 79174986,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Exploiting animals is more dignified than their living in the wild",
+        "rel": "Support"
+    },
+    {
+        "id": 30272625,
+        "Arg1": "Medical marijuana dispensaries are a good idea.",
+        "Arg2": "More money for other sectors",
+        "rel": "Support"
+    },
+    {
+        "id": 37932623,
+        "Arg1": "Thorium based nuclear energy is good.",
+        "Arg2": "Molten fluoride salts are highly reactive.",
+        "rel": "Attack"
+    },
+    {
+        "id": 82657183,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "One-party rule leads to corruption",
+        "rel": "Support"
+    },
+    {
+        "id": 22584214,
+        "Arg1": "Direct democracy is good.",
+        "Arg2": "Direct democracy avoids appointment of unaccountable officials.",
+        "rel": "Support"
+    },
+    {
+        "id": 95634416,
+        "Arg1": "Airport security profiling is a good idea.",
+        "Arg2": "Profile from one group and terrorists will recruit from another",
+        "rel": "Attack"
+    },
+    {
+        "id": 90264227,
+        "Arg1": "Extracting oil from \"oil sands\" is good.",
+        "Arg2": "Reclamation limits local environmental damage of oil sands",
+        "rel": "Support"
+    },
+    {
+        "id": 19030613,
+        "Arg1": "Open primaries are a good idea.",
+        "Arg2": "Open primaries favor new candidates over establishment.",
+        "rel": "Support"
+    },
+    {
+        "id": 28781954,
+        "Arg1": "Teacher-student friendships on Facebook are good.",
+        "Arg2": "Hard to enforce restrictions on student-teacher relationships.",
+        "rel": "Support"
+    },
+    {
+        "id": 31948309,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Algae reproduces quickly, maximizing biofuel yields",
+        "rel": "Support"
+    },
+    {
+        "id": 45969070,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israels response was disproportionate to the provocation by Hamas",
+        "rel": "Attack"
+    },
+    {
+        "id": 45970756,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Dalai Lama was not behind the recent protests",
+        "rel": "Support"
+    },
+    {
+        "id": 75884726,
+        "Arg1": "Covenant marriages are a good idea.",
+        "Arg2": "Abusive marriages may be prolonged by covenant marriages.",
+        "rel": "Attack"
+    },
+    {
+        "id": 53488892,
+        "Arg1": "Atheism is a sound (un)religious philosophy in the modern world.",
+        "Arg2": "Reality and the laws of nature are independent of man and faith.",
+        "rel": "Support"
+    },
+    {
+        "id": 80614392,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Police abuse crime cameras, leering at women.",
+        "rel": "Attack"
+    },
+    {
+        "id": 84887184,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "America has started tuning out an overexposed Obama.",
+        "rel": "Attack"
+    },
+    {
+        "id": 93643554,
+        "Arg1": "The North American Free Trade Agreement (NAFTA) has been beneficial. It is a model.",
+        "Arg2": "Lack of diversity",
+        "rel": "Attack"
+    },
+    {
+        "id": 17069853,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "The crowd is becoming increasingly more intelligent, expert, and talented, making decentralizing Web 2.0 technologies increasingly capable of allowing the spotting of such things and their exposure:",
+        "rel": "Attack"
+    },
+    {
+        "id": 43467957,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "A cap-and-trade system is susceptible to distortion by lobby groups.",
+        "rel": "Attack"
+    },
+    {
+        "id": 97334100,
+        "Arg1": "Democracy is really the best form of government.",
+        "Arg2": "Democracy is just an illusion.",
+        "rel": "Attack"
+    },
+    {
+        "id": 22455869,
+        "Arg1": "The 2010 US health care reform legislation is a good idea.",
+        "Arg2": "US health care law is too unpopular",
+        "rel": "Attack"
+    },
+    {
+        "id": 59093778,
+        "Arg1": "Barack Obama is justified in his willingness to talk to foreign leaders without preconditions.",
+        "Arg2": "Obama open talks offer rogue leaders propaganda opportunities",
+        "rel": "Attack"
+    },
+    {
+        "id": 22906257,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Efficiency isn\"t the major goal of capitalism as a whole.",
+        "rel": "Support"
+    },
+    {
+        "id": 58068266,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Maintaining crime cameras costs too much.",
+        "rel": "Attack"
+    },
+    {
+        "id": 55965802,
+        "Arg1": "Needle exchanges are a good idea. They do improve public health/safety.",
+        "Arg2": "General statements against needle exchanges",
+        "rel": "Attack"
+    },
+    {
+        "id": 10649442,
+        "Arg1": "Israeli blockade of Gaza is good.",
+        "Arg2": "General statements against Israeli blockade of Gaza",
+        "rel": "Attack"
+    },
+    {
+        "id": 26120694,
+        "Arg1": "This House believes that advances in science present a threat.",
+        "Arg2": "Nuclear submarine accidents are a global hazard",
+        "rel": "Support"
+    },
+    {
+        "id": 46552744,
+        "Arg1": "A 700 mile fence on the US-Mexico border is justified.",
+        "Arg2": "You Don\"t Speak for Me",
+        "rel": "Support"
+    },
+    {
+        "id": 39149924,
+        "Arg1": "A nuclear Iran is intolerable, justifying military action to prevent.",
+        "Arg2": "Diplomacy with Iran requires force, not \"tolerance\"",
+        "rel": "Support"
+    },
+    {
+        "id": 15655431,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Modern porn increasingly crosses fantasy-reality boundary",
+        "rel": "Attack"
+    },
+    {
+        "id": 77708447,
+        "Arg1": "The American Jobs Act is good.",
+        "Arg2": "Increasing taxes on successful corps will do harm.",
+        "rel": "Attack"
+    },
+    {
+        "id": 59878474,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "F.B.I. agents complain of dead-ends from NSA program intel:",
+        "rel": "Attack"
+    },
+    {
+        "id": 47561240,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "Hunting is a good way of controlling widlife",
+        "rel": "Support"
+    },
+    {
+        "id": 59336059,
+        "Arg1": "Hillary Clinton is the better candidate than Barack Obama.",
+        "Arg2": "A female president would be appropriately empathetic in her foreign policy.",
+        "rel": "Support"
+    },
+    {
+        "id": 62203162,
+        "Arg1": "Capitalism is the superior system to socialism.",
+        "Arg2": "Capitalism is necessary condition for political freedom",
+        "rel": "Support"
+    },
+    {
+        "id": 17681707,
+        "Arg1": "Merit-based pay for teachers is a good idea.",
+        "Arg2": "Teacher merit can be measured and help determine pay",
+        "rel": "Support"
+    },
+    {
+        "id": 44828867,
+        "Arg1": "US health insurance mandates are constitutional.",
+        "Arg2": "Congress can\"t regulate behavior indirectly impacting commerce",
+        "rel": "Attack"
+    },
+    {
+        "id": 92791682,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "The natural gas infrastructure already exists.",
+        "rel": "Support"
+    },
+    {
+        "id": 98968164,
+        "Arg1": "A military draft generally is a good thing to have in place at all times.",
+        "Arg2": "Conscription is unnecessary.",
+        "rel": "Attack"
+    },
+    {
+        "id": 71834456,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "McCain offers four more years of Bushs failed policies",
+        "rel": "Attack"
+    },
+    {
+        "id": 79970818,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "1. AUMF - The Congressional Authorization for the Use of Military Force",
+        "rel": "Support"
+    },
+    {
+        "id": 73948040,
+        "Arg1": "The farming and consumption of veal is acceptable.",
+        "Arg2": "Hutches can be more comfortable for veal calves.",
+        "rel": "Support"
+    },
+    {
+        "id": 30228455,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "A profit health care environment results in more frivolous lawsuits",
+        "rel": "Support"
+    },
+    {
+        "id": 32955031,
+        "Arg1": "Airport security profiling is a good idea.",
+        "Arg2": "Profiling will use such information as nervousness at airport.",
+        "rel": "Support"
+    },
+    {
+        "id": 64228059,
+        "Arg1": "Civil unions are the superior alternative to gay marriage.",
+        "Arg2": "Civil unions have to be explained; unequal status with marriage",
+        "rel": "Attack"
+    },
+    {
+        "id": 62864858,
+        "Arg1": "The War in Iraq was worth fighting.",
+        "Arg2": "War in Iraq sent message about WMD, sponsoring terror, etc.",
+        "rel": "Support"
+    },
+    {
+        "id": 40740696,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Crime cameras cannot deter criminals that do not fear the law",
+        "rel": "Attack"
+    },
+    {
+        "id": 53953706,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Protectionism causes resentment among nations",
+        "rel": "Support"
+    },
+    {
+        "id": 60486523,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "FISA was amended within the context of the emerging threat of terrorism:",
+        "rel": "Attack"
+    },
+    {
+        "id": 57834772,
+        "Arg1": "Atheism is a sound (un)religious philosophy in the modern world.",
+        "Arg2": "Religion gives people something outside of themselves to live for.",
+        "rel": "Attack"
+    },
+    {
+        "id": 88868188,
+        "Arg1": "Big, liberal government is better than small, conservative government.",
+        "Arg2": "Big government is too costly",
+        "rel": "Attack"
+    },
+    {
+        "id": 24672949,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "The invasion of Iraq was illegal, making a withdrawal necessary",
+        "rel": "Attack"
+    },
+    {
+        "id": 12287127,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Israel should have expected Gaza flotilla to react violently",
+        "rel": "Attack"
+    },
+    {
+        "id": 17908504,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama has managed numerous natural disasters deftly.",
+        "rel": "Support"
+    },
+    {
+        "id": 66127545,
+        "Arg1": "Social networking sites are generally beneficial to our world.",
+        "Arg2": "Social networking sites have agreements that explicitly say that information can be used commercially in any way.",
+        "rel": "Support"
+    },
+    {
+        "id": 64670766,
+        "Arg1": "Wikipedia is a reliable and socially beneficial resource.",
+        "Arg2": "Wikipedia has many stupid or irrelevant articles as compared to Britannica.",
+        "rel": "Attack"
+    },
+    {
+        "id": 83840835,
+        "Arg1": "Big, liberal government is better than small, conservative government.",
+        "Arg2": "Big government can better help individuals.",
+        "rel": "Support"
+    },
+    {
+        "id": 88329589,
+        "Arg1": "High speed rail development is generally good policy.",
+        "Arg2": "High-speed rail safer than other forms of travel.",
+        "rel": "Support"
+    },
+    {
+        "id": 85508292,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "Circumcision helps protect against syphilis",
+        "rel": "Support"
+    },
+    {
+        "id": 25969290,
+        "Arg1": "Googles decision to stop censoring results in China was justified.",
+        "Arg2": "Bad idea for Google to leave biggest search market",
+        "rel": "Attack"
+    },
+    {
+        "id": 45970043,
+        "Arg1": "Seeking an MBA is good.",
+        "Arg2": "MBA-taught complex business models are costly|",
+        "rel": "Attack"
+    },
+    {
+        "id": 57981850,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "Cooling between 1940 and 1975 can be attributed to sulphate aerosols",
+        "rel": "Support"
+    },
+    {
+        "id": 84526371,
+        "Arg1": "Communism is a sound political philosophy.",
+        "Arg2": "Communism will destroy the economy.",
+        "rel": "Attack"
+    },
+    {
+        "id": 68788037,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Circumcised foreskin can be used to combat facial aging",
+        "rel": "Support"
+    },
+    {
+        "id": 76978713,
+        "Arg1": "Single sex schools are a good idea.",
+        "Arg2": "Teachers possibly becoming the wrong objects of interest in students.",
+        "rel": "Attack"
+    },
+    {
+        "id": 17722416,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Non-circumcision can result in many complications",
+        "rel": "Support"
+    },
+    {
+        "id": 49777786,
+        "Arg1": "Outsourcing (and offshoring) is a positive phenomenon.",
+        "Arg2": "Globalisation makes cross-border interaction more rapid, cheap, and stable:",
+        "rel": "Support"
+    },
+    {
+        "id": 36409926,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Education vouchers force schools to hire competitive teachers.",
+        "rel": "Support"
+    },
+    {
+        "id": 92633463,
+        "Arg1": "An international ban on cluster bombs is justified. The US was not wrong to reject it.",
+        "Arg2": "A cluster bomb ban will undermine military alliances",
+        "rel": "Attack"
+    },
+    {
+        "id": 93441010,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Protesters initiated violence on flotilla, not IDF.",
+        "rel": "Support"
+    },
+    {
+        "id": 82603626,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "A cap-and-trade system better encourages companies to cut their carbon emissions:",
+        "rel": "Support"
+    },
+    {
+        "id": 85678036,
+        "Arg1": "Random breath tests for drivers are a good idea.",
+        "Arg2": "Random sobriety tests are a just public safety intervention",
+        "rel": "Support"
+    },
+    {
+        "id": 79110514,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama helped save the auto industry.",
+        "rel": "Support"
+    },
+    {
+        "id": 73314041,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "Assassination attempts are driven by invalid ideological considerations.",
+        "rel": "Attack"
+    },
+    {
+        "id": 38799536,
+        "Arg1": "Direct democracy is good.",
+        "Arg2": "Referenda devalue role of legislative bodies",
+        "rel": "Attack"
+    },
+    {
+        "id": 72122404,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "The \"free\" content of Web 2.0 is not very different than the mostly free content of tv, radio, and newspapers; ads are where these business make their money:",
+        "rel": "Attack"
+    },
+    {
+        "id": 94690030,
+        "Arg1": "Random breath tests for drivers are a good idea.",
+        "Arg2": "RBT has been successful in countries that implement it",
+        "rel": "Support"
+    },
+    {
+        "id": 16491070,
+        "Arg1": "Each candidate is good.",
+        "Arg2": "Education:",
+        "rel": "Support"
+    },
+    {
+        "id": 43797163,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Would a proportional response from Israel include rocket attacks?",
+        "rel": "Support"
+    },
+    {
+        "id": 18346657,
+        "Arg1": "Web 2.0 citizen journalism is having a positive effect worldwide.",
+        "Arg2": "The Web 2.0 allows for too much democracy, trusting too much in the self-regulating side of man:",
+        "rel": "Support"
+    },
+    {
+        "id": 36644197,
+        "Arg1": "Pornography does offer a valuable public service.",
+        "Arg2": "Porn leaves men feeling empty and upset with themselves.",
+        "rel": "Attack"
+    },
+    {
+        "id": 63302796,
+        "Arg1": "The assassination of a dictator can be justified.",
+        "Arg2": "Assassinating terrorists is justified/legal when they are \"combatants\"",
+        "rel": "Support"
+    },
+    {
+        "id": 74797450,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "Chinas \"one child\" policy creates too many only childs",
+        "rel": "Attack"
+    },
+    {
+        "id": 65709610,
+        "Arg1": "Atheism is a sound (un)religious philosophy in the modern world.",
+        "Arg2": "Regarding the atheists premise If you believe in God, then you reject reason.",
+        "rel": "Attack"
+    },
+    {
+        "id": 73347983,
+        "Arg1": "Burying Osama Bin Laden at sea was the right choice.",
+        "Arg2": "Sea burial only option consistent with 24-hour Islamic rule.",
+        "rel": "Support"
+    },
+    {
+        "id": 68177908,
+        "Arg1": "Year-round schools are a good idea.",
+        "Arg2": "Year-round schooling may only temporarily relieve overcrowding",
+        "rel": "Attack"
+    },
+    {
+        "id": 98252704,
+        "Arg1": "Global warming is chiefly caused by humans not by natural phenomenon.",
+        "Arg2": "Scientific consensus does not prove climate change is human-caused",
+        "rel": "Attack"
+    },
+    {
+        "id": 31399179,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israels response was disproportionate to the provocation by Hamas",
+        "rel": "Attack"
+    },
+    {
+        "id": 42120164,
+        "Arg1": "The Dalai Lamas \"middle way\" is the best approach for Tibet.",
+        "Arg2": "Dalai Lama is the symbol of an on going Tibet  struggle",
+        "rel": "Support"
+    },
+    {
+        "id": 18396972,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive taxation increases tax revenue and social services",
+        "rel": "Support"
+    },
+    {
+        "id": 70716563,
+        "Arg1": "The French ban on Muslim veils in public buildings is justified.",
+        "Arg2": "France has a very low Muslim population.",
+        "rel": "Support"
+    },
+    {
+        "id": 72913423,
+        "Arg1": "Wave power is good.",
+        "Arg2": "Diffuse wave energy requires many wave generators; high impact",
+        "rel": "Attack"
+    },
+    {
+        "id": 75090575,
+        "Arg1": "Education vouchers are good public policy.",
+        "Arg2": "Vouchers worsen gap between private and public schools",
+        "rel": "Attack"
+    },
+    {
+        "id": 44324594,
+        "Arg1": "An international ban on cluster bombs is justified. The US was not wrong to reject it.",
+        "Arg2": "US strong-arms nations by saying cluster bomb ban undermines alliances",
+        "rel": "Support"
+    },
+    {
+        "id": 99614825,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "Hamdan \"does not fit the Article 4 definition of a prisoner of war",
+        "rel": "Support"
+    },
+    {
+        "id": 73021862,
+        "Arg1": "Communism is a sound political philosophy.",
+        "Arg2": "People have full rights to their property that governments shouldn\"t deprive",
+        "rel": "Attack"
+    },
+    {
+        "id": 69937861,
+        "Arg1": "Multiculturalism is a better social model than assimilation.",
+        "Arg2": "Multiculturalism politicizes identity in ethnic and religious terms",
+        "rel": "Attack"
+    },
+    {
+        "id": 49186837,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Risk of executing innocent people undermines death penalty",
+        "rel": "Attack"
+    },
+    {
+        "id": 47503205,
+        "Arg1": "Single-payer health care is a good idea.",
+        "Arg2": "Free, universal health care helps the unhealthy in times of need.",
+        "rel": "Support"
+    },
+    {
+        "id": 48517891,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Inconsistent wind energy in Pickens Plan can be accommodated",
+        "rel": "Support"
+    },
+    {
+        "id": 47890101,
+        "Arg1": "Elective, adult male circumcision is a good idea.",
+        "Arg2": "Circumcision results in enlargement of gland, enjoyed by women",
+        "rel": "Support"
+    },
+    {
+        "id": 39807488,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "As a result, most defendants are unlikely to have civilian attorneys",
+        "rel": "Attack"
+    },
+    {
+        "id": 50234913,
+        "Arg1": "Storing nuclear waste in underground repositories is a good idea.",
+        "Arg2": "All nuclear waste storage dangerous; no good option.",
+        "rel": "Attack"
+    },
+    {
+        "id": 48195161,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "S. 2611s Guest Worker \"prevailing wage\" provision is designed to protect against wage deflation resulting from employers offering low wages to foreign workers:Charles H. Kuck, Vice President, American Immigration Lawyers Association.]",
+        "rel": "Support"
+    },
+    {
+        "id": 94494124,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "All Israelis serve in military; Hamas rockets have military target.",
+        "rel": "Attack"
+    },
+    {
+        "id": 89637899,
+        "Arg1": "Natural gas is a good energy source for the 21st century.",
+        "Arg2": "Natural gas can be harmful and even poisonous to ingest",
+        "rel": "Attack"
+    },
+    {
+        "id": 60682396,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "Chinas one-child policy increases crime",
+        "rel": "Attack"
+    },
+    {
+        "id": 11609966,
+        "Arg1": "Wikipedia is a reliable and socially beneficial resource.",
+        "Arg2": "Wikipedia should have a peer review process before edits are accepted",
+        "rel": "Attack"
+    },
+    {
+        "id": 26847658,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Abstinence-only promotes healthy, fulfilling relationships",
+        "rel": "Support"
+    },
+    {
+        "id": 28259703,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Spending on cameras for a \"sense of safety\" is wasteful",
+        "rel": "Attack"
+    },
+    {
+        "id": 74848861,
+        "Arg1": "Waterboarding is a justified interrogation technique.",
+        "Arg2": "Waterboarding leaves no lasting scars and so is not torture",
+        "rel": "Support"
+    },
+    {
+        "id": 80178773,
+        "Arg1": "Market mechanisms are preferable to regulatory approaches in reducing carbon emissions.",
+        "Arg2": "Companies can easily adapt to heavier efficiency standards:",
+        "rel": "Attack"
+    },
+    {
+        "id": 39762341,
+        "Arg1": "The farming and consumption of veal is acceptable.",
+        "Arg2": "Veal farming is a good alternative to the slaughtering of unwanted calves",
+        "rel": "Support"
+    },
+    {
+        "id": 23747417,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "New Orleans mayor gave wasteful contracts for crime cameras.",
+        "rel": "Attack"
+    },
+    {
+        "id": 44682424,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Non-profit co-ops have lower administrative costs and premiums",
+        "rel": "Support"
+    },
+    {
+        "id": 31162423,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Disadvantaged can afford publicly-funded charter schools",
+        "rel": "Support"
+    },
+    {
+        "id": 94129384,
+        "Arg1": "That on balance, the No Child Left Behind Act of 2001. has improved academic achievement in the United States.",
+        "Arg2": "Standardized tests poorly measure real student learning",
+        "rel": "Attack"
+    },
+    {
+        "id": 79417251,
+        "Arg1": "US President Obamas 2009 troop \"surge\" in Afghanistan is a good idea.",
+        "Arg2": "Afghanistan poses greater threat to US than Iraq",
+        "rel": "Support"
+    },
+    {
+        "id": 15054817,
+        "Arg1": "Schools that are not current on technology are limiting their students.",
+        "Arg2": "Possible harms can be minimized.",
+        "rel": "Support"
+    },
+    {
+        "id": 89552882,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "Poor countries are exploited as dustbins for failed GMO experiments.",
+        "rel": "Attack"
+    },
+    {
+        "id": 20578477,
+        "Arg1": "A European Monetary Fund is a good idea.",
+        "Arg2": "The EMF siphons off capital, increases national borrowing costs",
+        "rel": "Attack"
+    },
+    {
+        "id": 84422469,
+        "Arg1": "Danish newspaper Jyllands-Posten was right to publish cartons of Muhammad in 2005.",
+        "Arg2": "The cartoons were an exercise in hate, rather than free, speech.",
+        "rel": "Attack"
+    },
+    {
+        "id": 68346568,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "Israeli flotilla raid was act of self-defense",
+        "rel": "Support"
+    },
+    {
+        "id": 19023938,
+        "Arg1": "Big, liberal government is better than small, conservative government.",
+        "Arg2": "Government is by, of, and for the people/individual.",
+        "rel": "Support"
+    },
+    {
+        "id": 83213026,
+        "Arg1": "Extraordinary rendition is justified in fighting terrorism.",
+        "Arg2": "It violates the United Nations Convention Against Torture (UNCAT) Article 3",
+        "rel": "Attack"
+    },
+    {
+        "id": 77140287,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Obama administration consulted with Congress on Libya",
+        "rel": "Support"
+    },
+    {
+        "id": 79185864,
+        "Arg1": "Models are beneficial to society.",
+        "Arg2": "Models create demand for luxuries.",
+        "rel": "Support"
+    },
+    {
+        "id": 46047622,
+        "Arg1": "Algae biofuel is good.",
+        "Arg2": "Algae biofuel does not damage food prices",
+        "rel": "Support"
+    },
+    {
+        "id": 68407452,
+        "Arg1": "Danish newspaper Jyllands-Posten was right to publish cartons of Muhammad in 2005.",
+        "Arg2": "The Jyllands-Posten Muhammad cartoons stimulate debate and understanding.",
+        "rel": "Support"
+    },
+    {
+        "id": 48817015,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Cameras can deter anti-social behavior such as littering",
+        "rel": "Support"
+    },
+    {
+        "id": 97856716,
+        "Arg1": "The Arizona illegal immigration law is good.",
+        "Arg2": "Government protection (from illegal immigrants) is a const. right.",
+        "rel": "Support"
+    },
+    {
+        "id": 44962998,
+        "Arg1": "The Three Gorges Dam is a good idea.",
+        "Arg2": "Three Gorges Dam gives China added respect in the world.",
+        "rel": "Support"
+    },
+    {
+        "id": 92613963,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Facebook is a symptom, not a cause.",
+        "rel": "Attack"
+    },
+    {
+        "id": 38256206,
+        "Arg1": "US President Obamas 2009 troop \"surge\" in Afghanistan is a good idea.",
+        "Arg2": "Surge in Afghanistan lengthens an endless and costly war",
+        "rel": "Attack"
+    },
+    {
+        "id": 76087157,
+        "Arg1": "Chinas \"one child\" policy is sensible.",
+        "Arg2": "\"One child\" policy can be modified to improve demographics.",
+        "rel": "Support"
+    },
+    {
+        "id": 91400378,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM crops can combat specific nutrient deficiencies in the third-world",
+        "rel": "Support"
+    },
+    {
+        "id": 16773436,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama pushed free trade deals w/ Colombia, Panama, S.K.",
+        "rel": "Support"
+    },
+    {
+        "id": 18685860,
+        "Arg1": "Extracting oil from \"oil sands\" is good.",
+        "Arg2": "Carbon sequestration cannot be relied on for oil sands",
+        "rel": "Attack"
+    },
+    {
+        "id": 72866919,
+        "Arg1": "Military tribunals in the US were justified.",
+        "Arg2": "The above liability for innacurate conlusions is unacceptable particularly as capital punishment is in the cards - a huge liability to US judicial credibility:",
+        "rel": "Attack"
+    },
+    {
+        "id": 12599114,
+        "Arg1": "Waterboarding is a justified interrogation technique.",
+        "Arg2": "Waterboarding justly brings a terrorist face-to-face with death",
+        "rel": "Support"
+    },
+    {
+        "id": 46563078,
+        "Arg1": "The Arizona illegal immigration law is good.",
+        "Arg2": "Most Americans support Arizonas immigration law",
+        "rel": "Support"
+    },
+    {
+        "id": 39237946,
+        "Arg1": "The United States NSAs warrantless wiretapping program was justified.",
+        "Arg2": "Gen. Michael V. Hayden, the countrys second-ranking intelligence official and the director of the N.S.A said",
+        "rel": "Support"
+    },
+    {
+        "id": 49964968,
+        "Arg1": "A progressive tax system is preferred to, for example, a flat tax.",
+        "Arg2": "Progressive tax systems recognize income is partly a collective good",
+        "rel": "Support"
+    },
+    {
+        "id": 70306954,
+        "Arg1": "Male circumcision is beneficial and/or ethically sound.",
+        "Arg2": "Most male sexual health problems stem from irresponsible sex, not circumcision.",
+        "rel": "Attack"
+    },
+    {
+        "id": 14086282,
+        "Arg1": "Year-round schools are a good idea.",
+        "Arg2": "9-month schooling crams too much info into shorter period",
+        "rel": "Support"
+    },
+    {
+        "id": 25493585,
+        "Arg1": "Gene patents, particularly related to food and agricultural products, are a good idea.",
+        "Arg2": "Many major biotech products have come from patented genes",
+        "rel": "Support"
+    },
+    {
+        "id": 86122887,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Capital punishment protects more innocents than it does accidentally take the life of innocent convicts.",
+        "rel": "Support"
+    },
+    {
+        "id": 91429319,
+        "Arg1": "Gene patents, particularly related to food and agricultural products, are a good idea.",
+        "Arg2": "Genes cannot be owned practically, are part of commons",
+        "rel": "Attack"
+    },
+    {
+        "id": 97547925,
+        "Arg1": "Charter schools are a good idea and in New Orleans.",
+        "Arg2": "Charter schools, free from regulation, are innovative",
+        "rel": "Support"
+    },
+    {
+        "id": 30589600,
+        "Arg1": "A US National Renewable Energy Standard is a good idea.",
+        "Arg2": "General statements against US Renewable Electricity Standard",
+        "rel": "Attack"
+    },
+    {
+        "id": 34749919,
+        "Arg1": "The death penalty is justified.",
+        "Arg2": "Executing killers is not comparable to raping rapists",
+        "rel": "Support"
+    },
+    {
+        "id": 77002748,
+        "Arg1": "Corporal punishment of children is acceptable.",
+        "Arg2": "Corporal punishment should be limited, but not abandoned",
+        "rel": "Support"
+    },
+    {
+        "id": 45909782,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "DREAM Act allows young aliens to produce more in economy",
+        "rel": "Support"
+    },
+    {
+        "id": 17973931,
+        "Arg1": "Debate is a better form of discourse than dialogue.",
+        "Arg2": "Debate can crease false dichotomies and non-existent problems:",
+        "rel": "Attack"
+    },
+    {
+        "id": 60343364,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM foods are essential to responding to global food shortages",
+        "rel": "Support"
+    },
+    {
+        "id": 74117270,
+        "Arg1": "Background and context.",
+        "Arg2": "God is the only rational explanation of the existence of the Universe.",
+        "rel": "Support"
+    },
+    {
+        "id": 42353319,
+        "Arg1": "Multiculturalism is a better social model than assimilation.",
+        "Arg2": "Multiculturalism calls for a \"mosaic\" rather than a \"melting pot\"",
+        "rel": "Support"
+    },
+    {
+        "id": 17954581,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Crime-ridden communities have right to demand and install cameras",
+        "rel": "Support"
+    },
+    {
+        "id": 76194216,
+        "Arg1": "The CTBT, or any other nuclear test ban treaty, is a good idea.",
+        "Arg2": "Test ban would help combat growing nuclear threats",
+        "rel": "Support"
+    },
+    {
+        "id": 47191052,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "Divided government offers better opportunities for dissent",
+        "rel": "Support"
+    },
+    {
+        "id": 44560766,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "The transparency and clarity of a carbon tax is attractive politically.",
+        "rel": "Attack"
+    },
+    {
+        "id": 81057479,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "US merely supporting NATO; War Powers inapplicable",
+        "rel": "Support"
+    },
+    {
+        "id": 15011019,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "The Israeli assault on Hamas undermines liberty globally",
+        "rel": "Attack"
+    },
+    {
+        "id": 86287796,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Oil drilling is a better alternative to efficiency standards.",
+        "rel": "Attack"
+    },
+    {
+        "id": 91566963,
+        "Arg1": "Home plate collisions in baseball are worth preserving.",
+        "Arg2": "Injuries are a crucial aspect of the game, justifying rule changes is a necessary step to ensure player safety and fair competition.",
+        "rel": "Attack"
+    },
+    {
+        "id": 32212612,
+        "Arg1": "Genetically modified foods (GM foods) are beneficial.",
+        "Arg2": "GM foods increase the damage caused by pesticides to wildlife.",
+        "rel": "Attack"
+    },
+    {
+        "id": 87160593,
+        "Arg1": "The farming and consumption of veal is acceptable.",
+        "Arg2": "If regulations are being improved, then humane practices are not being followed.",
+        "rel": "Attack"
+    },
+    {
+        "id": 80627847,
+        "Arg1": "Civil unions are the superior alternative to gay marriage.",
+        "Arg2": "The exact opposite of the civil unions avoid drawn out culture war on gay marriage argument is that civil unions actually prolong and escalate the culture war on gay marriage.",
+        "rel": "Attack"
+    },
+    {
+        "id": 48125113,
+        "Arg1": "High speed rail development is generally good policy.",
+        "Arg2": "High-speed rail causes more car accidents.",
+        "rel": "Attack"
+    },
+    {
+        "id": 43029613,
+        "Arg1": "The US Dream Act is a good idea.",
+        "Arg2": "The DREAM Act is amnesty, not earned citizenship.",
+        "rel": "Attack"
+    },
+    {
+        "id": 79778801,
+        "Arg1": "Artificial life is good.",
+        "Arg2": "Synthetic life should not need regulation, but should be banned.",
+        "rel": "Attack"
+    },
+    {
+        "id": 27389043,
+        "Arg1": "Abstinence-only education is a better idea than comprehensive sex education.",
+        "Arg2": "Abstinence-only is wrongly teaching saving sex for marriage.",
+        "rel": "Attack"
+    },
+    {
+        "id": 84598961,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Offshore drilling should not be included in a comprehensive US energy plan.",
+        "rel": "Attack"
+    },
+    {
+        "id": 22642754,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Obama advocates for tax increases and spending cuts, with an emphasis on the latter.",
+        "rel": "Attack"
+    },
+    {
+        "id": 69847393,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Fuel economy standards do not reduce emissions, worsen air quality.",
+        "rel": "Attack"
+    },
+    {
+        "id": 95194171,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "The Affordable Care Act is based off of Romney's plan in MA, therefore it is not a socialist program.",
+        "rel": "Attack"
+    },
+    {
+        "id": 29519435,
+        "Arg1": "Offshore drilling is a good idea. Obama was right to open new drilling in 2010.",
+        "Arg2": "Directional drilling does not allow a single well to tap massive reservoirs.",
+        "rel": "Attack"
+    },
+    {
+        "id": 96063234,
+        "Arg1": "Colonizing the Moon is a good idea.",
+        "Arg2": "The proximity of the Moon to Earth makes it less ideal to colonize",
+        "rel": "Attack"
+    },
+    {
+        "id": 61163055,
+        "Arg1": "Free trade and economic globalization (integration) is good for the world.",
+        "Arg2": "Protectionism is inclusive.",
+        "rel": "Attack"
+    },
+    {
+        "id": 48428170,
+        "Arg1": "Developed countries do owe a debt to developing world over climate change.",
+        "Arg2": "",
+        "rel": "Attack"
+    },
+    {
+        "id": 13573528,
+        "Arg1": "Drinking coffee is good.",
+        "Arg2": "Caffeine does not help to stay alert.",
+        "rel": "Attack"
+    },
+    {
+        "id": 35297826,
+        "Arg1": "Obama does deserve a second term.",
+        "Arg2": "Took major steps backward toward universal and weaker healthcare.",
+        "rel": "Attack"
+    },
+    {
+        "id": 87759161,
+        "Arg1": "Vehicle fuel economy standards are a good strategy in fighting global warming.",
+        "Arg2": "Japan and Europe have low fuel economy standards, making it difficult to achieve high fuel efficiency.",
+        "rel": "Attack"
+    },
+    {
+        "id": 29861505,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "The EU weakens its diplomatic representation on the global stage.",
+        "rel": "Attack"
+    },
+    {
+        "id": 26243134,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Under $1b in spending can hardly be called a \"war\" because it is not a significant enough investment to justify the label of a \"war\".",
+        "rel": "Attack"
+    },
+    {
+        "id": 80554975,
+        "Arg1": "A manned mission to Mars is a good idea. Continued robotic mission is not best.",
+        "Arg2": "No manned mission to Mars will hinder the engineering industry.",
+        "rel": "Attack"
+    },
+    {
+        "id": 54491119,
+        "Arg1": "Who is the better candidate for the US Presidency?",
+        "Arg2": "Obama's tax policies are better than McCain's",
+        "rel": "Attack"
+    },
+    {
+        "id": 30359923,
+        "Arg1": "Divided government is better than one-party rule.",
+        "Arg2": "Divided government offers better opportunities for dissent because a government divided between two parties provides a natural check on the power of the majority party, allowing for a more robust exchange of ideas and a greater likelihood of compromise.",
+        "rel": "Attack"
+    },
+    {
+        "id": 39128932,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "The individual right to arms is a lasting symbol of individual oppression.",
+        "rel": "Attack"
+    },
+    {
+        "id": 12224981,
+        "Arg1": "This House believes that debaters make better spouses.",
+        "Arg2": "Debaters are not used to dealing with problems, resolving them and shaking hands after each and every discussion.",
+        "rel": "Attack"
+    },
+    {
+        "id": 81444091,
+        "Arg1": "14th amendment executive order to raise the debt ceiling is good.",
+        "Arg2": "During a crisis, the normal balance of powers should be maintained.",
+        "rel": "Attack"
+    },
+    {
+        "id": 78103489,
+        "Arg1": "Googles decision to stop censoring results in China was justified.",
+        "Arg2": "Google's departure from China sends a message that free speech is not necessary for a country's development.",
+        "rel": "Attack"
+    },
+    {
+        "id": 81545003,
+        "Arg1": "This House believes that debaters make better spouses.",
+        "Arg2": "Debaters are not able to see both sides of a coin.",
+        "rel": "Attack"
+    },
+    {
+        "id": 81928574,
+        "Arg1": "The Second Amendment does confer an individual right to bear arms.",
+        "Arg2": "\"The 2nd amendment does not grant an individual right to bear arms, instead 'keep' refers to a collective right to maintain a militia\"",
+        "rel": "Attack"
+    },
+    {
+        "id": 31126144,
+        "Arg1": "A cap-and-trade system is preferable to a carbon tax in reducing carbon emissions.",
+        "Arg2": "The carbon tax is less likely to result in the costs being passed on to consumers.",
+        "rel": "Attack"
+    },
+    {
+        "id": 21591013,
+        "Arg1": "Israel was justified in seizing the flotilla.",
+        "Arg2": "The intent of Gaza flotilla was humanitarian, and not provoking Israel.",
+        "rel": "Attack"
+    },
+    {
+        "id": 16776079,
+        "Arg1": "Hunting for sport is an acceptable practice.",
+        "Arg2": "\"Hunting is definitely unfair, because, all animals have their weaknesses.\" ",
+        "rel": "Attack"
+    },
+    {
+        "id": 72550236,
+        "Arg1": "The EU Constitution reform treaty is a good idea.",
+        "Arg2": "The Lisbon Treaty erodes the individual rights of EU citizens",
+        "rel": "Attack"
+    },
+    {
+        "id": 61933015,
+        "Arg1": "Cultural globalization is a force for good.",
+        "Arg2": "Globalization has a tendency to reinforce and amplify existing social and cultural norms.",
+        "rel": "Attack"
+    },
+    {
+        "id": 44566420,
+        "Arg1": "Affirmative action is good public policy.",
+        "Arg2": "Less ethnic representation at all social levels is beneficial.",
+        "rel": "Attack"
+    },
+    {
+        "id": 59740090,
+        "Arg1": "The US and NATO mission in Libya is legal and justifiable.",
+        "Arg2": "Inaction in Libya would have strengthened Arab spring",
+        "rel": "Attack"
+    },
+    {
+        "id": 35277761,
+        "Arg1": "It is justifiable for protesters and activists to break the law for the sake of their cause.",
+        "Arg2": "Violence is never a means to bringing attention to a cause.",
+        "rel": "Attack"
+    },
+    {
+        "id": 37328920,
+        "Arg1": "Communism is a sound political philosophy.",
+        "Arg2": "Individuals must collectively own no form of property through private means.",
+        "rel": "Attack"
+    },
+    {
+        "id": 15711418,
+        "Arg1": "T. Boone Pickens US energy plan is good.",
+        "Arg2": "Pickens Plan wind turbines will produce little energy.",
+        "rel": "Attack"
+    },
+    {
+        "id": 76387857,
+        "Arg1": "Crime cameras are a good idea for cities around the world and in New Orleans.",
+        "Arg2": "Cameras slow down responses to crime and injuries.",
+        "rel": "Attack"
+    },
+    {
+        "id": 96868789,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "\"Biofuel crops significantly harm food production and can actually exacerbate food shortages.\"",
+        "rel": "Attack"
+    },
+    {
+        "id": 52490010,
+        "Arg1": "Wave power is good.",
+        "Arg2": "Wave power generators will be placed in sensitive areas.",
+        "rel": "Attack"
+    },
+    {
+        "id": 50082252,
+        "Arg1": "Biofuels as a solution to global warming are good.",
+        "Arg2": "The production of biofuel will never be able to overcome the existing stumbling blocks.",
+        "rel": "Attack"
+    },
+    {
+        "id": 66159908,
+        "Arg1": "Natural gas is a good energy source for the 21st century.",
+        "Arg2": "The emissions from natural gas cannot be filtered out.",
+        "rel": "Attack"
+    },
+    {
+        "id": 65205195,
+        "Arg1": "This House believes that Facebook does more harm than good.",
+        "Arg2": "Facebook promotes constructive dialogue.",
+        "rel": "Attack"
+    },
+    {
+        "id": 40288559,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "The widespread adoption of the co-op model in health insurance has been hindered by the lack of economies of scale, making it difficult for these smaller entities to compete with the large for-profit insurance companies.",
+        "rel": "Attack"
+    },
+    {
+        "id": 93502246,
+        "Arg1": "Hillary Clinton is the better candidate than Barack Obama.",
+        "Arg2": "Clintons health care plan is not truly universal.",
+        "rel": "Attack"
+    },
+    {
+        "id": 49462369,
+        "Arg1": "Israels 2008/2009 military bombing and invasion of Gaza was justified.",
+        "Arg2": "Israel must work with the legitimate Hamas regime.",
+        "rel": "Attack"
+    },
+    {
+        "id": 32541817,
+        "Arg1": "The US is justified in unilaterally striking targets in Pakistan.",
+        "Arg2": "The Pakistani government should not tolerate a unilateral US capture of Bin Laden, if the intelligence is fleeting.",
+        "rel": "Attack"
+    },
+    {
+        "id": 90041128,
+        "Arg1": "A guest worker immigration reform program is a good idea for the United States...",
+        "Arg2": "Such a program would increase the inflow of illegal immigrants by reducing the channel for legal entry.",
+        "rel": "Attack"
+    },
+    {
+        "id": 99352267,
+        "Arg1": "Each candidate is good.",
+        "Arg2": "Jay emphasizes diminishing quality of life for Washingtonians.",
+        "rel": "Attack"
+    },
+    {
+        "id": 55851847,
+        "Arg1": "Health insurance co-ops are a good model. They are a good alternative to public insurance.",
+        "Arg2": "Co-ops are a failed model for health insurance.",
+        "rel": "Attack"
+    },
+    {
+        "id": 30583478,
+        "Arg1": "The French ban on Muslim veils in public buildings is justified.",
+        "Arg2": "Islam is a race.",
+        "rel": "Attack"
+    }
+    
+]
