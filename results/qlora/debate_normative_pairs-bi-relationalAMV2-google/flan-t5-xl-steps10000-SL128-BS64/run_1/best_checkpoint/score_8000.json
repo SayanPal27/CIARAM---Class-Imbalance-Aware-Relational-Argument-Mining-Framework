@@ -1,0 +1,12 @@
+{
+    "support_precision": 0.9427740058195926,
+    "support_recall": 0.9418604651162791,
+    "support_f1": 0.9423170140571981,
+    "attack_precision": 0.9416909620991254,
+    "attack_recall": 0.9426070038910506,
+    "attack_f1": 0.9421487603305785,
+    "none_precision": 0,
+    "none_recall": 0,
+    "none_f1": 0,
+    "macro_f1": 0.9422328871938883
+}
