@@ -29,9 +29,9 @@ parser.add_argument('--learning_rate', type=float, default=None, help="Learning 
 parser.add_argument('--max_seq_length', type=int, default=None, help="Maximum sequence length")
 parser.add_argument('--batch_size', type=int, default=None, help="Batch size for training")
 parser.add_argument('--batch_size_inference', type=int, default=None, help="Batch size for inference")
-parser.add_argument('--model_name_or_path', type=str, default=None, help="Pretrained model name or path")
+parser.add_argument('--model_name_or_path', type=str, default=None, help="Preed model name or path")
 parser.add_argument('--dataset_name', type=str, default=None, help="Name of the dataset to use")
-parser.add_argument('--train_on_both', type=bool, default=None, help="Whether to train on both train and dev sets")
+parser.add_argument('--_on_both', type=bool, default=None, help="Whether to  on both  and dev sets")
 parser.add_argument('--variant_name', type=str, default=None, help="Variant name")
 parser.add_argument('--resume_from_checkpoint', type=bool, default=None, help="Whether to resume from checkpoint")
 parser.add_argument('--test_at_checkpoint', type=bool, default=None, help="Whether to test at each checkpoint")
@@ -45,7 +45,7 @@ for key in vars(args):
         config.set('DEFAULT', key, str(value))
 
 # Extract configuration values
-do_train = config.getboolean('DEFAULT', 'do_train')
+do_ = config.getboolean('DEFAULT', 'do_')
 do_test = config.getboolean('DEFAULT', 'do_test')
 num_steps = config.getint('DEFAULT', 'num_steps')
 num_runs = config.getint('DEFAULT', 'num_runs')
@@ -56,7 +56,7 @@ batch_size = config.getint('DEFAULT', 'batch_size')
 batch_size_inference = config.getint('DEFAULT', 'batch_size_inference')
 model_name_or_path = config.get('DEFAULT', 'model_name_or_path')
 dataset_name = config.get('DEFAULT', 'dataset_name')
-train_on_both = config.getboolean('DEFAULT', 'train_on_both')
+_on_both = config.getboolean('DEFAULT', '_on_both')
 variant_name = config.get('DEFAULT', 'variant_name')
 resume_from_checkpoint = config.getboolean('DEFAULT', 'resume_from_checkpoint')
 test_at_checkpoint = config.getboolean('DEFAULT', 'test_at_checkpoint')
@@ -166,8 +166,8 @@ def main():
         print(f"Starting run {run}/{num_runs}")
 
         if do_train:
-            train_dataset = load_data("train") + load_data("dev")
-            val_dataset = load_data("test")
+            train_dataset = load_data("train")
+            val_dataset = load_data("dev")
 
             train_input_sentences, train_target_sentences = prepare_data(train_dataset)
             val_input_sentences, val_target_sentences = prepare_data(val_dataset)
