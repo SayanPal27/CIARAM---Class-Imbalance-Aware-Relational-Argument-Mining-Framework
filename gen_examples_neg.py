@@ -19,12 +19,6 @@ def generate_examples(prompt):
 def generate_counterargument(argument):
     """
     Generate a counterargument for the given argument using the Flan-T5 model.
-
-    Args:
-        argument (str): The argument for which to generate a counterargument.
-
-    Returns:
-        str: The generated counterargument.
     """
     # Format the input prompt for Flan-T5
     input_text = f"""Generate exact opposite of the following argument: {argument}  \n
